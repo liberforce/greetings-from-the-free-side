@@ -1,0 +1,11 @@
+Title: Dernière ligne droite...
+Date: 2009-02-16 02:40
+Category: Life / Vie quotidienne
+Tags: <?xml version="1.0" encoding="utf-8"?>
+
+Slug: derniere-ligne-droite
+Status: published
+
+Hé oui, cela fait un moment que je n'ai pas blogué... Entre la rénovation demon appartement et de ma vie affective les dernières semaines ont étééprouvantes, mais assez positives. Cela explique mon absence au [FOSDEM](\%22http://www.fosdem.org/\%22). Bien dommage d'ailleurs, cela m'auraitdonné une bonne bouffé d'air frais et m'aurait permis de revoir [tousces gens sympathiques](\%22http://blog.crozat.net/2009/02/did-somebody-asked-for-gnome-group.html\%22) :-).
+
+Déménagement prévu pour samedi prochain, et j'ai encore la peinture àfaire... Je vais également emménager sans cuisine, mais au moins j'aurai del'électricité et un beau parquet tout neuf :-). L'arrivée est proche, vivementque je puisse souffler un peu...

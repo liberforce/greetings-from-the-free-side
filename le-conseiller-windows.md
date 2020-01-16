@@ -1,0 +1,11 @@
+Title: Le conseiller Windows
+Date: 2007-09-26 22:22
+Category: Computers / Informatique
+Tags: <?xml version="1.0" encoding="utf-8"?>
+
+Slug: le-conseiller-windows
+Status: published
+
+N'ayant pas réussi à faire marcher le [vieux scanner](\%22/post/2007/02/20/AGFA-Snapscan-1212p-and-Linux\%22) que j'ai surles bras, je n'ai pu scanner un magnifique document publicitaire reçu lasemaine dernière. Une pièce de collection, voire même une sainte relique.  
+  
+Heureusement, une âme charitable en a parlé l'année dernière. Merci, "[Leconseiller Windows](\%22http://www.estvideo.net/dew/index/2006/03/01/661-non-ce-nest-pas-encore-le-1er-avril\%22)": depuis que je suis sous Linux je n'ai plus eu deproblème avec mon PC. Ah, qu'est ce qu'on ferait sans lui..

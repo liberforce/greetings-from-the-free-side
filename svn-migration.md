@@ -1,0 +1,33 @@
+Title: SVN migration
+Date: 2007-09-26 00:51
+Category: Computers / Informatique
+Tags: <?xml version="1.0" encoding="utf-8"?>
+
+Slug: svn-migration
+Status: published
+
+I see [lots](\%22http://blogs.gnome.org/view/mortenw/2006/12/26/0\%22)[of](\%22http://blogs.gnome.org/view/ryanl/2006/12/25/0\%22) [people](\%22http://tw.apinc.org/weblog/2006/12/26#christmas-evening-thoughts\%22)complaining about the GNOME servers migration from CVS to SVN. Hey guys, what'sthe point? That's not a big step enough for you? This has been talked about fora long time now.  
+  
+I'm personnaly using SVN at work, and, even if I don't use advanced features(i'm the only developer on the project), i've been pretty happy with it. Thefeatures I liked the most:
+
+-   *svn move* can move or rename files, without losing theirhistory
+-   *svn diff* output is format-ready for patch. No need to specifyweird options for the output format (*cvs diff -up*)
+-   svn keeps permissions on files
+-   svn keeps only stores modifications of binary files, and not the full fileeach time.
+-   the [SVNdocumentation](\%22http://svnbook.red-bean.com/en/1.2/index.html\%22) is great!
+
+Yes. I'm a really basic user of SVN. Sure. So may be the average GNOMEcontributors-wanabe.  
+Yes, I know that commiting modifications offline is great. But I mostly see theCVS-&gt;SVN migration as a first step.  
+  
+It's good for conservative people because is very close to CVS. It's good fornewcommers because it hasn't the CVS headaches (mostly the file renaming issue,and lack of directory versionning).  
+  
+And i'm really happy **I will finallly be able to browse online the GNOMEsource code without having to figure out which directory contains thesource** because the hierarchy of the project once changed and it onlycontains dead code o/. All this crap will finally be removed, and that's a goodthing.  
+  
+SVN is a big step forward. Maybe it's not as big as some may want, but it's forsure enough for me. And it surely will be better than the currentsituation.  
+  
+\[Edit\]:  
+The comment here will also give lots of good reasons: think of casualcontributors, translators, etc. who just don't want to learn a newbleeding-edge revision system. SVN addresses the problems we have**now**.  
+[http://blogs.gnome.org/view/ryanl/2006/12/25/0\#comments](\%22http://blogs.gnome.org/view/ryanl/2006/12/25/0#comments\%22)  
+  
+\[Edit 2\]: This may help too  
+[Why GNOME migratedfrom CVS to Subversion ?](\%22http://live.gnome.org/SubversionFAQ#Why_Subversion\%22)

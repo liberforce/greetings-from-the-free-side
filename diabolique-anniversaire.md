@@ -1,0 +1,15 @@
+Title: Diabolique anniversaire...
+Date: 2012-01-09 16:35
+Category: Computers / Informatique
+Tags: <?xml version="1.0" encoding="utf-8"?>
+
+Slug: diabolique-anniversaire
+Status: published
+
+C'est un peu tard pour le signaler, mais le 31 décembre 1996, Blizzard Northengendra ce monstre qu'est [Diablo](\%22http://fr.wikipedia.org/wiki/Diablo_%28jeu_vid%C3%A9o%29\%22). C'étaitil y a 15 ans. A l'époque, j'ai entendu parler du jeu sur [Micro Kids](\%22http://fr.wikipedia.org/wiki/Micro_Kid%27s\%22), une despremières émissions de télé dédiée aux jeux vidéos, dans les années 90, dont onpeut d'ailleurs retrouver de vieilles vidéos sur [abandonware-videos.org](\%22http://www.abandonware-videos.org\%22). Je n'aicommencé à jouer à Diablo que l'année suivante, une fois que j'ai eu monpremier PC (j'étais auparavant un Amigaïste [comme certains le savent peutêtre](\%22/post/2007/05/14/Tuer-du-monstre-se-relaxer\%22)). Déjà à l'époque, la sauce prenait bien. La collectionnite aigüed'armes, et d'items en tous genres dans une ambiance bien glauquefonctionnaient du tonnerre : qui n'a pas frémi devant [The Butcher](\%22http://www.dailymotion.com/video/xgel9l_hd-diablo-1-the-butcher-le-boucher_videogames\%22) et son "Ah... Fresh meat !"... Certains se rappellent de ceslongues heures passées à finir ce jeu (là où certains mettent [3 minutes 12 secondes](\%22http://speeddemosarchive.com/Diablo.html\%22)).
+
+Et puis en juin 2000, il y a eu [Diablo II](\%22http://fr.wikipedia.org/wiki/Diablo_II\%22). Peut être un poil moinsattachant, mais au moins votre personnage pouvait enfin courir plutôt que setraîner, utiliser des sets complets d'armure (c'est beau, le vert), denouvelles classes, un système de compétences complètement revu et bien d'autreschoses. C'est le seul autre jeu (le premier étant Starcraft) auquel j'ai jouéen LAN party entre potes. Ah, évidemment en te temps là j'étais jeune et sousWindows. Autre temps, autres moeurs...
+
+Depuis, [Diablo III](\%22http://fr.wikipedia.org/wiki/Diablo_III\%22) aété annoncé, est en beta test... Sans qu'on ne sache quand il sortira vraiment.Le jeu est encore plus beau, mais... toujours pour Windows et Mac OS. Bon, detoute façon, quand je vois la configuration minimale requise (dual core à4GHz), je me dis que je ne vais pas changer de machine pour un jeu. Mais il y apeut être de petits Linuxiens qui ont le matériel qu'il faut, eux. Et j'entendsleurs grosses larmes perler le long de leurs joues... Pour ce profil rare etatypique qu'est le *linuxien-gamer*, un espoir subsiste pourtant: DiabloI et II étaient tout de même plus ou moins jouables sous [WINE](\%22http://fr.wikipedia.org/wiki/WINE\%22), alors qu'en est-il de Diablo III? Hé bien [DiabloIII semble fonctionnel sous Linux](\%22http://osarena.org/linux/opensuse/how-to-play-diablo-3-in-opensuse.html\%22), toujours via WINE. Bien des nuitsblanches (autant pour l'installer que pour jouer j'imagine :-p) et desdestructions de souris en perspectives\^\^.
+
+En prime, Blizzard nous offre une petite [rétrospective Diablo](\%22http://eu.battle.net/d3/fr/game/anniversary/\%22) (àdéfaut d'une date de sortie).
