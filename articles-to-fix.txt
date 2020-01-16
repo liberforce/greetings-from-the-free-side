@@ -171,4 +171,3 @@ why-liberforce-oh-why.md
 windows-linux-thoughts.md
 yahoo-answers-and-the-infinite-dumbness.md
 you-like-linux-tell-it-to-the-world.md
-you-sexy-thing.md

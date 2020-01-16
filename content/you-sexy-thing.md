@@ -1,7 +1,7 @@
 Title: You sexy thing...
 Date: 2007-09-26 21:59
 Category: Gossip / Blabla
-Tags: langue
+Tags:
 Lang: fr
 Slug: you-sexy-thing
 Status: published
