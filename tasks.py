@@ -38,6 +38,12 @@ def clean(c):
 
 
 @task
+def format(c):
+    """Format python code always with the same coding conventions"""
+    c.run("black *.py")
+
+
+@task
 def build(c):
     """Build local version of site"""
     c.run("pelican -s {settings_base}".format(**CONFIG))
