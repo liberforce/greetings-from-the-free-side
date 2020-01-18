@@ -1,7 +1,7 @@
 Title: FOSDEM 2013
 Date: 2013-01-30 03:18
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: fosdem-2013
 Status: published

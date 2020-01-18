@@ -1,7 +1,7 @@
 Title: Call me back, Mr Society...
 Date: 2007-09-26 01:14
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: call-me-back-mr-society
 Status: published

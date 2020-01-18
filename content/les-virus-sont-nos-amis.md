@@ -1,7 +1,7 @@
 Title: Les virus sont nos amis
 Date: 2008-04-05 01:15
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: les-virus-sont-nos-amis
 Status: published

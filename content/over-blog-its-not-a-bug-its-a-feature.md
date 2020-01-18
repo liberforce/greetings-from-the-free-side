@@ -1,7 +1,7 @@
 Title: Over-blog: It's not a bug, it's a feature...
 Date: 2007-09-26 21:39
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: over-blog-its-not-a-bug-its-a-feature
 Status: published

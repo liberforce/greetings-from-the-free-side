@@ -1,7 +1,7 @@
 Title: Sondage: quel nom de domaine choisir ?
 Date: 2007-09-26 21:35
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: sondage-quel-nom-de-domaine-choisir
 Status: published

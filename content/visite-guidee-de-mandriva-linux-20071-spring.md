@@ -1,7 +1,7 @@
 Title: Visite guidée de Mandriva Linux 2007.1 (Spring)
 Date: 2007-10-01 17:42
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: visite-guidee-de-mandriva-linux-20071-spring
 Status: published

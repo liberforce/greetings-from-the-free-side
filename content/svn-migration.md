@@ -1,7 +1,7 @@
 Title: SVN migration
 Date: 2007-09-26 00:51
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: svn-migration
 Status: published

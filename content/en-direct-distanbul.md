@@ -1,7 +1,7 @@
 Title: En dırect d'Istanbul
 Date: 2008-07-07 08:08
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: en-direct-distanbul
 Status: published

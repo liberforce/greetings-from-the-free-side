@@ -1,7 +1,7 @@
 Title: Culture Geek
 Date: 2007-09-26 23:10
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: culture-geek
 Status: published

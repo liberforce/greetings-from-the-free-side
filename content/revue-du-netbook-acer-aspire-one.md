@@ -1,7 +1,7 @@
 Title: Revue du netbook Acer Aspire One
 Date: 2008-07-23 21:04
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: revue-du-netbook-acer-aspire-one
 Status: published

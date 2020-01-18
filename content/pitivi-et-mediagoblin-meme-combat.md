@@ -1,7 +1,7 @@
 Title: Pitivi et MediaGoblin, même combat !
 Date: 2014-03-30 22:50
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: pitivi-et-mediagoblin-meme-combat
 Status: published

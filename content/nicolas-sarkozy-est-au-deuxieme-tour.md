@@ -1,7 +1,7 @@
 Title: Nicolas Sarkozy est au deuxième tour...
 Date: 2007-10-01 17:33
 Category: Politics / Politique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: nicolas-sarkozy-est-au-deuxieme-tour
 Status: published

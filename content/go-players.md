@@ -1,7 +1,7 @@
 Title: Go players ?
 Date: 2008-08-09 09:04
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: go-players
 Status: published

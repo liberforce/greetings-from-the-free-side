@@ -1,7 +1,7 @@
 Title: GNOME Fr33 !
 Date: 2011-04-07 19:02
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: gnome-fr33
 Status: published

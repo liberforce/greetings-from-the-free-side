@@ -1,7 +1,7 @@
 Title: Grep updated in Mandriva 2009.0
 Date: 2008-10-22 16:16
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: grep-updated-in-mandriva-20090
 Status: published

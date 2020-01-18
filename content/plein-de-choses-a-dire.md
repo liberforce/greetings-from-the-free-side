@@ -1,7 +1,7 @@
 Title: Plein de choses à dire...
 Date: 2007-09-26 22:33
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: plein-de-choses-a-dire
 Status: published

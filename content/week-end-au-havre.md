@@ -1,7 +1,7 @@
 Title: Week end au Havre
 Date: 2007-09-26 22:39
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: week-end-au-havre
 Status: published

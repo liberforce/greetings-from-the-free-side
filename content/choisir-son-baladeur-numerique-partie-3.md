@@ -1,7 +1,7 @@
 Title: Choisir son baladeur numérique - partie 3
 Date: 2007-10-26 00:01
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: choisir-son-baladeur-numerique-partie-3
 Status: published

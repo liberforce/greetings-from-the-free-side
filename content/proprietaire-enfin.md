@@ -1,7 +1,7 @@
 Title: Propriétaire... Enfin !
 Date: 2008-10-11 00:17
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: proprietaire-enfin
 Status: published

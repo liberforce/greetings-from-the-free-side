@@ -1,7 +1,7 @@
 Title: AGFA Snapscan 1212p and Linux
 Date: 2007-09-26 22:24
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: agfa-snapscan-1212p-and-linux
 Status: published

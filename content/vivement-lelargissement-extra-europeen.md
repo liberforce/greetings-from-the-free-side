@@ -1,7 +1,7 @@
 Title: Vivement l'élargissement extra-européen !
 Date: 2007-09-26 21:57
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: vivement-lelargissement-extra-europeen
 Status: published

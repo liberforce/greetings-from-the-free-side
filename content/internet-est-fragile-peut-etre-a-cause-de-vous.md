@@ -1,7 +1,7 @@
 Title: Internet est fragile... Peut être à cause de vous !
 Date: 2007-09-26 22:36
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: internet-est-fragile-peut-etre-a-cause-de-vous
 Status: published

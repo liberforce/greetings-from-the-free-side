@@ -1,7 +1,7 @@
 Title: White and Nerdy
 Date: 2007-10-17 23:57
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: white-and-nerdy
 Status: published

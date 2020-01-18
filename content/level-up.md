@@ -1,7 +1,7 @@
 Title: Level up
 Date: 2008-10-14 09:33
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: level-up
 Status: published

@@ -1,7 +1,7 @@
 Title: J'aimerais être une petite souris...
 Date: 2007-10-01 17:31
 Category: Politics / Politique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: jaimerais-etre-une-petite-souris
 Status: published

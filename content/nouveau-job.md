@@ -1,7 +1,7 @@
 Title: Nouveau job !
 Date: 2013-10-25 14:01
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: nouveau-job
 Status: published

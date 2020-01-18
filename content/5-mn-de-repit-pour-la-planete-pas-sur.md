@@ -1,7 +1,7 @@
 Title: 5 mn de répit pour la planète ? Pas sûr...
 Date: 2007-09-26 01:02
 Category: Ecology  / Ecologie
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: 5-mn-de-repit-pour-la-planete-pas-sur
 Status: published

@@ -1,7 +1,7 @@
 Title: Sélection Jamendo de la semaine
 Date: 2007-09-26 21:55
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: selection-jamendo-de-la-semaine
 Status: published

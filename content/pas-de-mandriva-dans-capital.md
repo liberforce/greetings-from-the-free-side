@@ -1,7 +1,7 @@
 Title: Pas de Mandriva dans Capital...
 Date: 2008-09-08 00:19
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: pas-de-mandriva-dans-capital
 Status: published

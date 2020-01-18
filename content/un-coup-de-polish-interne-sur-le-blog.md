@@ -1,7 +1,7 @@
 Title: Un coup de polish (interne) sur le blog
 Date: 2007-09-26 22:42
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: un-coup-de-polish-interne-sur-le-blog
 Status: published

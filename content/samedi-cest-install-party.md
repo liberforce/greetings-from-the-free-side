@@ -1,7 +1,7 @@
 Title: Samedi, c'est install party !
 Date: 2009-11-26 22:49
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: samedi-cest-install-party
 Status: published

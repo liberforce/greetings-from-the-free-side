@@ -1,7 +1,7 @@
 Title: SFR: Têtes à claques, ça c'est sûr...
 Date: 2007-09-26 01:20
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: sfr-tetes-a-claques-ca-cest-sur
 Status: published

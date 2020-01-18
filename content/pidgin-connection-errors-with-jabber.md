@@ -1,7 +1,7 @@
 Title: Pidgin connection errors with jabber
 Date: 2008-04-01 19:50
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: pidgin-connection-errors-with-jabber
 Status: published

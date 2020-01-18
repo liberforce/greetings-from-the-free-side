@@ -1,7 +1,7 @@
 Title: Finding good food at A Coruña
 Date: 2012-07-30 11:16
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: finding-good-food-at-a-coruna
 Status: published

@@ -1,7 +1,7 @@
 Title: Tacle en règle (?)
 Date: 2007-11-26 16:14
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: tacle-en-regle
 Status: published

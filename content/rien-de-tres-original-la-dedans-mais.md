@@ -1,7 +1,7 @@
 Title: Rien de très original là dedans, mais...
 Date: 2012-07-23 00:12
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: rien-de-tres-original-la-dedans-mais
 Status: published

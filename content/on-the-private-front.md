@@ -1,7 +1,7 @@
 Title: On the private front...
 Date: 2010-04-03 01:46
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: on-the-private-front
 Status: published

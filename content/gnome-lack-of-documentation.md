@@ -1,7 +1,7 @@
 Title: GNOME lack of documentation
 Date: 2007-09-26 23:01
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: gnome-lack-of-documentation
 Status: published

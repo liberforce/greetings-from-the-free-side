@@ -1,7 +1,7 @@
 Title: Why I don't use Beryl/Compiz
 Date: 2007-09-26 01:08
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: why-i-dont-use-berylcompiz
 Status: published

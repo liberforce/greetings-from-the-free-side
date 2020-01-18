@@ -1,7 +1,7 @@
 Title: Yahoo answers and the infinite dumbness....
 Date: 2007-09-26 00:40
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: yahoo-answers-and-the-infinite-dumbness
 Status: published

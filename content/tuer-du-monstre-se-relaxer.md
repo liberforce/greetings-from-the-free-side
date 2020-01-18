@@ -1,7 +1,7 @@
 Title: Tuer du monstre, se relaxer...
 Date: 2007-09-26 21:58
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: tuer-du-monstre-se-relaxer
 Status: published

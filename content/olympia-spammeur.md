@@ -1,7 +1,7 @@
 Title: Olympia = spammeur
 Date: 2008-07-23 19:44
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: olympia-spammeur
 Status: published

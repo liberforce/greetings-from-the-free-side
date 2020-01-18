@@ -1,7 +1,7 @@
 Title: git-bz and Firefox
 Date: 2012-07-30 15:50
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: git-bz-and-firefox
 Status: published

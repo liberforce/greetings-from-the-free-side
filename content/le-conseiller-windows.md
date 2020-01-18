@@ -1,7 +1,7 @@
 Title: Le conseiller Windows
 Date: 2007-09-26 22:22
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: le-conseiller-windows
 Status: published

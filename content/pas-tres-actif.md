@@ -1,7 +1,7 @@
 Title: Pas très actif
 Date: 2008-01-19 02:24
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: pas-tres-actif
 Status: published

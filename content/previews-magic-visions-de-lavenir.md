@@ -1,7 +1,7 @@
 Title: Previews Magic: Visions de l'avenir
 Date: 2007-10-01 17:28
 Category: Life / Vie quotidienne
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: previews-magic-visions-de-lavenir
 Status: published

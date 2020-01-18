@@ -1,7 +1,7 @@
 Title: La presse française fustige Ubuntu au parlement !
 Date: 2007-10-05 10:19
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: la-presse-francaise-fustige-ubuntu-au-parlement
 Status: published

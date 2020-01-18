@@ -1,7 +1,7 @@
 Title: Déprime publicitaire
 Date: 2007-11-29 23:38
 Category: Gossip / Blabla
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: deprime-publicitaire
 Status: published

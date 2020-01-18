@@ -1,7 +1,7 @@
 Title: Diabolique anniversaire...
 Date: 2012-01-09 16:35
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: diabolique-anniversaire
 Status: published

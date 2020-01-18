@@ -1,7 +1,7 @@
 Title: Mandriva on the boot time front
 Date: 2008-09-30 00:23
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: mandriva-on-the-boot-time-front
 Status: published

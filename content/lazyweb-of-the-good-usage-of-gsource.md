@@ -1,7 +1,7 @@
 Title: Lazyweb: of the good usage of GSource...
 Date: 2008-02-21 18:20
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: lazyweb-of-the-good-usage-of-gsource
 Status: published

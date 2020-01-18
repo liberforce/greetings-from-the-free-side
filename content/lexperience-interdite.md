@@ -1,7 +1,7 @@
 Title: L'expérience interdite...
 Date: 2008-10-11 01:44
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: lexperience-interdite
 Status: published

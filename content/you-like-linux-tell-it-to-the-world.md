@@ -1,7 +1,7 @@
 Title: You like Linux ? Tell it to the world !
 Date: 2010-04-07 14:08
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: you-like-linux-tell-it-to-the-world
 Status: published

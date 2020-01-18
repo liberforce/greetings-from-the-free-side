@@ -1,7 +1,7 @@
 Title: Sysprof sous Mandriva 2007.0
 Date: 2007-09-26 22:58
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: sysprof-sous-mandriva-20070
 Status: published

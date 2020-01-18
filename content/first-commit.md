@@ -1,7 +1,7 @@
 Title: First commit!
 Date: 2009-06-14 02:29
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: first-commit
 Status: published

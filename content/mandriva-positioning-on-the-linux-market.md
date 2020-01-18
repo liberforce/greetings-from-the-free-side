@@ -1,7 +1,7 @@
 Title: Mandriva positioning on the Linux market
 Date: 2008-04-21 22:59
 Category: Computers / Informatique
-Tags: <?xml version="1.0" encoding="utf-8"?>
+Tags:
 
 Slug: mandriva-positioning-on-the-linux-market
 Status: published
