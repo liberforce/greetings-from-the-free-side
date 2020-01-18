@@ -6,4 +6,4 @@ Lang: en
 Slug: guadec-2007-the-offline-desktop
 Status: published
 
-![\\"\\"](\%22/public/guadec/2007/offline-desktop.png\%22)
+![\\"\\"](/public/guadec/2007/offline-desktop.png)

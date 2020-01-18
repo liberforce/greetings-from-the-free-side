@@ -6,7 +6,7 @@ Lang: fr
 Slug: pas-de-mandriva-dans-capital
 Status: published
 
-Il y a quelques semaines, l'émission Capital de M6 était venue tourner des[imagesdu Gdium dans les locaux de Mandriva](\%22http://blog.mandriva.com/2008/07/17/m6-en-exclusivite-chez-mandriva/\%22), pour leur sujet sur les netbooks.Manque de chance, [il semble](\%22http://linuxfr.org/%7Esebastienb/27169.html\%22) (j'ai raté lereportage) que les images soient passées à la trappe, et que Linux n'ait pasété cité une seule fois dans le reportage... alors que c'est un facteur debaisse de prix, et que c'est une des raisons du succès de ces machines.
+Il y a quelques semaines, l'émission Capital de M6 était venue tourner des[imagesdu Gdium dans les locaux de Mandriva](http://blog.mandriva.com/2008/07/17/m6-en-exclusivite-chez-mandriva/), pour leur sujet sur les netbooks.Manque de chance, [il semble](http://linuxfr.org/%7Esebastienb/27169.html) (j'ai raté lereportage) que les images soient passées à la trappe, et que Linux n'ait pasété cité une seule fois dans le reportage... alors que c'est un facteur debaisse de prix, et que c'est une des raisons du succès de ces machines.
 
 **Mise à jour:**
 

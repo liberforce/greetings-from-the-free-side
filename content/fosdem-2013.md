@@ -6,6 +6,6 @@ Lang: en
 Slug: fosdem-2013
 Status: published
 
-This year again, I will visit some good friends in Brussels. Yes, I'm goingto [FOSDEM 2013](\%22https://fosdem.org/2013/\%22) ;-). Goodto meet with the GNOME French conspiracy again… I just need not to forget theGNOME posters from last year…
+This year again, I will visit some good friends in Brussels. Yes, I'm goingto [FOSDEM 2013](https://fosdem.org/2013/) ;-). Goodto meet with the GNOME French conspiracy again… I just need not to forget theGNOME posters from last year…
 
 Oh, BTW, I'm looking for an application developer and/or integrator job,ideally using GNOME technologies like GTK+, cairo, etc., and C/C++/pythonlanguages. I'm based near Paris, France. Feel free to post here if you havesuch opportunities to share!

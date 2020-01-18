@@ -15,7 +15,7 @@ J'ai pu avoir après 3 coups de fils quelqu'un d'un peu plus compréhensif. Età
 
 Est-ce que le dossier créé était uniquement pour créer une trace ?Personnellement je n'ai pas eu envie d'attendre 48h si l'on me contactait, vuque je ne vois pas pourquoi on me contacterait pour un dossier clos...
 
-J'ai donc contacté cette fois ci le service réclamations, comme me l'avaitindiqué le hotliner, par le biais du [formulaire deréclamation du site HP](\%22http://h41087.www4.hp.com/aide/ecrire_reclamations.html\%22)., en rappelant mon n° de dossier fraîchementcréé/fermé.
+J'ai donc contacté cette fois ci le service réclamations, comme me l'avaitindiqué le hotliner, par le biais du [formulaire deréclamation du site HP](http://h41087.www4.hp.com/aide/ecrire_reclamations.html)., en rappelant mon n° de dossier fraîchementcréé/fermé.
 
 > N° de dossier: 1602863558  
 > Bonjour,  
@@ -27,6 +27,6 @@ J'espère avoir des nouvelles demain. Je leur ai demandé de me contacter enprio
 
 **Mise à jour:**
 
-J'ai vérifié sur le site de [suivi d'envois de la poste](\%22http://www.csuivi.courrier.laposte.fr/\%22) que monrecommandé avait bien été reçu, même si je n'ai pas reçu l'avis de réception.Mais j'en ai profité pour renvoyer un fax au service réclamation avec mademande de remboursement, la facture, l'avis d'expédition du recommandé etl'avis de réception imprimé sur le site de la Poste. Cela prouve ainsi que touta été envoyé dans les temps (HP impose un délai de 14 jours pour faire ademande).
+J'ai vérifié sur le site de [suivi d'envois de la poste](http://www.csuivi.courrier.laposte.fr/) que monrecommandé avait bien été reçu, même si je n'ai pas reçu l'avis de réception.Mais j'en ai profité pour renvoyer un fax au service réclamation avec mademande de remboursement, la facture, l'avis d'expédition du recommandé etl'avis de réception imprimé sur le site de la Poste. Cela prouve ainsi que touta été envoyé dans les temps (HP impose un délai de 14 jours pour faire ademande).
 
 J'ai entre temps (après avoir imprimé tous les papiers, mais avant d'avoirenvoyé le fax), vu que HP avait répondu à ma demande par mail d'hier, me disantqu'elle serait traitée dans les plus brefs délais. Ils ont un formulaire où ilsme demandent mon nom, mais arrivent quand même à l'écorcher dans le mail. Celasignifie au moins qu'un humain a lu ma demande, et que tout n'est pasautomatisé. Il faudra quand même que l'on m'explique aussi pourquoi  dansleur formulaire le nom de ma société est obligatoire, alors que je suis unparticulier ?

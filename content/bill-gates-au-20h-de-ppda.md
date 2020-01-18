@@ -6,7 +6,7 @@ Lang: fr
 Slug: bill-gates-au-20h-de-ppda
 Status: published
 
-Ecoutez donc l'[interview de Bill Gates sur le 20Hde TF1](\%22http://www.youtube.com/watch?v=tNlXZwDQvfM\%22) de la semaine dernière...  
+Ecoutez donc l'[interview de Bill Gates sur le 20Hde TF1](http://www.youtube.com/watch?v=tNlXZwDQvfM) de la semaine dernière...  
   
 On peut difficilement concentrer autant de désinformation en si peu de temps. Ase demander si PPDA et le journaliste qui a fait le reportage se sontdocumentés avant l'interview de l'homme le plus riche du monde.  
   
@@ -24,7 +24,7 @@ Alors il faudra m'expliquer ce qu'il y a de nouveau dans le fait que Vistarécup
 Ensuite, PPDA nous montre à quel point il s'est renseigné sur l'invité:  
 On présente Bill Gates comme un apôtre qui distribue son argent aux plusdémunis, et aide à la vaincre de terribles maladies avec sa fondation.  
   
-Pourtant un article du 7 janvier 2007 du [Los Angeles Times sur les placements douteux de la fondation Gates](\%22http://www.latimes.com/news/nationworld/nation/la-na-gatesx07jan07,0,4205044,full.story?coll=la-home-headlines\%22) auraitpu le mettre sur la voie sur la schyzophrénie de Gates: sa fondation investitdans la recherche contre les maladies tout en prenant des parts dans les plusgros pollueurs mondiaux (notamment les groupes pétroliers) Voici un résumé enfrançais de l'article sur [Les placementsdouteux de la fondation Gates](\%22http://forums.acbm.com/acbm/forum/viewthread?thread=369\%22).  
+Pourtant un article du 7 janvier 2007 du [Los Angeles Times sur les placements douteux de la fondation Gates](http://www.latimes.com/news/nationworld/nation/la-na-gatesx07jan07,0,4205044,full.story?coll=la-home-headlines) auraitpu le mettre sur la voie sur la schyzophrénie de Gates: sa fondation investitdans la recherche contre les maladies tout en prenant des parts dans les plusgros pollueurs mondiaux (notamment les groupes pétroliers) Voici un résumé enfrançais de l'article sur [Les placementsdouteux de la fondation Gates](http://forums.acbm.com/acbm/forum/viewthread?thread=369).  
   
 PPDA nous montre ensuite qu'il s'y connait dans l'histoire del'informatique:  
 
@@ -40,9 +40,9 @@ Quand on sait qu'il parle à l'homme qui n'a pas cru à Internet, et qui n'aint�
 Par contre, pour ce qui est du businessman, je confirme. Mais Microsoft n'apratiquement jamais innové, juste "emprunté" les technologies développés parles autres, comme souvent en informatique.  
   
 Si vous avez du temps, je vous conseille à ce sujet cette excellente série dereportages sur l'histoire de l'informatique (3 x 45mn):  
-[Les cinglés de l'informatique (partie 1)](\%22http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech\%22)  
-[Les cinglés de l'informatique (partie 2)](\%22http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech\%22)  
-[Les cinglés de l'informatique (partie 3)](\%22http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech\%22)  
+[Les cinglés de l'informatique (partie 1)](http://www.dailymotion.com/relevance/search/informatique/video/xwx6o_les-cingles-de-linformatique-part1_tech)  
+[Les cinglés de l'informatique (partie 2)](http://www.dailymotion.com/relevance/search/informatique/video/xx27w_les-cingles-de-linformatique-part2_tech)  
+[Les cinglés de l'informatique (partie 3)](http://www.dailymotion.com/relevance/search/informatique/video/xwxwk_les-cingles-de-linformatique-part3_tech)  
   
 Je vous laisse méditer sur cette pensée de Joseph Stiglitz, prix Nobeld'économie, dans une entrevue de Liberation:
 
@@ -54,4 +54,4 @@ Gates, comme Rockfeller, utilise l'argent de son monopole illégal pour debonnes
 
 </div>
 
-[« *Lelibre accès au savoir tient du bien public mondial* »](\%22http://www.liberation.fr/actualite/economie/204050.FR.php\%22)
+[« *Lelibre accès au savoir tient du bien public mondial* »](http://www.liberation.fr/actualite/economie/204050.FR.php)

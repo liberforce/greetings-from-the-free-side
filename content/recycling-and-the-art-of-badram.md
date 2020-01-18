@@ -15,9 +15,9 @@ One of the ways I like to help is giving a second life to computers. Whilehelpin
 -   128MB SDRAM PC100
 -   2x 32 MB SDRAM PC100
 
-2\. Test the RAM with the [memtest](\%22http://www.memtest.org/\%22) programshipped with [System Rescue CD](\%22http://www.sysresccd.org/\%22)  
+2\. Test the RAM with the [memtest](http://www.memtest.org/) programshipped with [System Rescue CD](http://www.sysresccd.org/)  
 3. See that the 128MB module can't run at 100MHz, that one of the 32MB moduleshas one error, and that only one is really working.  
-4. Learn about the [BadRAM](\%22http://rick.vanrein.org/linux/badram/\%22)kernel patch, that allows you to use deffective RAM modules; learn that theMandriva kernel has been using this patch for a long time (since Mandrake 9.2AFAIR).  
+4. Learn about the [BadRAM](http://rick.vanrein.org/linux/badram/)kernel patch, that allows you to use deffective RAM modules; learn that theMandriva kernel has been using this patch for a long time (since Mandrake 9.2AFAIR).  
 5. Install Mandriva 2007 with the task-gnome-minimal package  
 6. Tune it to use the least memory I could (beware: net\_applet seems to be is amemory hog)  
   
@@ -27,4 +27,4 @@ Seeing a Pentium II 400MHz running GNOME on 128MB of RAM, with a defective RAMmo
   
 ]{.\"hitimportant\"}**Edit:  
 I found a picture of my memcheck experiments on 128MB module. There was so manyerrors that I wanted to make sure I had copied them all :-) . Memcheck has anoption to give error in the form of BadRAM patterns. This is the one shownhere. That's a comma separated list of *address,mask* couples. In thisexample, there was so many errors, that I couldn't use this module, as thekernel would not accept that many arguments at boot time. But I couldunderclock this 100MHz SDRAM, using it in a slower machine (one that wasrunning 66MHz SDRAM). Memtest confirmed that it would work.  
-![\\"\\"](\%22/public/vrac/memcheck.jpg\%22)  
+![\\"\\"](/public/vrac/memcheck.jpg)  

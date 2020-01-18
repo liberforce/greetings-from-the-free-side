@@ -6,7 +6,7 @@ Lang: en
 Slug: recycling-an-old-machine-for-gcompris-part-2
 Status: published
 
-For those who don't know what I'm talking about, here is [part1](\%22/post/2007/01/09/Recycling-an-old-machine-for-gcompris-part-1\%22).  
+For those who don't know what I'm talking about, here is [part1](/post/2007/01/09/Recycling-an-old-machine-for-gcompris-part-1).  
   
 Well, after numerous badblocks attempts, I've seem that badblocks was trickingme. I first thought that some block of the hard disk were dead. But in fact, itwas only parts on the previous display that weren't deleted. The disk was okafter all.  
   

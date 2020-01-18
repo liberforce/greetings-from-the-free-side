@@ -15,8 +15,8 @@ I wish you a good health, because everyone needs it. Then love, money, an newshi
 [I wish you all thebest for 2007 !]{.\"hitimportant\"}  
   
   
-![\\"\\"](\%22http://idata.over-blog.com/0/50/48/55/santa.png\%22){.\"CtreTexte\" width="\"421\"" height="\"329\""}  
-Credits: [Johann"nojhan" Dréo](\%22http://www.nojhan.net/geekscottes/index.php?strip=34\%22)  
-Licence: [CreativeCommons BY-ShareAlike](\%22http://creativecommons.org/licenses/by-sa/2.0/\%22)
+![\\"\\"](http://idata.over-blog.com/0/50/48/55/santa.png){.\"CtreTexte\" width="\"421\"" height="\"329\""}  
+Credits: [Johann"nojhan" Dréo](http://www.nojhan.net/geekscottes/index.php?strip=34)  
+Licence: [CreativeCommons BY-ShareAlike](http://creativecommons.org/licenses/by-sa/2.0/)
 
 </div>

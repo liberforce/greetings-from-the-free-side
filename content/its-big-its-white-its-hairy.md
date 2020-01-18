@@ -6,6 +6,6 @@ Lang: en
 Slug: its-big-its-white-its-hairy
 Status: published
 
-It's [Big BuckBunny](\%22http://www.bigbuckbunny.org/index.php/download/\%22) !
+It's [Big BuckBunny](http://www.bigbuckbunny.org/index.php/download/) !
 
 Enjoy !

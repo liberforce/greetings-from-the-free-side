@@ -9,27 +9,27 @@ Status: published
 Au départ, il y a toujours un truc qui gratte...
 ------------------------------------------------
 
-Je suis actuellement à la recherche actuellement d'un cadeau d'anniversairepour ma chérie (faudrait que je me grouille quand même, c'était il y a 2semaines :-( ). Et je sais ce que je veux lui offrir: un [baladeur numérique](\%22http://fr.wikipedia.org/wiki/Baladeur_num%C3%A9rique\%22),plus communément appelé "baladeur MP3", bien que cela soit fort réducteur (quelbaladeur lit uniquement du MP3 de nos jours) ? Comme référence pour mon choix,j'ai le mien: je possède actullement un baladeur [Samsung YP-MT6X](\%22http://www.samsung.com/ca/products/digitalaudioproducts/digitalmediaplayer/yp_mt6xxac.asp\%22).
+Je suis actuellement à la recherche actuellement d'un cadeau d'anniversairepour ma chérie (faudrait que je me grouille quand même, c'était il y a 2semaines :-( ). Et je sais ce que je veux lui offrir: un [baladeur numérique](http://fr.wikipedia.org/wiki/Baladeur_num%C3%A9rique),plus communément appelé "baladeur MP3", bien que cela soit fort réducteur (quelbaladeur lit uniquement du MP3 de nos jours) ? Comme référence pour mon choix,j'ai le mien: je possède actullement un baladeur [Samsung YP-MT6X](http://www.samsung.com/ca/products/digitalaudioproducts/digitalmediaplayer/yp_mt6xxac.asp).
 
 Je recherche donc la perle rare, un baladeur à base de mémoire flash, et quiremplirait pour un budget raisonnable (200€ max) les fonctions suivantes, de laplus prioritaire à la moins prioritaire:
 
 1.  Compatible Linux
-2.  Compatible [Ogg](\%22http://fr.wikipedia.org/wiki/Ogg\%22)/[Vorbis](\%22http://fr.wikipedia.org/wiki/Vorbis\%22)
+2.  Compatible [Ogg](http://fr.wikipedia.org/wiki/Ogg)/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis)
 3.  A base de mémoire flash
 4.  Reconnu comme une clé USB
 5.  Bonne autonomie (si possible + de 15 h)
 6.  Capacité de 2 Go ou plus
-7.  Gère les [métadonnées](\%22http://fr.wikipedia.org/wiki/ID3\%22) MP3 et OGG/Vorbis
-8.  Gère l'encodage [UTF-8](\%22http://fr.wikipedia.org/wiki/UTF-8\%22)
+7.  Gère les [métadonnées](http://fr.wikipedia.org/wiki/ID3) MP3 et OGG/Vorbis
+8.  Gère l'encodage [UTF-8](http://fr.wikipedia.org/wiki/UTF-8)
 9.  Utilise des piles plutôt qu'une batterie interne
 
 Quelques justifications de ces besoins:**  
 **
 ------------------------------------------
 
-**Compatible Linux:** indispensable, ma copine a migré sous[Mandriva Linux](\%22http://www.mandriva.com\%22)/[GNOME](\%22http://www.gnome.org\%22) depuis plus d'un an.
+**Compatible Linux:** indispensable, ma copine a migré sous[Mandriva Linux](http://www.mandriva.com)/[GNOME](http://www.gnome.org) depuis plus d'un an.
 
-**Compatible OGG/Vorbis:** c'est une solution de confort, cartoute la musique que j'ai téléchargé sur [Jamendo](\%22http://www.jamendo.com\%22) utilise ce format libre.
+**Compatible OGG/Vorbis:** c'est une solution de confort, cartoute la musique que j'ai téléchargé sur [Jamendo](http://www.jamendo.com) utilise ce format libre.
 
 **A base de mémoire flash:** ce sont les plus compacts, mêmes'ils offrent moins de capacité de stockage que les modèles à disque dur. Ilssont moins sensibles au chocs aussi (pas de mécanique, que del'électronique).
 
@@ -37,13 +37,13 @@ Quelques justifications de ces besoins:**
 
 Il existe actuellement 2 manières de transférer des fichiers sur unbaladeur:
 
--   via le protocole [MTP](\%22http://en.wikipedia.org/wiki/Media_Transfer_Protocol\%22)
--   via l'[UMS](\%22http://en.wikipedia.org/wiki/USB_mass_storage_device_class\%22) (USB MassStorage)
+-   via le protocole [MTP](http://en.wikipedia.org/wiki/Media_Transfer_Protocol)
+-   via l'[UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class) (USB MassStorage)
 
 Le protocole MTP pose plusieurs problèmes:
 
 -   Il requiert l'utilisation de Microsoft Windows (XP au minimum) et WindowsMedia Player 10
--   Il utilise le monopole Windows pour imposer MTP et Janus, le système de[DRM](\%22http://fr.wikipedia.org/wiki/Gestion_num%C3%A9rique_des_droits\%22) madein Microsoft
+-   Il utilise le monopole Windows pour imposer MTP et Janus, le système de[DRM](http://fr.wikipedia.org/wiki/Gestion_num%C3%A9rique_des_droits) madein Microsoft
 -   Il empêche d'autres systèmes d'exploitation comme Linux ou Mac OS depouvoir communiquer simplement avec le baladeur
 -   La bibliothèque libmtp sous Linux permet la communication avec lespériphériques MTP, mais elle est en cours de développement et ne gèrera doncpas forcément votre modèle de baladeur
 -   Il est presque obligatoire de passer par un logiciel externe pourtransférer des fichiers sur le baladeur. Si vous êtes en déplacement, vousn'aurez pas forcément la configuration adéquate sous la main.

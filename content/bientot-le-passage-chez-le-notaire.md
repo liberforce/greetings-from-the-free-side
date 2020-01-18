@@ -6,7 +6,7 @@ Lang: fr
 Slug: bientot-le-passage-chez-le-notaire
 Status: published
 
-Bientôt la délivrance ? Pas sûr. Il y a eu pas mal de complications depuisque j'ai signé le compromis de vente de l'achat de mon appartement. Surtout lespetites lignes qu'on se demande si on les a vraiment lues avant de signer...J'ai pu me rendre compte (trop tard) que j'ai effectivement signé une[clause de non garantie des vices cachés](\%22http://www.paruvendu.fr/I/Immobilier-ancien-les-recours-en-cas-de-vices-caches\%22). Et en plus, c'est légal. J'espèredonc que beau papa se fait du souci à tort en se demandant si le plancher n'estpas pourri.
+Bientôt la délivrance ? Pas sûr. Il y a eu pas mal de complications depuisque j'ai signé le compromis de vente de l'achat de mon appartement. Surtout lespetites lignes qu'on se demande si on les a vraiment lues avant de signer...J'ai pu me rendre compte (trop tard) que j'ai effectivement signé une[clause de non garantie des vices cachés](http://www.paruvendu.fr/I/Immobilier-ancien-les-recours-en-cas-de-vices-caches). Et en plus, c'est légal. J'espèredonc que beau papa se fait du souci à tort en se demandant si le plancher n'estpas pourri.
 
 C'est à ajouter aux petites surprises qui se sont accumulées:
 

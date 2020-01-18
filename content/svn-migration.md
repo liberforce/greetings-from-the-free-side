@@ -6,7 +6,7 @@ Lang: fr
 Slug: svn-migration
 Status: published
 
-I see [lots](\%22http://blogs.gnome.org/view/mortenw/2006/12/26/0\%22)[of](\%22http://blogs.gnome.org/view/ryanl/2006/12/25/0\%22) [people](\%22http://tw.apinc.org/weblog/2006/12/26#christmas-evening-thoughts\%22)complaining about the GNOME servers migration from CVS to SVN. Hey guys, what'sthe point? That's not a big step enough for you? This has been talked about fora long time now.  
+I see [lots](http://blogs.gnome.org/view/mortenw/2006/12/26/0)[of](http://blogs.gnome.org/view/ryanl/2006/12/25/0) [people](http://tw.apinc.org/weblog/2006/12/26#christmas-evening-thoughts)complaining about the GNOME servers migration from CVS to SVN. Hey guys, what'sthe point? That's not a big step enough for you? This has been talked about fora long time now.  
   
 I'm personnaly using SVN at work, and, even if I don't use advanced features(i'm the only developer on the project), i've been pretty happy with it. Thefeatures I liked the most:
 
@@ -14,7 +14,7 @@ I'm personnaly using SVN at work, and, even if I don't use advanced features(i'm
 -   *svn diff* output is format-ready for patch. No need to specifyweird options for the output format (*cvs diff -up*)
 -   svn keeps permissions on files
 -   svn keeps only stores modifications of binary files, and not the full fileeach time.
--   the [SVNdocumentation](\%22http://svnbook.red-bean.com/en/1.2/index.html\%22) is great!
+-   the [SVNdocumentation](http://svnbook.red-bean.com/en/1.2/index.html) is great!
 
 Yes. I'm a really basic user of SVN. Sure. So may be the average GNOMEcontributors-wanabe.  
 Yes, I know that commiting modifications offline is great. But I mostly see theCVS-&gt;SVN migration as a first step.  
@@ -27,7 +27,7 @@ SVN is a big step forward. Maybe it's not as big as some may want, but it's fors
   
 \[Edit\]:  
 The comment here will also give lots of good reasons: think of casualcontributors, translators, etc. who just don't want to learn a newbleeding-edge revision system. SVN addresses the problems we have**now**.  
-[http://blogs.gnome.org/view/ryanl/2006/12/25/0\#comments](\%22http://blogs.gnome.org/view/ryanl/2006/12/25/0#comments\%22)  
+[http://blogs.gnome.org/view/ryanl/2006/12/25/0\#comments](http://blogs.gnome.org/view/ryanl/2006/12/25/0#comments)  
   
 \[Edit 2\]: This may help too  
-[Why GNOME migratedfrom CVS to Subversion ?](\%22http://live.gnome.org/SubversionFAQ#Why_Subversion\%22)
+[Why GNOME migratedfrom CVS to Subversion ?](http://live.gnome.org/SubversionFAQ#Why_Subversion)

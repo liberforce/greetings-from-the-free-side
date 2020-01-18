@@ -6,7 +6,7 @@ Lang: en
 Slug: recycling-an-old-machine-for-gcompris-part-1
 Status: published
 
-I'm currently trying to convert my sister's old computer to Linux (guesswhat ? Mandriva 2007). That way my 8 years old niece will be able to have hercomputer to play with [gcompris](\%22http://gcompris.net/\%22).  
+I'm currently trying to convert my sister's old computer to Linux (guesswhat ? Mandriva 2007). That way my 8 years old niece will be able to have hercomputer to play with [gcompris](http://gcompris.net/).  
 Hardware specs of the beast:
 
 -   Celeron 366
@@ -17,8 +17,8 @@ It was running Windows 98, but running out of space. 2 years ago, when Ireinstal
   
 To have it working, I'm doing the following.  
   
-**Step 1:** Recover existing personal data using the excellent[Slax Popcorn Live CD](\%22http://www.slax.org/\%22), and copy it on my USBkey.  
-**Step 2:** Send her the 60MB file backup file using the free (ofcharge) service [Savefile.com](\%22http://savefile.com/\%22) to avoidblowing her mailbox  
-**Step 3:** Run [badblocks-sw](\%22http://man.linuxquestions.org/?query=badblocks&section=0&type=2\%22) from the [System Rescue CD.](\%22http://www.sysresccd.org/\%22) Notethat these options will erase all the data on disk, as this is a destructivetest.  
+**Step 1:** Recover existing personal data using the excellent[Slax Popcorn Live CD](http://www.slax.org/), and copy it on my USBkey.  
+**Step 2:** Send her the 60MB file backup file using the free (ofcharge) service [Savefile.com](http://savefile.com/) to avoidblowing her mailbox  
+**Step 3:** Run [badblocks-sw](http://man.linuxquestions.org/?query=badblocks&section=0&type=2) from the [System Rescue CD.](http://www.sysresccd.org/) Notethat these options will erase all the data on disk, as this is a destructivetest.  
   
 Let's see tomorrow how this is doing. Badblocks is now running, even ifpainfully slow.

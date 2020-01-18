@@ -8,7 +8,7 @@ Status: published
 
 Deuxième et dernier jour du FOSDEM au stand GNOME.
 
-La journée d'hier a été assez remplie, toujours beaucoup de présentations enparallèle, dont quelques unes intéressantes pour mon nouveau travail chez[Anevia](\%22http://www.anevia-group.com\%22), comme celles sur Postgres,SPDX, et la gestion de licences open source en général.
+La journée d'hier a été assez remplie, toujours beaucoup de présentations enparallèle, dont quelques unes intéressantes pour mon nouveau travail chez[Anevia](http://www.anevia-group.com), comme celles sur Postgres,SPDX, et la gestion de licences open source en général.
 
 Ici au stand GNOME, on voit comme chaque année des têtes connues, lesmembres locaux Belges comme fredp, cassidy, staz, les membres de la FondationGNOME qui sont venus de l'autre bout du monde pour assister aux conférences ouaider au stand, et puis des tête françaises familières comme nicalsilva deMozilla qui nous avait gentiment ouvert les portes des locaux parisiens deMozilla pour le traducthon de l'an dernier.
 
@@ -18,8 +18,8 @@ De mon côté, j'aimerais faire avancer la traduction de la documentationdévelo
 
 Cette année, pas de T-shirts à vendre, ceux ci sont restés en Suède pour uneautre conférence. Mais il nous avons quelques posters, sacs (épuisés), et nosstickers argentés, les bénéfices de ces derniers étant pour GNOME-FR. Nous ensommes à un peu plus de 200 stickers vendus ce week end.
 
-![\\"\\"](\%22/public/fosdem/2015/.2015-02-01-120543_m.jpg\%22 "\"Nos")
+![\\"\\"](/public/fosdem/2015/.2015-02-01-120543_m.jpg "\"Nos")
 
 (photo réalisée grâce à ma webcam moisie :-p)
 
-N'hésitez pas à venir nous voir sur notre stand, jusqu'à ce soir, ou bienaux prochains événements de l'année, sans doute [Solution Linux](\%22http://www.solutionslinux.fr/\%22) les 19 et 20 mai à Paris-LaDéfense !
+N'hésitez pas à venir nous voir sur notre stand, jusqu'à ce soir, ou bienaux prochains événements de l'année, sans doute [Solution Linux](http://www.solutionslinux.fr/) les 19 et 20 mai à Paris-LaDéfense !

@@ -13,7 +13,7 @@ Le vif du sujet
 
 C'est revêtu de mon plus beau bleu de travail transmis de père en fils(merci p'pa, mais ça me rentre un peu dans les fesses quand je m'accroupis) quej'ai dû me battre avec le lino à coup de cutter pour trouver les jonctionsentre les plaques de Novopan (panneaux d'aggloméré), et les faire sauter aupied de biche. Les plaques font environ 1,50m sur 2m. J'avais d'abord eul'intention de décoller tout le lino, mais cela s'est avéré impossible.
 
-Rien que pour cette opération, cela m'a pris la journée : les plaquesétaient vissées et clouées à l'ancien parquet en pin qui se trouve en dessous.Et puis il y a quelques surprises... Le salon est en fait la réunion de deuxanciennes chambres, dont la cloison a été abattue. Et entre le Novopan et leplancher, on a pu retrouver... Le lino d'une des chambres ! Faut croire quec'était vraiment des feignasses, ils ont fait des croques monsieur... Alors jeme suis un peu pris pour un archéologue en découvrant le lino vert à fleursdatant de 1954. Comment je connais la date ? On a retrouvé des feuilles de[l'Humanité](\%22http://www.humanite.fr/\%22) de 1954 sous celino ! 54 ans après, le maire de la ville est toujours un communiste :-)
+Rien que pour cette opération, cela m'a pris la journée : les plaquesétaient vissées et clouées à l'ancien parquet en pin qui se trouve en dessous.Et puis il y a quelques surprises... Le salon est en fait la réunion de deuxanciennes chambres, dont la cloison a été abattue. Et entre le Novopan et leplancher, on a pu retrouver... Le lino d'une des chambres ! Faut croire quec'était vraiment des feignasses, ils ont fait des croques monsieur... Alors jeme suis un peu pris pour un archéologue en découvrant le lino vert à fleursdatant de 1954. Comment je connais la date ? On a retrouvé des feuilles de[l'Humanité](http://www.humanite.fr/) de 1954 sous celino ! 54 ans après, le maire de la ville est toujours un communiste :-)
 
 Pendant ce temps là, Aurore décollait, d'abord du papier peint, puisrapidement (parce que c'est pas drôle le papier peint) le carrelage de lacuisine à coup de marteau et de burin. Demain, je dois attaquer le réagréagequi était sous le carrelage au marteau et au burin. Et puis les fouillescontinueront, puisqu'en dessous il y a un grillage type cage à poule, et encoreen dessous, le parquet. Je vous avais dit qu'ils avaient fait ça comme desporcs ? Eh bien ce n'est pas fini...
 
@@ -55,34 +55,34 @@ D'un coup les 1200€ sont un peu plus justifiés... Surtout qu'il y al'escalier
 Les travaux en images...
 ------------------------
 
-[![\\"\\"](\%22/public/appartement/jour1/.salon_avant_m.jpg\%22 "\"Salon")](\%22/public/appartement/jour1/salon_avant.jpg\%22)
+[![\\"\\"](/public/appartement/jour1/.salon_avant_m.jpg "\"Salon")](/public/appartement/jour1/salon_avant.jpg)
 
 *Le salon avant les travaux*
 
-[![\\"\\"](\%22/public/appartement/jour1/.salon_apres_m.jpg\%22 "\"Salon")](\%22/public/appartement/jour1/salon_apres.jpg\%22)
+[![\\"\\"](/public/appartement/jour1/.salon_apres_m.jpg "\"Salon")](/public/appartement/jour1/salon_apres.jpg)
 
 *Et le même après une journée de boulot*
 
-[![\\"\\"](\%22/public/appartement/jour1/.strates_m.jpg\%22 "\"Strates,")](\%22/public/appartement/jour1/strates.jpg\%22)
+[![\\"\\"](/public/appartement/jour1/.strates_m.jpg "\"Strates,")](/public/appartement/jour1/strates.jpg)
 
 *Les différentes strates avec le Novopan pris en sandwich entre deuxlinos*
 
-*[![\\"\\"](\%22/public/appartement/jour1/.escalier_m.jpg\%22 "\"Escalier,")](\%22/public/appartement/jour1/escalier.jpg\%22)*
+*[![\\"\\"](/public/appartement/jour1/.escalier_m.jpg "\"Escalier,")](/public/appartement/jour1/escalier.jpg)*
 
 *L'escalier du salon, reposant lui aussi dur une dalle de Novopan, etcelles arrachées posées contre le mur*
 
-[![\\"\\"](\%22/public/appartement/jour1/.lino1954_m.jpg\%22 "\"Lino")](\%22/public/appartement/jour1/lino1954.jpg\%22)
+[![\\"\\"](/public/appartement/jour1/.lino1954_m.jpg "\"Lino")](/public/appartement/jour1/lino1954.jpg)
 
 *Le beau lino 1954*
 
-[![\\"\\"](\%22/public/appartement/jour1/.cuisine_sans_carrelage_m.jpg\%22 "\"Cuisine")](\%22/public/appartement/jour1/cuisine_sans_carrelage.jpg\%22)
+[![\\"\\"](/public/appartement/jour1/.cuisine_sans_carrelage_m.jpg "\"Cuisine")](/public/appartement/jour1/cuisine_sans_carrelage.jpg)
 
 *La cuisine sans carrelage...*
 
-[![\\"\\"](\%22/public/appartement/jour1/.carrelage_m.jpg\%22 "\"Carrelage,")](\%22/public/appartement/jour1/carrelage.jpg\%22)
+[![\\"\\"](/public/appartement/jour1/.carrelage_m.jpg "\"Carrelage,")](/public/appartement/jour1/carrelage.jpg)
 
 *Le carrelage à part*
 
-[![\\"\\"](\%22/public/appartement/jour1/.queen_m.jpg\%22 "\"La")](\%22/public/appartement/jour1/queen.jpg\%22)
+[![\\"\\"](/public/appartement/jour1/.queen_m.jpg "\"La")](/public/appartement/jour1/queen.jpg)
 
 *La reine du burin. Tel Attila, là où elle passe, le carrelage nerepousse pas.*

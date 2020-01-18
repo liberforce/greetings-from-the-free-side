@@ -9,7 +9,7 @@ Status: published
 Il y a un mois, mon fidèle Samsung YP-MT6X disparaissait mystérieusement auboulot. Vol ou perte, impossible de trancher. Paix à son âme. J'ai donc finipar commander son remplaçant, que j'avais déjà eu l'occasion de tester pour uncadeau. Mon Meizu Mini Player M6 SL est arrivé de Hong Kong ce matin, après 3semaines d'attente. J'espère donc poster quelques astuces ici pour pouvoir tireun maximum profit de cet engin, notamment :
 
 -   l'affichage des couvertures d'album
--   la conversion de vidéos lisibles par le Meizu avec gstreamer, afin dedéterminer un profil qui pourra être intégré à [Transmageddon](\%22http://www.linuxrising.org/transmageddon/\%22)
+-   la conversion de vidéos lisibles par le Meizu avec gstreamer, afin dedéterminer un profil qui pourra être intégré à [Transmageddon](http://www.linuxrising.org/transmageddon/)
 -   comment régler les stations de radio avec un fichier externe
 -   l'utilisation de sous titres externes au format srt pour les vidéos
 -   l'affichage des paroles de chansons

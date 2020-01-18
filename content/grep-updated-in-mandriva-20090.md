@@ -18,7 +18,7 @@ Before :
 
 [`grep -R --exclude-dir=.svn foo*`]{#\"hidsubpartcontentdiscussion\"}
 
-[It's sad that this option tookseveral years to enter the code base (at least 2.5 years) and was first refused(this bug report is an [example of how not to reply tousers](\%22http://savannah.gnu.org/patch/?3521\%22)). Also, this new version of grep landed in 2009.0, but grep 2.5.3 wasreleased]{#\"hidsubpartcontentdiscussion\"} [in august2007...]{#\"hidsubpartcontentdiscussion\"}
+[It's sad that this option tookseveral years to enter the code base (at least 2.5 years) and was first refused(this bug report is an [example of how not to reply tousers](http://savannah.gnu.org/patch/?3521)). Also, this new version of grep landed in 2009.0, but grep 2.5.3 wasreleased]{#\"hidsubpartcontentdiscussion\"} [in august2007...]{#\"hidsubpartcontentdiscussion\"}
 
 Mandriva Linux 2008.1 users interested by this feature can install the2009.0 version of grep from their closest miror :
 

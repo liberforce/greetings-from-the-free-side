@@ -11,11 +11,11 @@ And the winner is:
 
 Le *Meizu M6 SL 8Go*.
 
-Consultez le [test du Meizu M6 SP](\%22http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6\%22) sur GénérationMP3 pour connaitre ses spécificationsexactes. Le M6 SL est le successeur du M6 SP, mais [les deuxmodèles sont très similaires](\%22http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/\%22).
+Consultez le [test du Meizu M6 SP](http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6) sur GénérationMP3 pour connaitre ses spécificationsexactes. Le M6 SL est le successeur du M6 SP, mais [les deuxmodèles sont très similaires](http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/).
 
-Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à [ygsd\_cn1](\%22http://myworld.ebay.fr/ygsd_cn1\%22).
+Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à [ygsd\_cn1](http://myworld.ebay.fr/ygsd_cn1).
 
-![\\"Meizu](\%22/public/vrac/meizu_sl.jpg\%22)
+![\\"Meizu](/public/vrac/meizu_sl.jpg)
 
 Pourquoi lui ?
 --------------
@@ -24,14 +24,14 @@ Et pourquoi pas :-) ? Bon, voici les principaux avantages que je luitrouvais, pa
 
 Avantages:
 
--   Gestion native du [Ogg](\%22http://fr.wikipedia.org/wiki/Ogg\%22)/[Vorbis](\%22http://fr.wikipedia.org/wiki/Vorbis\%22), avec le [FLAC](\%22http://fr.wikipedia.org/wiki/FLAC\%22) en bonus
--   Connexion [UMS](\%22http://en.wikipedia.org/wiki/USB_mass_storage_device_class\%22), donccompatible avec tous les systèmes d'exploitation actuels sans pilotespécifique
+-   Gestion native du [Ogg](http://fr.wikipedia.org/wiki/Ogg)/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis), avec le [FLAC](http://fr.wikipedia.org/wiki/FLAC) en bonus
+-   Connexion [UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class), donccompatible avec tous les systèmes d'exploitation actuels sans pilotespécifique
 -   Connectique USB standard
 -   Radio FM avec RDS
 -   Dictaphone
 -   Bonne autonomie (26h en audio, 4h30 en vidéo)
 -   Navigation par tags ET par répertoires
--   Vidéos au format [Xvid](\%22http://fr.wikipedia.org/wiki/Xvid\%22)
+-   Vidéos au format [Xvid](http://fr.wikipedia.org/wiki/Xvid)
 
 Inconvénients:
 
@@ -41,7 +41,7 @@ Inconvénients:
 
 Je l'ai choisi pour toutes ces raisons, et surtout le fait qu'il utilise desformats ouverts et une connectique standard, avec un très bon rapport qualitéprix.
 
-Vous pouvez consulter les [spécifications complètes du Meizu M6SL](\%22http://en.meizu.com/product_m6sl.asp\%22) pour plus d'informations.
+Vous pouvez consulter les [spécifications complètes du Meizu M6SL](http://en.meizu.com/product_m6sl.asp) pour plus d'informations.
 
 Pourquoi l'importer ?
 ---------------------
@@ -68,9 +68,9 @@ Merci beaucoup à Bob pour m'avoir parlé dans les commentaire de ce blog dece m
 Ressources externes
 -------------------
 
--   [Le forum Meizu](\%22http://www.meizume.com\%22)
--   [Le blogconsacré au Meizu](\%22http://meizu-miniplayer.blogspot.com\%22)
--   [Le blog surle Meizu M3, orienté linux](\%22http://www.llaumgui.com/tag/Meizu%20M3\%22)
--   [La FAQ Meizu](\%22http://fr.meizublog.com/faq/\%22)
--   [Lemanuel en anglais au format PDF](\%22http://en.meizu.com/downfile/M6manual_T1.009.pdf\%22)
+-   [Le forum Meizu](http://www.meizume.com)
+-   [Le blogconsacré au Meizu](http://meizu-miniplayer.blogspot.com)
+-   [Le blog surle Meizu M3, orienté linux](http://www.llaumgui.com/tag/Meizu%20M3)
+-   [La FAQ Meizu](http://fr.meizublog.com/faq/)
+-   [Lemanuel en anglais au format PDF](http://en.meizu.com/downfile/M6manual_T1.009.pdf)
 

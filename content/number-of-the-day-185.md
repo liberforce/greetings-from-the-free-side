@@ -6,7 +6,7 @@ Lang: en
 Slug: number-of-the-day-185
 Status: published
 
-This is the number of lines in the code shipped with GNOME 2.18 that use a[deprecatedsymbol in GLib](\%22http://developer.gnome.org/doc/API/2.0/glib/ix02.html\%22). The winner, by far, is *g\_strcasecmp.*  
+This is the number of lines in the code shipped with GNOME 2.18 that use a[deprecatedsymbol in GLib](http://developer.gnome.org/doc/API/2.0/glib/ix02.html). The winner, by far, is *g\_strcasecmp.*  
   
 at-spi/test/test-simple.c:766:        if(!g\_strcasecmp (argv \[i\], "--poke"))  
 evolution-data-server/calendar/libecal/e-cal-time-util.c:425: \* This isanalogous to g\_date\_set\_time() but takes the timezone into account.  

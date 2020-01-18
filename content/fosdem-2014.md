@@ -8,4 +8,4 @@ Status: published
 
 Déjà 2 semaines depuis le dernier FOSDEM... L'occasion de rencontrer lespotes de GNOME-FR (merci à Fred pour l'hébergement et les bières ;-)), goûterles spécialités locales, et rencontrer les utilisateurs de GNOME. Il devraitd'ailleurs y avoir un peu de mouvement suite à certaines rencontres. Àsuivre…
 
-Et pour la première fois pour moi, la possibilité de participer cetévénement à titre professionnel ! Merci à [SoftAtHome](\%22http://softathome.com\%22) d'avoir sponsorisé mon voyage !
+Et pour la première fois pour moi, la possibilité de participer cetévénement à titre professionnel ! Merci à [SoftAtHome](http://softathome.com) d'avoir sponsorisé mon voyage !

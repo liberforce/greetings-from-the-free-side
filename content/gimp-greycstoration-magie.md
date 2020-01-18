@@ -11,14 +11,14 @@ Un chaton, ça ne reste pas un chaton longtemps. En plus c'est con ces bêteslà
 L'original :
 ------------
 
-[![\\"original\\"](\%22/public/hikaru/.hikaru-org_m.jpg\%22)](\%22/public/hikaru/hikaru-org.jpg\%22)
+[![\\"original\\"](/public/hikaru/.hikaru-org_m.jpg)](/public/hikaru/hikaru-org.jpg)
 
 Après balance automatique de blancs :
 -------------------------------------
 
-[![\\"balance](\%22/public/hikaru/.hikaru-white-balanced_m.jpg\%22)](\%22/public/hikaru/hikaru-white-balanced.jpg\%22)
+[![\\"balance](/public/hikaru/.hikaru-white-balanced_m.jpg)](/public/hikaru/hikaru-white-balanced.jpg)
 
 Après débruitage par GREYcstoration :
 -------------------------------------
 
-[![\\"débruitagepar](\%22http://blog.freeside.fr/public/hikaru/.hikaru-greycstoration_m.jpg\%22)](\%22http://blog.freeside.fr/public/hikaru/hikaru-greycstoration.jpg\%22)
+[![\\"débruitagepar](http://blog.freeside.fr/public/hikaru/.hikaru-greycstoration_m.jpg)](http://blog.freeside.fr/public/hikaru/hikaru-greycstoration.jpg)

@@ -8,4 +8,4 @@ Status: published
 
 Because I'm missing my GNOME friends, and because GUADEC is the bestconference in the world :)
 
-![\\"\\"](\%22https://2016.guadec.org/wp-content/uploads/2016/04/badge-goingto.png\%22)
+![\\"\\"](https://2016.guadec.org/wp-content/uploads/2016/04/badge-goingto.png)

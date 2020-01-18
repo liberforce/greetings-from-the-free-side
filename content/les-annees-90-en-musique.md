@@ -13,8 +13,8 @@ Ce soir, j'ai retrouvé mon vieux baladeur et mes vieilles cassettes du débutde
 Face A:
 
 -   Place des grands hommes (Patrick Bruel)
--   [Moustique](\%22http://www.thibault-asbl.be/parole.php?id=44&titre=Moustique\%22) (?)
--   [Angelina](\%22http://www.myspace.com/psyofficielmyspace\%22) (Psy)
+-   [Moustique](http://www.thibault-asbl.be/parole.php?id=44&titre=Moustique) (?)
+-   [Angelina](http://www.myspace.com/psyofficielmyspace) (Psy)
 -   générique de Mac Gyver (version longue)
 -   Le Rap'tout (Les Inconnus)
 -   C'est ton destin (Les Inconnus)
@@ -25,14 +25,14 @@ Face B :
 
 -   La Pin's mania (énorme colllector :-D)
 -   générique de "La bande à Picsou" (version longue)
--   [C'esttoi que je t'aime](\%22http://www.youtube.com/watch?v=XPzARtdytR4\%22) (Negra Bouch Beat / Les Inconnus)
--   [Do The Bartman](\%22http://lyricskeeper.fr/fr/simpsons/do-the-bartman.html\%22)(Bart Simpson)
+-   [C'esttoi que je t'aime](http://www.youtube.com/watch?v=XPzARtdytR4) (Negra Bouch Beat / Les Inconnus)
+-   [Do The Bartman](http://lyricskeeper.fr/fr/simpsons/do-the-bartman.html)(Bart Simpson)
 -   Remember The Time (Michael Jackson)
--   [Lestemps sont durs](\%22http://www.bide-et-musique.com/song/5411.html\%22) (Thierry Hazard)
--   Parce qu'on est jeune ([Benny B](\%22http://fr.wikipedia.org/wiki/Benny_B\%22))
--   [Frères du Rap](\%22http://www.bide-et-musique.com/song/3424.html\%22) (Les HollyFlip)
--   La Zoubida ([Vincent Lagaf'](\%22http://fr.wikipedia.org/wiki/Vincent_Lagaf\%22))
--   [Adam'sFamily](\%22http://www.youtube.com/watch?v=BWJiPUWoB4k\%22) (MC Hammer)
+-   [Lestemps sont durs](http://www.bide-et-musique.com/song/5411.html) (Thierry Hazard)
+-   Parce qu'on est jeune ([Benny B](http://fr.wikipedia.org/wiki/Benny_B))
+-   [Frères du Rap](http://www.bide-et-musique.com/song/3424.html) (Les HollyFlip)
+-   La Zoubida ([Vincent Lagaf'](http://fr.wikipedia.org/wiki/Vincent_Lagaf))
+-   [Adam'sFamily](http://www.youtube.com/watch?v=BWJiPUWoB4k) (MC Hammer)
 
 Certes, j'enfreins sans doute les droits de certains auteurs en donnantquelques liens vers certains de ces chefs d'oeuvres totalement abandonnés. Sowhat ? Sue me ! 
 
@@ -42,9 +42,9 @@ J'écoute Super Loustic, radio locale pour les enfants (disparue depuis), etdont
 
 C'est aussi l'époque où Michael Jackson fait des bonnes chansons. Et de bonsclips d'ailleurs, comme celui de black or white bouré de morphing. Je me revoisessayant de retranscrire les paroles entendues avec mes rudiments d'anglais ducollège (le "being" de "I'm not gonna spend my life being a color" m'a donné dumal...).
 
-La Bande à Picsou, bin j'aimais tout simplement. C'est l'époque DisneyChannel, avec ses Zoro, Winnie (encore aujourd'hui, entendre Jean Rochefort mefait penser à Winnie l'Ourson), Les Gummies, Le chevalier lumière... Mon goûtpour les canards s'est développé depuis, je reste un fan inconditionnel de[Keno DonRosa](\%22http://fr.wikipedia.org/wiki/Keno_Don_Rosa\%22) ;-).
+La Bande à Picsou, bin j'aimais tout simplement. C'est l'époque DisneyChannel, avec ses Zoro, Winnie (encore aujourd'hui, entendre Jean Rochefort mefait penser à Winnie l'Ourson), Les Gummies, Le chevalier lumière... Mon goûtpour les canards s'est développé depuis, je reste un fan inconditionnel de[Keno DonRosa](http://fr.wikipedia.org/wiki/Keno_Don_Rosa) ;-).
 
-La Zoubida, mine de rien, ça reste une chanson sympa, et [le jeu sur Amiga](\%22http://www.emunova.net/veda/test/1120.htm\%22) est undes meilleurs jeux de plateforme auquel j'ai pu jouer dans ma jeunesse. Je merappelle avoir eu besoin d'utiliser une touche qui permettait de**ralentir** le scrolling, tellement c'était rapide et fluide (cequi rendait certains passages ultra difficiles à passer).
+La Zoubida, mine de rien, ça reste une chanson sympa, et [le jeu sur Amiga](http://www.emunova.net/veda/test/1120.htm) est undes meilleurs jeux de plateforme auquel j'ai pu jouer dans ma jeunesse. Je merappelle avoir eu besoin d'utiliser une touche qui permettait de**ralentir** le scrolling, tellement c'était rapide et fluide (cequi rendait certains passages ultra difficiles à passer).
 
 Au passage, "Les temps sont durs" de Thierry Hazard restent piteusementd'actualité.
 
@@ -54,4 +54,4 @@ Voilà, c'était la séquence "nostalgie de 10 ans" :-), merci à ceux qui ontto
 
 **Mise à jour :**
 
-Je rajoute aux collectors une cassette audio de sketchs de [Téléchat](\%22http://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chat\%22) :-).
+Je rajoute aux collectors une cassette audio de sketchs de [Téléchat](http://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chat) :-).

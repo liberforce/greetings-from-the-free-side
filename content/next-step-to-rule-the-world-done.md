@@ -12,10 +12,10 @@ I've started testing it quite late in this development cycle (RC2), but Istill w
 
 Everything you should know about it is here:
 
--   [MandrivaLinux 2008.1 Tour](\%22http://wiki.mandriva.com/en/2008.1_Tour\%22)
--   [MandrivaLinux 2008.1 Release Notes](\%22http://wiki.mandriva.com/en/2008.1_Notes\%22)
--   [MandrivaLinux 2008.1 Errata](\%22http://wiki.mandriva.com/en/2008.1_Errata\%22)
--   [Mandriva Linux 2008.1Reviewers Guide](\%22http://wiki.mandriva.com/en/2008.1_Reviewers_Guide\%22)
+-   [MandrivaLinux 2008.1 Tour](http://wiki.mandriva.com/en/2008.1_Tour)
+-   [MandrivaLinux 2008.1 Release Notes](http://wiki.mandriva.com/en/2008.1_Notes)
+-   [MandrivaLinux 2008.1 Errata](http://wiki.mandriva.com/en/2008.1_Errata)
+-   [Mandriva Linux 2008.1Reviewers Guide](http://wiki.mandriva.com/en/2008.1_Reviewers_Guide)
 
-And the most important : the link to [download Mandriva Linux](\%22http://torrent.mandriva.com/public/\%22) with yourprefered bittorrent client ([Transmission](\%22http://www.transmissionbt.com/\%22) in my case).  
+And the most important : the link to [download Mandriva Linux](http://torrent.mandriva.com/public/) with yourprefered bittorrent client ([Transmission](http://www.transmissionbt.com/) in my case).  
 Many thanks to everyone who worked on this release. Now Enjoy !

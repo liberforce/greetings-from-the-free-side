@@ -6,4 +6,4 @@ Lang: fr
 Slug: jamendo-fait-son-show
 Status: published
 
-Ça y est, une vidéo du concert Jamendo auquel j'ai assisté mercredi dernierau [Glaz'Art](\%22http://www.glazart.com/\%22), avec 2 amis,est enfin en ligne. Vous pouvez aller voir ce que vous avez raté (niark niark)sur le [blog jamendo](\%22http://blog.jamendo.com/2008/11/28/la-folle-nuit-parisienne-de-jamendo/\%22).J'espère qu'ils remettront ça bientôt,l'ambiance et la musique étaient au rendez vous :-)
+Ça y est, une vidéo du concert Jamendo auquel j'ai assisté mercredi dernierau [Glaz'Art](http://www.glazart.com/), avec 2 amis,est enfin en ligne. Vous pouvez aller voir ce que vous avez raté (niark niark)sur le [blog jamendo](http://blog.jamendo.com/2008/11/28/la-folle-nuit-parisienne-de-jamendo/).J'espère qu'ils remettront ça bientôt,l'ambiance et la musique étaient au rendez vous :-)

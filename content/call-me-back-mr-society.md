@@ -13,7 +13,7 @@ Other features are also great, and would encourage me to buy that phone:
 -   low radiance (burning my brain the less it can)
 -   low pollution (being the less polluant it can)
 -   high speed (responsive user interface)
--   easy to use (doesn't use [this kind of userinterface](\%22http://www.joelonsoftware.com/items/2006/09/19b.html\%22))
+-   easy to use (doesn't use [this kind of userinterface](http://www.joelonsoftware.com/items/2006/09/19b.html))
 -   low cost
 
 But no. People like GPRS, and surfing the web with a 2 inches screen (really,my cousin wants it). People want to watch TV on this lousy screen. And games.And remote command. And what-the-hell you could ever imagine. And then, theycomplain they have low battery.  
