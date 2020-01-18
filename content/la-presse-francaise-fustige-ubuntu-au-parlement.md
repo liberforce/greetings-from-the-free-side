@@ -12,7 +12,7 @@ Voici donc quelques perles (Le Point):
 
 > Le Parlement allemand, qui avait lui aussi opté pour le logiciel libre en2002, vient de faire machine arrière.
 
-Malheureusement, des [milieux mieux informés](http://linuxfr.org//comments/858936.html#858936) sur la question ont noté que LeParlement allemand avait juste brandi la menace Linux pour que Microsoftfournisse les sources de Windows NT. Comme Microsoft a cédé, le parlementallemand n'a tout simplement pas migré vers Linux (et a donc forcément encoremoins fait machine arrière). C'est pour cette raison qu'il n'y a aucune tracesur le web de cette migration.  
+Malheureusement, des [milieux mieux informés](http://linuxfr.org//comments/858936.html#858936) sur la question ont noté que LeParlement allemand avait juste brandi la menace Linux pour que Microsoftfournisse les sources de Windows NT. Comme Microsoft a cédé, le parlementallemand n'a tout simplement pas migré vers Linux (et a donc forcément encoremoins fait machine arrière). C'est pour cette raison qu'il n'y a aucune tracesur le web de cette migration.
 
 A ce stade, on se dit qu'ils auraient pu se renseigner. Mais il y a encorepire (France Matin):
 

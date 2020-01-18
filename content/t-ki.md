@@ -14,7 +14,7 @@ Tout à l'heure, je reçois un SMS d'un numéro inconnu. Histoire d'un dialogues
 >
 > </div>
 
-Là je me dis que je connais pas de personnes qui m'écrirai comme ça. Ou alorsun numéro de fille de Meetic que j'aurais effacé ? Bon, dans le doute, jeréponds.  
+Là je me dis que je connais pas de personnes qui m'écrirai comme ça. Ou alorsun numéro de fille de Meetic que j'aurais effacé ? Bon, dans le doute, jeréponds.
 
 > <div class="\"hitcitation\"">
 >
@@ -22,7 +22,7 @@ Là je me dis que je connais pas de personnes qui m'écrirai comme ça. Ou alors
 >
 > </div>
 
-La réponse ne se fait pas attendre.  
+La réponse ne se fait pas attendre.
 
 > <div class="\"hitcitation\"">
 >
@@ -30,7 +30,7 @@ La réponse ne se fait pas attendre.
 >
 > </div>
 
-Là je me dis que c'est un jeune pubère. Ne manquant pas d'humour de magénération je réponds non sans un gloussement (me demandant si on me fait pasune blague quand même).  
+Là je me dis que c'est un jeune pubère. Ne manquant pas d'humour de magénération je réponds non sans un gloussement (me demandant si on me fait pasune blague quand même).
 
 > <div class="\"hitcitation\"">
 >
@@ -38,7 +38,7 @@ Là je me dis que c'est un jeune pubère. Ne manquant pas d'humour de magénéra
 >
 > </div>
 
-Oui, c'est vaseux, mais la perche était trop longue. Mais v'là que ce merdeuxinsiste:  
+Oui, c'est vaseux, mais la perche était trop longue. Mais v'là que ce merdeuxinsiste:
 
 > <div class="\"hitcitation\"">
 >
@@ -46,7 +46,7 @@ Oui, c'est vaseux, mais la perche était trop longue. Mais v'là que ce merdeuxi
 >
 > </div>
 
-Bon. Là j'hésite à répondre. Evidemment n'importe quel linuxfr-ien auraitrépondu "dans ton cul !!!". Mais je me suis retenu. Je suis pas n'importe qui.Et puis je me dis que si je réponds il va me faire chier. 5 minutes plus tard,nouveau message de lui:  
+Bon. Là j'hésite à répondre. Evidemment n'importe quel linuxfr-ien auraitrépondu "dans ton cul !!!". Mais je me suis retenu. Je suis pas n'importe qui.Et puis je me dis que si je réponds il va me faire chier. 5 minutes plus tard,nouveau message de lui:
 
 > <div class="\"hitcitation\"">
 >
@@ -54,7 +54,7 @@ Bon. Là j'hésite à répondre. Evidemment n'importe quel linuxfr-ien auraitré
 >
 > </div>
 
-Ce blaireau veut me sauter (traduction libre) ! Je me demande si ça marched'habitude ce genre de phrases toutes faites. Même à cet âge là. Je me sensalors le devoir d'achever la pauvre bête (qui n'a pas compris ce con que si çase trouve on habitait à 600km de distance)  
+Ce blaireau veut me sauter (traduction libre) ! Je me demande si ça marched'habitude ce genre de phrases toutes faites. Même à cet âge là. Je me sensalors le devoir d'achever la pauvre bête (qui n'a pas compris ce con que si çase trouve on habitait à 600km de distance)
 
 > <div class="\"hitcitation\"">
 >
@@ -62,7 +62,7 @@ Ce blaireau veut me sauter (traduction libre) ! Je me demande si ça marched'hab
 >
 > </div>
 
-Réponse sans appel:*  
+Réponse sans appel:*
 *
 
 > <div class="\"hitcitation\"">

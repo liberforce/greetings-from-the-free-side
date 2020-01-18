@@ -15,11 +15,11 @@ As Ryan talks about Ubuntu Dapper Drake in his post, I suppose he wastesting ye 
 
 Some stuff he pointed out:
 
-> gnome-power-manager wakes up twice per second to do something  
-> battery applet wakes up once per second to do something  
-> clock-applet wakes up once per second to update the time even when secondsaren’t shown  
-> gajim wakes up 10+ times per second for some unknown reason  
-> at-spi-registryd wakes up more like 20+ times a second (?!?)  
+> gnome-power-manager wakes up twice per second to do something
+> battery applet wakes up once per second to do something
+> clock-applet wakes up once per second to update the time even when secondsaren’t shown
+> gajim wakes up 10+ times per second for some unknown reason
+> at-spi-registryd wakes up more like 20+ times a second (?!?)
 > gss seems to talk to x11 once per second (presumably to ask if anything hashappened). i don’t understand why it has to do this so often.
 
 I don't use some of the stuff he tested. So I tested gnome-power-manager,the clock applet and gnome-screensaver (gss) as he did.
@@ -47,7 +47,7 @@ gnome-panel
 
 With the seconds in the clock applet **not** displayed:
 
-`% time     seconds usecs/call     calls    errors syscall------ ----------- ----------- --------- --------- ----------------   nan   0.000000          0        1           ioctl   nan   0.000000          0        2          gettimeofday------ ----------- ----------- --------- --------- ----------------100.00   0.000000                    3          total`  
+`% time     seconds usecs/call     calls    errors syscall------ ----------- ----------- --------- --------- ----------------   nan   0.000000          0        1           ioctl   nan   0.000000          0        2          gettimeofday------ ----------- ----------- --------- --------- ----------------100.00   0.000000                    3          total`
 With the seconds in the clock applet displayed:
 
 `% time     seconds usecs/call     calls    errors syscall------ ----------- ----------- --------- --------- ----------------   nan   0.000000          0       30           read   nan   0.000000          0       20           write   nan   0.000000          0       20           time   nan   0.000000          0       31           ioctl   nan   0.000000          0       62          gettimeofday   nan   0.000000          0       30           poll   nan   0.000000          0       10           stat64------ ----------- ----------- --------- --------- ----------------100.00   0.000000                  203          total`
@@ -73,7 +73,7 @@ gnome-terminal
 
 ~~Waaaay too many calls. We here have 4 poll calls/second. The blinkingcursor may be a cause (I'm aware a patch for this was made for [OLPC](http://laptop.org)). I also know [Behdad](http://mces.blogspot.com/) once committed a patch adding a timer toprevent gnome-terminal from trying to refresh too many times the screen. Thegoal was to accelerate the display of information. Don't know if the extracalls are related to this, however.~~
 
-**Update:** ok, I must have been drinking, everything isnormal.  
+**Update:** ok, I must have been drinking, everything isnormal.
 I tested the gnome-terminal that was running strace, so I was getting the callsfor executing strace... The good way is for example to test it from an xterm.Another one like this and I jump out of the window.
 
 `% time     seconds usecs/call     calls    errors syscall------ ----------- ----------- --------- --------- ----------------   nan   0.000000          0        1           ioctl------ ----------- ----------- --------- --------- ----------------100.00   0.000000                    1           total`
@@ -88,7 +88,7 @@ The mixer applet is one of the worst offenders! This is a [known bug](http://bug
 timer-applet
 ------------
 
-Even when not used, this applet does way too many calls... There's room forimprovement here.  
+Even when not used, this applet does way too many calls... There's room forimprovement here.
 `% time     seconds usecs/call     calls    errors syscall------ ----------- ----------- --------- --------- ----------------   nan   0.000000          0       34           ioctl   nan   0.000000          0       67          gettimeofday   nan   0.000000          0       34           poll------ ----------- ----------- --------- --------- ----------------100.00   0.000000                  135          total`
 
 trashapplet

@@ -26,5 +26,5 @@ Et voıcı mon flop 5 des trucs que j'aı trouvé ratés :
 4.  Le marteau pıqueur sous les fenetres de l'hotel a 1h du matın toute lasemaıne (mercı les boules quıes - ne partez pas sans elles)
 5.  Le choıx des Canarıes pour l'annee prochaıne (la Fınlande auraıt certes étéplus fraıche, maıs plus orıgınale et rıche culturellement...)
 
-Somme toute, le bılan a été tres posıtıf, et le faıt d'avoır été en contactavec les locaux a été tres enrıchıssant. Je croıs bıen que cela va rester monGUADEC préféré pour un moment :-)  
+Somme toute, le bılan a été tres posıtıf, et le faıt d'avoır été en contactavec les locaux a été tres enrıchıssant. Je croıs bıen que cela va rester monGUADEC préféré pour un moment :-)
 

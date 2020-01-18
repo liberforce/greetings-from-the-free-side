@@ -22,5 +22,5 @@ Yes, of course, ti makes sense. Especially here in France, where the biggestpart
 
 Plenty of [these children](http://en.wikipedia.org/wiki/Guiyu)will thank you.
 
-**Update:**  
+**Update:**
 [Arstechnica has doubts on this study](http://arstechnica.com/news.ars/post/20071127-greenpeaces-green-electronics-guide-undermined-by-minimal-research-effort.html).

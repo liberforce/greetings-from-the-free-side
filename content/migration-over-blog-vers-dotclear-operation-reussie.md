@@ -27,5 +27,5 @@ Mais il y a aussi quelques désavantages (liés à la version de dotclear utilis
 
 Cela m'a aussi permis de passer en revue presque un an de billets. C'est pasmal de pouvoir voir si une opinion a évolué, ce quon a pu faire... Bref, c'estreparti !
 
-**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passemaintenant sur [http://blog.freeside.fr]().  
+**EDIT:** et pour mes (rares :-p) fidèles lecteurs, ça se passemaintenant sur [http://blog.freeside.fr]().
 

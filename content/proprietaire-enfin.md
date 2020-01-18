@@ -60,7 +60,7 @@ Le nouveau chez moi
 
 La rue de devant donne sur une rue en sens unique peu passante. L'arrièredonne sur des jardins. Pas de voisins au dessus. On est pas très loin d'Orly,mais on entend quasiment pas d'avions. Un grand parc à 5 minutes. La gare à 10minutes. Le [TVM](http://fr.wikipedia.org/wiki/Trans-Val-de-Marne) à 5 minutes. Bien sûrje vais devoir reprendre les transports, mais bon, ça me fera une excuse pourm'acheter un netbook :-) . Je passerai de 30 minutes à 1H30 de transports parjour, mais je serai plus écolo, prenant les transports en commun plutôt que maClio (poubelle-mobile pour les intimes). Depuis bientôt 4 ans que je suis à laRATP, je ne prenais plus les transports, alors que pourtant, je n'aime pasconduire... Et pour finir c'est une ville de gauche, ça ne fait pas de mal.Bref, un havre de tranquillité (je l'espère, je le saurai quand je seraidedans). Enfin, pour parfaire et élargir vos connaissances en habitat urbain,je vous conseille la lecture du magnifique ouvrage "Les [Bidochon](http://fr.wikipedia.org/wiki/Les_Bidochon) en Habitation à LoyerModéré"
 
-*La vue de la cuisine sur les jardins :  
+*La vue de la cuisine sur les jardins :
 *
 
 ![\\"Vue](/public/vrac/jardin.jpg "\"Jardin,")

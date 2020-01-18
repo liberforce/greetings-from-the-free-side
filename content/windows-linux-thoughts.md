@@ -8,7 +8,7 @@ Status: published
 
 Almost 5 years have passed since I erased my Microsoft Windows partitions toswitch to [Mandriva Linux](http://www.mandriva.com) (Mandrakelinux9.1 at that time). And I never regretted it. However, I try to keep myselfinformed of what happens in the Windows world, just to be able to helprelatives when they're in trouble. So I keep an eye of all the stuff I don'tuse on Linux: anti-spywares, anti-adwares, anti-viruses, anti-everything.
 
-Yesterday, I had a Windows box to cure. Randomly, some Internet Explorerwindows would pop up, and bring the whole machine down to its knees, eating afew hundred megabytes of memory, and causing lots of swapping. I could downloadFirefox, then killed all the iexplore.exe processes, and was able to browse theweb to find a new antivirus and antispyware to see what was going on. UsingFirefox, no ads appeared.  
+Yesterday, I had a Windows box to cure. Randomly, some Internet Explorerwindows would pop up, and bring the whole machine down to its knees, eating afew hundred megabytes of memory, and causing lots of swapping. I could downloadFirefox, then killed all the iexplore.exe processes, and was able to browse theweb to find a new antivirus and antispyware to see what was going on. UsingFirefox, no ads appeared.
 All this made me remember why Windows is a nightmare to maintain.
 
 Here's what I was painfully reminded:

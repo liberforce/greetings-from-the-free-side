@@ -12,7 +12,7 @@ HP est un des constructeurs les plus obtus en ce qui concerne leremboursement de
 
 > [Wald c. HP(juillet 2006)](http://www.aful.org/media/document/JugementSW060705.pdf) : consommateur débouté de ses demandes, mal formulées. Pointutile cependant : le juge a reconnu le droit à remboursement sur lefondement du [CLUF](http://www.racketiciel.info/documentation/glossaire#cluf "\"Contrat"). Il n'a pas été faitapplication de cette possibilité car le demandeur n'avait pas avancé ce moyendans sa requête. En conséquence, le juge n'a pas eu à se prononcer sur lalégitimité du contenu du CLUF qui prévoyait uniquement un remboursement complet(matériel + logiciels).
 
-Voici la chronologie à ce jour des évènements :  
+Voici la chronologie à ce jour des évènements :
 
 -   10 octobre : passage de la commande du HP 550 sur [www.rueducommerce.fr](http://www.rueducommerce.fr/)
 -   14 octobre : ma commande est validée
@@ -22,5 +22,5 @@ Voici la chronologie à ce jour des évènements :
 -   21 octobre : premier mail à racketiciel.info pour leur expliquer lasituation avant l'envoi de la demande de remboursement.
 -   22 octobre : envoi de la demande de remboursement en LRAR.
 
-Voilà, il ne me reste plus qu'à m'armer de patience...  
+Voilà, il ne me reste plus qu'à m'armer de patience...
 

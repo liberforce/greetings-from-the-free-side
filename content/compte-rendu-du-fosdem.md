@@ -36,17 +36,17 @@ Photos
 Le projet OLPC
 --------------
 
-![\\"\\"](/public/fosdem/2007/fosdem-019.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-019.jpg)
 
 Les effets graphiques par MacSlow
 ---------------------------------
 
-![\\"\\"](/public/fosdem/2007/fosdem-023.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-023.jpg)
 
 Le Musée de la Bande Dessinée
 -----------------------------
 
-![\\"\\"](/public/fosdem/2007/fosdem-037.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-037.jpg)
 
 <div class="\"hitencart\"" style="\&quot;text-align:" left\"="">
 
@@ -54,7 +54,7 @@ Le Musée de la Bande Dessinée
 
 </div>
 
-![\\"\\"](/public/fosdem/2007/fosdem-048.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-048.jpg)
 
 <div class="\"hitencart\"">
 
@@ -62,7 +62,7 @@ Le Musée de la Bande Dessinée
 
 </div>
 
-![\\"\\"](/public/fosdem/2007/fosdem-056.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-056.jpg)
 
 <div class="\"hitencart\"">
 
@@ -70,7 +70,7 @@ Le Musée de la Bande Dessinée
 
 </div>
 
-![\\"\\"](/public/fosdem/2007/fosdem-059.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-059.jpg)
 
 <div class="\"hitencart\"">
 
@@ -78,7 +78,7 @@ Le Musée de la Bande Dessinée
 
 </div>
 
-![\\"\\"](/public/fosdem/2007/fosdem-084.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-084.jpg)
 
 <div class="\"hitencart\"">
 
@@ -86,7 +86,7 @@ Le Musée de la Bande Dessinée
 
 </div>
 
-![\\"\\"](/public/fosdem/2007/fosdem-094.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-094.jpg)
 
 <div class="\"hitencart\"">
 
@@ -94,7 +94,7 @@ Le Musée de la Bande Dessinée
 
 </div>
 
-![\\"\\"](/public/fosdem/2007/fosdem-102.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-102.jpg)
 
 <div class="\"hitencart\"">
 
@@ -102,7 +102,7 @@ Le Musée de la Bande Dessinée
 
 </div>
 
-![\\"\\"](/public/fosdem/2007/fosdem-106.jpg)  
+![\\"\\"](/public/fosdem/2007/fosdem-106.jpg)
 
 <div class="\"hitencart\"">
 

@@ -6,7 +6,7 @@ Lang: fr
 Slug: revue-du-netbook-acer-aspire-one
 Status: published
 
-Voilà une [revue du Acer Aspire One](http://linuxfr.org/%7Ealouali/26925.html) surLinuxFr. Le point litigieux (l'écran trop brillant) évoqué par Xate dans mondernier [billet surles netbooks](/post/2008/06/24/Micro-Hebdo-n531-sur-les-ultra-portables-netbooks) a été soulevé, voici ce qu'en pense *alouali*, lerédacteur de l'article :  
+Voilà une [revue du Acer Aspire One](http://linuxfr.org/%7Ealouali/26925.html) surLinuxFr. Le point litigieux (l'écran trop brillant) évoqué par Xate dans mondernier [billet surles netbooks](/post/2008/06/24/Micro-Hebdo-n531-sur-les-ultra-portables-netbooks) a été soulevé, voici ce qu'en pense *alouali*, lerédacteur de l'article :
 
 > J'avais une petite angoisse sur l'écran brillant et les reflets, maisfinalement l'écran est suffisamment lumineux et contrasté pour que ce ne soitpas une gêne, même pour moi qui travaille dos à la fenêtre.
 

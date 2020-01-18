@@ -23,7 +23,7 @@ Je recherche donc la perle rare, un baladeur à base de mémoire flash, et quire
 8.  Gère l'encodage [UTF-8](http://fr.wikipedia.org/wiki/UTF-8)
 9.  Utilise des piles plutôt qu'une batterie interne
 
-Quelques justifications de ces besoins:**  
+Quelques justifications de ces besoins:**
 **
 ------------------------------------------
 
@@ -63,6 +63,6 @@ L'UMS assure que le baladeur est reconnu comme une clé USB: on peut ydéposer p
 Est-ce que je cherche le mouton à 5 pattes ?
 --------------------------------------------
 
-J'en ai l'impression, car les modèles proposés actuellement par lesconstructeurs veulent tout faire (vidéo, photo, jeux) sans rien faire vraimentbien. Trouver un baladeur gérant les métadonnées des fichiers Ogg/Vorbis semblerelever du défi par exemple. Néanmoins j'ai étudié quelques modèles, surlesquels je vous livrerai bientôt quelques observations.  
-  
+J'en ai l'impression, car les modèles proposés actuellement par lesconstructeurs veulent tout faire (vidéo, photo, jeux) sans rien faire vraimentbien. Trouver un baladeur gérant les métadonnées des fichiers Ogg/Vorbis semblerelever du défi par exemple. Néanmoins j'ai étudié quelques modèles, surlesquels je vous livrerai bientôt quelques observations.
+
 
