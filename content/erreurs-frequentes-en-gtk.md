@@ -2,7 +2,7 @@ Title: Erreurs fréquentes en GTK
 Date: 2012-08-24 22:58
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: erreurs-frequentes-en-gtk
 Status: published
 

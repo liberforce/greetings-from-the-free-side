@@ -2,7 +2,7 @@ Title: Go players ?
 Date: 2008-08-09 09:04
 Category: Gossip / Blabla
 Tags:
-
+Lang: en
 Slug: go-players
 Status: published
 

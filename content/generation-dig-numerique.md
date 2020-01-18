@@ -2,7 +2,7 @@ Title: Génération dig.. numérique
 Date: 2007-09-26 22:20
 Category: Gossip / Blabla
 Tags:
-
+Lang: fr
 Slug: generation-dig-numerique
 Status: published
 

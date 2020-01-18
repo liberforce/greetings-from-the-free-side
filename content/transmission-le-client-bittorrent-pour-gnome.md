@@ -2,7 +2,7 @@ Title: Transmission, le client bittorrent pour GNOME
 Date: 2007-09-26 21:53
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: transmission-le-client-bittorrent-pour-gnome
 Status: published
 

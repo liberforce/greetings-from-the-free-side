@@ -2,7 +2,7 @@ Title: Un nouveau spammeur sur planète GNOME-FR !
 Date: 2007-09-26 23:12
 Category: Gossip / Blabla
 Tags:
-
+Lang: fr
 Slug: un-nouveau-spammeur-sur-planete-gnome-fr
 Status: published
 

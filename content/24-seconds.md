@@ -2,7 +2,7 @@ Title: 24 seconds !
 Date: 2008-10-16 22:40
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: 24-seconds
 Status: published
 

@@ -2,7 +2,7 @@ Title: Mandriva 2008 se rapproche...
 Date: 2007-10-05 11:16
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: mandriva-2008-se-rapproche
 Status: published
 

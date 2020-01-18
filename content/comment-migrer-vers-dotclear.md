@@ -2,7 +2,7 @@ Title: Comment migrer vers Dotclear ?
 Date: 2007-09-26 01:18
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: comment-migrer-vers-dotclear
 Status: published
 

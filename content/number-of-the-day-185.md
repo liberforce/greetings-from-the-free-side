@@ -2,7 +2,7 @@ Title: Number of the day: 185 !
 Date: 2007-10-01 17:41
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: number-of-the-day-185
 Status: published
 

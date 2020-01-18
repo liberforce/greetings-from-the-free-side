@@ -2,7 +2,7 @@ Title: Best wishes of an happy new year!
 Date: 2007-09-26 00:46
 Category: Life / Vie quotidienne
 Tags:
-
+Lang: en
 Slug: best-wishes-of-an-happy-new-year
 Status: published
 

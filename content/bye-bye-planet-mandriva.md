@@ -2,7 +2,7 @@ Title: Bye bye planet mandriva
 Date: 2013-02-06 17:39
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: bye-bye-planet-mandriva
 Status: published
 

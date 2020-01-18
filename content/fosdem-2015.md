@@ -2,7 +2,7 @@ Title: FOSDEM 2015
 Date: 2015-02-01 12:03
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: fosdem-2015
 Status: published
 

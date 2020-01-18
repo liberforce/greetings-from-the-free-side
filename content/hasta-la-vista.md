@@ -2,7 +2,7 @@ Title: Hasta la Vista...
 Date: 2007-09-26 01:06
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: hasta-la-vista
 Status: published
 

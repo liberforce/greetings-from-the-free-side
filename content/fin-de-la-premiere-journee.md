@@ -2,7 +2,7 @@ Title: Fin de la premiere journée
 Date: 2008-07-07 22:50
 Category: Life / Vie quotidienne
 Tags:
-
+Lang: fr
 Slug: fin-de-la-premiere-journee
 Status: published
 

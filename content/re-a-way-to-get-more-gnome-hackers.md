@@ -2,7 +2,7 @@ Title: Re: a way to get more GNOME hackers
 Date: 2007-10-01 17:38
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: re-a-way-to-get-more-gnome-hackers
 Status: published
 

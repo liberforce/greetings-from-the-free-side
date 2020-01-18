@@ -2,6 +2,7 @@ Title: FOSDEM 2017
 Date: 2017-02-01 17:49
 Category: Life / Vie quotidienne
 Tags: FOSDEM
+Lang: fr
 Slug: fosdem-2017
 Status: published
 

@@ -2,7 +2,7 @@ Title: What happened to my boot time, dude ?
 Date: 2008-10-14 02:11
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: what-happened-to-my-boot-time-dude
 Status: published
 

@@ -2,7 +2,7 @@ Title: GUADEC 2007 incertain...
 Date: 2007-09-26 22:58
 Category: Life / Vie quotidienne
 Tags:
-
+Lang: fr
 Slug: guadec-2007-incertain
 Status: published
 

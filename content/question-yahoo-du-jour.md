@@ -2,7 +2,7 @@ Title: Question Yahoo du jour
 Date: 2007-09-26 22:34
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: question-yahoo-du-jour
 Status: published
 

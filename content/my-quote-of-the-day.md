@@ -2,7 +2,7 @@ Title: My quote of the day
 Date: 2007-09-26 00:50
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: my-quote-of-the-day
 Status: published
 

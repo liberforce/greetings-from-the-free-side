@@ -2,7 +2,7 @@ Title: Bientôt le passage chez le notaire...
 Date: 2008-08-18 01:38
 Category: Life / Vie quotidienne
 Tags:
-
+Lang: fr
 Slug: bientot-le-passage-chez-le-notaire
 Status: published
 

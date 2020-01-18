@@ -2,7 +2,7 @@ Title: 2006 is ending...
 Date: 2007-09-26 00:42
 Category: Life / Vie quotidienne
 Tags:
-
+Lang: en
 Slug: 2006-is-ending
 Status: published
 

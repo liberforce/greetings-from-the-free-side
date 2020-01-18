@@ -2,7 +2,7 @@ Title: Communiquer avec un baladeur MTP sous Linux
 Date: 2007-10-12 09:31
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: communiquer-avec-un-baladeur-mtp-sous-linux
 Status: published
 

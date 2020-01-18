@@ -2,7 +2,7 @@ Title: Recycling an old machine for gcompris - part 2
 Date: 2007-09-26 22:26
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: recycling-an-old-machine-for-gcompris-part-2
 Status: published
 

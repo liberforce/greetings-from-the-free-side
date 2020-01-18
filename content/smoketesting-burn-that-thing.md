@@ -2,7 +2,7 @@ Title: Smoketesting ? Burn that thing !
 Date: 2007-09-26 01:01
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: smoketesting-burn-that-thing
 Status: published
 

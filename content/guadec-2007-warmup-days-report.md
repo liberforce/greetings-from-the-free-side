@@ -2,7 +2,7 @@ Title: GUADEC 2007: Warmup days report
 Date: 2007-09-26 21:38
 Category: Computers / Informatique
 Tags:
-
+Lang: en
 Slug: guadec-2007-warmup-days-report
 Status: published
 

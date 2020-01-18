@@ -2,7 +2,7 @@ Title: GIMP + GREYCstoration = magie
 Date: 2008-03-11 00:50
 Category: Computers / Informatique
 Tags:
-
+Lang: fr
 Slug: gimp-greycstoration-magie
 Status: published
 

@@ -2,7 +2,7 @@ Title: T ki ?
 Date: 2007-09-26 01:10
 Category: Life / Vie quotidienne
 Tags:
-
+Lang: fr
 Slug: t-ki
 Status: published
 
