@@ -6,7 +6,10 @@ Lang: en
 Slug: 2006-is-ending
 Status: published
 
-...And my parents came back from Portugal to spend the holidays with their 3childs and 3 grandchilds. Of course, as always, they came back with some greatfood! My parents are retired and since then, were back to their roots:agriculture. So I could taste theses oranges, sweet potatoes they cultivate:-)
+...And my parents came back from Portugal to spend the holidays with their 3
+childs and 3 grandchilds. Of course, as always, they came back with some great
+food! My parents are retired and since then, were back to their roots:
+agriculture. So I could taste theses oranges, sweet potatoes they cultivate:-)
 
 Soooo good.
 
