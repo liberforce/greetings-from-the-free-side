@@ -1,4 +1,3 @@
-agfa-snapscan-1212p-and-linux.md
 album-jamendo-de-la-semaine-baiki.md
 au-boulot-driver-carte-de-test-udev-ports-en-user-space.md
 beauty-and-the-geek-lets-geek-again.md
