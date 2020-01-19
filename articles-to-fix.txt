@@ -1,4 +1,3 @@
-au-boulot-driver-carte-de-test-udev-ports-en-user-space.md
 beauty-and-the-geek-lets-geek-again.md
 best-wishes-of-an-happy-new-year.md
 bientot-le-passage-chez-le-notaire.md
