@@ -12,4 +12,4 @@ On the eleven people of our group, seems everyone was satisfied with thefood qua
 
 Here's the [Culuca on GoogleMaps](http://goo.gl/maps/X9Y85), and here's our former polpo friend :-)
 
-[![\\"\\"](/public/guadec/2012/.P1080329_m.jpg "\"polpo")](/public/guadec/2012/P1080329.JPG)
+[![polpo]({static}/media/guadec/2012/P1080329.JPG)]({static}/media/guadec/2012/P1080329.JPG)
