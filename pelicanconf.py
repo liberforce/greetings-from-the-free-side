@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = "liberforce"
 SITENAME = "Greetings From The Free Side!"
-SITEURL = ""
+SITEURL = "blog.freeside.fr"
 
 PATH = "content"
 STATIC_PATHS = ["media"]
