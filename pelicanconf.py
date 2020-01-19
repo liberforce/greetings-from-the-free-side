@@ -7,6 +7,7 @@ SITENAME = "Greetings From The Free Side!"
 SITEURL = ""
 
 PATH = "content"
+STATIC_PATHS = ["media"]
 
 TIMEZONE = "Europe/Paris"
 
