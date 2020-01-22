@@ -87,7 +87,6 @@ my-quote-of-the-day.md
 next-step-to-rule-the-world-done.md
 nicolas-sarkozy-est-au-deuxieme-tour.md
 nouveau-job.md
-number-of-the-day-185.md
 oisiweb-comment-afficher-une-chaine-de-caracteres-avec-des-accents.md
 oisiweb-convertir-une-video-pour-le-meizu-m6.md
 olympia-spammeur.md
