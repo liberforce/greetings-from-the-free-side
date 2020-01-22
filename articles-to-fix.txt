@@ -1,5 +1,3 @@
-breaking-news-nokia-is-trying-to-buy-trolltech.md
-bye-bye-planet-mandriva.md
 call-me-back-mr-society.md
 ces-projets-qui-tombent-dans-loubli.md
 choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1.md
