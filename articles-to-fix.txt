@@ -1,4 +1,3 @@
-choisir-son-baladeur-numerique-compatible-linux-et-oggvorbis-partie-1.md
 choisir-son-baladeur-numerique-partie-2.md
 choisir-son-baladeur-numerique-partie-3.md
 comment-migrer-vers-dotclear.md
