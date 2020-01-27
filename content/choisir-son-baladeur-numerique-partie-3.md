@@ -11,21 +11,31 @@ And the winner is:
 
 Le *Meizu M6 SL 8Go*.
 
-Consultez le [test du Meizu M6 SP](http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6) sur GénérationMP3 pour connaitre ses spécificationsexactes. Le M6 SL est le successeur du M6 SP, mais [les deuxmodèles sont très similaires](http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/).
+Consultez le [test du Meizu M6
+SP](http://www.generationmp3.com/labotestgmp3/index.php/2006/09/12/73-test-et-video-du-meizu-miniplayer-m6)
+sur Génération MP3 pour connaitre ses spécifications exactes. Le M6 SL est le
+successeur du M6 SP, mais [les deux modèles sont très
+similaires](http://fr.meizublog.com/specifications-prix-et-dates-du-meizu-m6-sl/).
 
-Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à [ygsd\_cn1](http://myworld.ebay.fr/ygsd_cn1).
+Prix: 133 € TTC, transport Chine-France inclus. Commandé sur ebay à
+[ygsd\_cn1](http://myworld.ebay.fr/ygsd_cn1).
 
-![\\"Meizu](/public/vrac/meizu_sl.jpg)
+![Meizu]({static}/media/vrac/meizu_sl.jpg)
 
 Pourquoi lui ?
 --------------
 
-Et pourquoi pas :-) ? Bon, voici les principaux avantages que je luitrouvais, par rapport à mes besoins.
+Et pourquoi pas :-) ? Bon, voici les principaux avantages que je lui trouvais,
+par rapport à mes besoins.
 
 Avantages:
 
--   Gestion native du [Ogg](http://fr.wikipedia.org/wiki/Ogg)/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis), avec le [FLAC](http://fr.wikipedia.org/wiki/FLAC) en bonus
--   Connexion [UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class), donccompatible avec tous les systèmes d'exploitation actuels sans pilotespécifique
+-   Gestion native du
+    [Ogg](http://fr.wikipedia.org/wiki/Ogg)/[Vorbis](http://fr.wikipedia.org/wiki/Vorbis),
+avec le [FLAC](http://fr.wikipedia.org/wiki/FLAC) en bonus
+-   Connexion
+    [UMS](http://en.wikipedia.org/wiki/USB_mass_storage_device_class), donc
+compatible avec tous les systèmes d'exploitation actuels sans pilote spécifique
 -   Connectique USB standard
 -   Radio FM avec RDS
 -   Dictaphone
@@ -35,42 +45,63 @@ Avantages:
 
 Inconvénients:
 
--   Batterie interne, donc quasi impossible à remplacer. Je préfère les pilespour ne jamais tomber en rade.
--   Le firmware de base est en anglais ou en chinois, préconfiguré en anglaispar le vendeur. Un firmware bidouillé (non officiel) pour le traduire enfrançais existe, mais ma chérie a fait des études d'anglais, donc pas besoin deprendre le risque à priori :-).
--   Pas d'adaptateur secteur fourni, mais à la rigueur je l'achèterai ici, jeserai sûr de le trouver au bon format de prise
+-   Batterie interne, donc quasi impossible à remplacer. Je préfère les piles
+    pour ne jamais tomber en rade.
+-   Le firmware de base est en anglais ou en chinois, préconfiguré en anglais
+    par le vendeur. Un firmware bidouillé (non officiel) pour le traduire en
+français existe, mais ma chérie a fait des études d'anglais, donc pas besoin de
+prendre le risque à priori :-).
+-   Pas d'adaptateur secteur fourni, mais à la rigueur je l'achèterai ici, je
+    serai sûr de le trouver au bon format de prise
 
-Je l'ai choisi pour toutes ces raisons, et surtout le fait qu'il utilise desformats ouverts et une connectique standard, avec un très bon rapport qualitéprix.
+Je l'ai choisi pour toutes ces raisons, et surtout le fait qu'il utilise des
+formats ouverts et une connectique standard, avec un très bon rapport qualité
+prix.
 
-Vous pouvez consulter les [spécifications complètes du Meizu M6SL](http://en.meizu.com/product_m6sl.asp) pour plus d'informations.
+Vous pouvez consulter les [spécifications complètes du Meizu
+M6SL](http://en.meizu.com/product_m6sl.asp) pour plus d'informations.
 
 Pourquoi l'importer ?
 ---------------------
 
-Pourquoi l'avoir commandé en import ? Pour plusieurs raisons. En effet, lemeizu M6 est disponible à la FNAC, mais uniquement en commande par internet.Etant adhérent FNAC, cela aurait pu m'intéresser. Sauf que:
+Pourquoi l'avoir commandé en import ? Pour plusieurs raisons. En effet, le
+Meizu M6 est disponible à la FNAC, mais uniquement en commande par internet.
+Étant adhérent FNAC, cela aurait pu m'intéresser. Sauf que:
 
 ### Trop récent
 
-Le modèle M6 SL est sorti récemment en Chine, et ne sera pas proposé enFrance avant la fin de l'année. De plus, le modèle 8 Go n'est pas proposé à laFNAC, il n'y a que les version à 2 Go ou 4 Go.
+Le modèle M6 SL est sorti récemment en Chine, et ne sera pas proposé en France
+avant la fin de l'année. De plus, le modèle 8 Go n'est pas proposé à la FNAC,
+il n'y a que les version à 2 Go ou 4 Go.
 
 ### Trop cher
 
-La version 4 Go coûte 141,55 € (hors frais de port). En l'important deChine, j'ai la version 8 Go pour 133 €. Résultat : 4 Go de plus pour unedizaine d'euros de moins. En plus le rapport euro/dollar est très avantageux,et les conversions des commerçants à 99 \$ = 99 €, j'en ai un peu marre...
+La version 4 Go coûte 141,55 € (hors frais de port). En l'important de Chine,
+j'ai la version 8 Go pour 133 €. Résultat : 4 Go de plus pour une dizaine
+d'euros de moins. En plus le rapport euro/dollar est très avantageux,et les
+conversions des commerçants à 99 \$ = 99 €, j'en ai un peu marre...
 
 ### Trop bridé (humour)
 
-Le firmware des modèles distribués par Dane-elec (distributeur des Meizu enFrance) désactive la radio pour éviter les taxes de ce type d'appareil. J'avaiseu le même problème avec mon Samsung YP-MT6X : la version vendue en France negérait pas la radio (même en le flashant je crois). Flasher le firmware pourpouvoir gérer la radio aurait annulé la garantie, seul facteur qui m'auraitincité à le prendre en France. Dans ces conditions, je me suis donc dit quetenter l'import valait le coup.
+Le firmware des modèles distribués par Dane-elec (distributeur des Meizu en
+France) désactive la radio pour éviter les taxes de ce type d'appareil. J'avais
+eu le même problème avec mon Samsung YP-MT6X : la version vendue en France ne
+gérait pas la radio (même en le flashant je crois). Flasher le firmware pour
+pouvoir gérer la radio aurait annulé la garantie, seul facteur qui m'aurait
+incité à le prendre en France. Dans ces conditions, je me suis donc dit que
+tenter l'import valait le coup.
 
 Remerciements
 -------------
 
-Merci beaucoup à Bob pour m'avoir parlé dans les commentaire de ce blog dece modèle ;-)
+Merci beaucoup à Bob pour m'avoir parlé dans les commentaire de ce blog de ce
+modèle ;-)
 
 Ressources externes
 -------------------
 
--   [Le forum Meizu](http://www.meizume.com)
--   [Le blogconsacré au Meizu](http://meizu-miniplayer.blogspot.com)
--   [Le blog surle Meizu M3, orienté linux](http://www.llaumgui.com/tag/Meizu%20M3)
--   [La FAQ Meizu](http://fr.meizublog.com/faq/)
--   [Lemanuel en anglais au format PDF](http://en.meizu.com/downfile/M6manual_T1.009.pdf)
-
+- [Le forum Meizu](http://www.meizume.com)
+- [Le blog consacré au Meizu](http://meizu-miniplayer.blogspot.com)
+- [Le blog sur le Meizu M3, orienté linux](http://www.llaumgui.com/tag/Meizu%20M3)
+- [La FAQ Meizu](http://fr.meizublog.com/faq/)
+- [Le manuel en anglais au format PDF](http://en.meizu.com/downfile/M6manual_T1.009.pdf)
