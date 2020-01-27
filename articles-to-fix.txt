@@ -1,4 +1,3 @@
-communiquer-avec-un-baladeur-mtp-sous-linux.md
 compte-rendu-de-linstall-party-mandriva-linux-2008.md
 compte-rendu-du-fosdem.md
 crac-boum-hue.md
