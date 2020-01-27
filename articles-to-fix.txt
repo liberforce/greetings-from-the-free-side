@@ -1,4 +1,3 @@
-compte-rendu-du-fosdem.md
 crac-boum-hue.md
 culture-geek.md
 deprime-publicitaire.md
