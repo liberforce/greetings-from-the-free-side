@@ -6,4 +6,4 @@ Lang: fr
 Slug: comment-reussir-dans-la-vie-un-indice-pour-vous-chez-vous
 Status: published
 
-[Lepetit Jean S. est attendu par son papa.](http://www.arretsurimages.net/vite.php?id=864)
+[Le petit Jean S. est attendu par son papa.](http://www.arretsurimages.net/vite.php?id=864)
