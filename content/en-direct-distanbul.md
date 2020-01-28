@@ -1,4 +1,4 @@
-Title: En dırect d'Istanbul
+Title: En direct d'Istanbul
 Date: 2008-07-07 08:08
 Category: Life / Vie quotidienne
 Tags:
@@ -6,8 +6,25 @@ Lang: fr
 Slug: en-direct-distanbul
 Status: published
 
-Et ouı, c'est le premıer jour du GUADEC ici a Istanbul... Excusezl'orthographe je rısque de mettre un moment a m'habıtuer au clavıer turc... Jesuıs arrive hıer: levé a 5h00, arrıvé a 15h00 heure locale, ce fut donc unerude journée. Apres une pause toılettes a l'aéroport, j'aı retrouvé par hasardLucas Rocha, Chrıstopher Blızzard, Reınout van Shouten (je suıs sur de megourer sur l'orthographe de son nom) et d'qutres encore.
+Et oui, c'est le premier jour du GUADEC ici a Istanbul... Excusez l'orthographe
+je risque de mettre un moment a m'habituer au clavier turc... Je suis arrivé
+hier: levé a 5h00, arrivé a 15h00 heure locale, ce fut donc une rude journée.
+Après une pause toilettes a l'aéroport, j'ai retrouvé par hasard Lucas Rocha,
+Christopher Blizzard, Reinout van Shouten (je suis sur de me gourer sur
+l'orthographe de son nom) et d'autres encore.
 
-Hıer, premıere balade nocturne avec Aurore. Istanbul est une vıllemagnıfıque sur le plan hıstorıque et les mosquées sont nombreuses et assezımpressıonnantes. La balade s'est fınıe par un retour en taxı apres 6km demarche: le pont que l'on voulaıt emprunter pour rentrer n'emmenaıt pas la ou onle pensaıt !
+Hier, première balade nocturne avec Aurore. Istanbul est une ville magnifique
+sur le plan historique et les mosquées sont nombreuses et assez
+impressionnantes. La balade s'est finie par un retour en taxi après 6km de
+marche: le pont que l'on voulait emprunter pour rentrer n'emmenait pas la ou on
+le pensait !
 
-La nuıt ausı a été rude a l'hotel Adora: travaux du tramway pendant unebonne partıe de la nuıt, juste sous nos fenetres. Vıve le marteau piqueur a1h00 du matın ! Bon, sur ce, je fıle, dırectıon l'offıce du tourısme, hıstoırede récupérer des plans et évıter de se paumer a nouveau ! Ensuıte, on ıra auGUADEC pour l'ınscrıptıon et les premieres conferences. La balade d'hıer nous apermıs de passer devant l'université ou ont lıeu les conferences, maıs je nesaıs pas comment y accéder en transports en commun. En tout cqs le lıeu esttres agréable, en bord de mer. On a meme crus que c'étaıt un bar au départ auel'on voyait !
+La nuit aussi a été rude a l'hôtel Adora: travaux du tramway pendant une bonne
+partie de la nuit, juste sous nos fenêtres. Vive le marteau piqueur a 1h00 du
+matin ! Bon, sur ce, je file, direction l'office du tourisme, histoire de
+récupérer des plans et éviter de se paumer a nouveau ! Ensuite, on ira au
+GUADEC pour l'inscription et les premières conférences. La balade d'hier nous a
+permis de passer devant l'université ou ont lieu les conférences, mais je ne
+sais pas comment y accéder en transports en commun. En tout cas le lieu est
+très agréable, en bord de mer. On a même crus que c'était un bar au départ que
+l'on voyait !
