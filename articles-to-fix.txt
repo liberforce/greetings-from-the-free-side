@@ -1,4 +1,3 @@
-encore-une-utilisation-detournee-de-wikipedia.md
 en-direct-distanbul.md
 erreurs-frequentes-en-gtk.md
 et-jesus-dit-aux-apotres.md
