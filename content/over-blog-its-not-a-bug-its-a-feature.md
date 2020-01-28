@@ -1,6 +1,6 @@
 Title: Over-blog: It's not a bug, it's a feature...
 Date: 2007-09-26 21:39
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: fr
 Slug: over-blog-its-not-a-bug-its-a-feature

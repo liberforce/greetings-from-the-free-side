@@ -1,6 +1,6 @@
 Title: Geek an hour, geek forever
 Date: 2010-04-03 01:11
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: geek-an-hour-geek-forever

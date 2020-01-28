@@ -1,6 +1,6 @@
 Title: GUADEC: au revoır Istanbul !
 Date: 2008-07-12 20:17
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: guadec-au-revoir-istanbul

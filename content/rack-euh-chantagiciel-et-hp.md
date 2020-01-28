@@ -1,6 +1,6 @@
 Title: Rack... Euh, chantagiciel et HP
 Date: 2008-10-22 23:38
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: rack-euh-chantagiciel-et-hp

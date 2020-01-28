@@ -1,6 +1,6 @@
 Title: Vista celebration
 Date: 2007-09-26 22:45
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: vista-celebration

@@ -1,6 +1,6 @@
 Title: Micro Hebdo n°531 sur les ultra-portables (netbooks)
 Date: 2008-06-24 01:21
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks

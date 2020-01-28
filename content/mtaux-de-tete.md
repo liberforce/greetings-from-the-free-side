@@ -1,6 +1,6 @@
 Title: (M|T)aux de tête
 Date: 2007-09-26 01:09
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: mtaux-de-tete

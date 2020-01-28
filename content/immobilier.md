@@ -1,6 +1,6 @@
 Title: Immobilier...
 Date: 2008-05-19 22:57
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: immobilier

@@ -1,6 +1,6 @@
 Title: Culture Geek
 Date: 2007-09-26 23:10
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: fr
 Slug: culture-geek

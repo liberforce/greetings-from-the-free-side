@@ -1,6 +1,6 @@
 Title: Rude retour en perspective
 Date: 2007-09-26 00:53
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: rude-retour-en-perspective

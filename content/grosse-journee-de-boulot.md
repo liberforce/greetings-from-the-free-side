@@ -1,6 +1,6 @@
 Title: Grosse journée de boulot
 Date: 2007-10-01 17:37
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: grosse-journee-de-boulot

@@ -1,6 +1,6 @@
 Title: Nouveau job !
 Date: 2013-10-25 14:01
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: nouveau-job

@@ -1,6 +1,6 @@
 Title: Ces projets qui tombent dans l'oubli...
 Date: 2007-09-26 21:46
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: ces-projets-qui-tombent-dans-loubli

@@ -1,6 +1,6 @@
 Title: Retour de vacances...
 Date: 2007-09-26 01:05
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: retour-de-vacances

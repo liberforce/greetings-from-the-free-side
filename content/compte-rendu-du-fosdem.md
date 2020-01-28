@@ -1,6 +1,6 @@
 Title: Compte rendu du FOSDEM
 Date: 2007-09-26 22:19
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: compte-rendu-du-fosdem

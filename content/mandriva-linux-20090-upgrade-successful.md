@@ -1,6 +1,6 @@
 Title: Mandriva Linux 2009.0 : upgrade successful
 Date: 2008-10-12 23:23
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: mandriva-linux-20090-upgrade-successful

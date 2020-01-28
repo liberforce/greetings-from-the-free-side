@@ -1,6 +1,6 @@
 Title: Retour vers le passé
 Date: 2008-10-23 00:49
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: retour-vers-le-passe

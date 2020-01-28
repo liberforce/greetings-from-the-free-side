@@ -1,6 +1,6 @@
 Title: FOSDEM 2013
 Date: 2013-01-30 03:18
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: en
 Slug: fosdem-2013

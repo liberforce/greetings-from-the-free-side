@@ -1,6 +1,6 @@
 Title: Vacances, neige et écologie
 Date: 2007-09-26 00:56
-Category: Ecology  / Ecologie
+Category: Ecologie
 Tags:
 Lang: fr
 Slug: vacances-neige-et-ecologie

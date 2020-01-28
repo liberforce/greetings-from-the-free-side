@@ -1,6 +1,6 @@
 Title: FOSDEM 2014
 Date: 2014-02-14 01:35
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: fosdem-2014

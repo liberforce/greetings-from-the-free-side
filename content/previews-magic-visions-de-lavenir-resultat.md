@@ -1,6 +1,6 @@
 Title: Previews Magic: Visions de l'avenir - résultat
 Date: 2007-10-01 17:32
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: previews-magic-visions-de-lavenir-resultat

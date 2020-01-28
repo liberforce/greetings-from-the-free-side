@@ -1,6 +1,6 @@
 Title: Réponse de HP à la demande de remboursement
 Date: 2008-11-06 01:00
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: reponse-de-hp-a-la-demande-de-remboursement

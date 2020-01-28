@@ -1,6 +1,6 @@
 Title: SVN migration
 Date: 2007-09-26 00:51
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: svn-migration

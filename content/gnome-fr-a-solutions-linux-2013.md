@@ -1,6 +1,6 @@
 Title: GNOME-FR à Solutions Linux 2013
 Date: 2013-04-29 14:51
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: gnome-fr-a-solutions-linux-2013

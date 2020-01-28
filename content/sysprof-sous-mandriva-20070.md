@@ -1,6 +1,6 @@
 Title: Sysprof sous Mandriva 2007.0
 Date: 2007-09-26 22:58
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: sysprof-sous-mandriva-20070

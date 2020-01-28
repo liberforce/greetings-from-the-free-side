@@ -1,6 +1,6 @@
 Title: Why liberforce, oh why ?
 Date: 2007-09-26 22:14
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: en
 Slug: why-liberforce-oh-why

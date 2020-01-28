@@ -1,6 +1,6 @@
 Title: Le conseiller Windows
 Date: 2007-09-26 22:22
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: le-conseiller-windows

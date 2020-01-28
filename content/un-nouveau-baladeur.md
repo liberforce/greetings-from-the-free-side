@@ -1,6 +1,6 @@
 Title: Un nouveau baladeur...
 Date: 2009-08-19 00:31
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: un-nouveau-baladeur

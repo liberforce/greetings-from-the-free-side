@@ -1,6 +1,6 @@
 Title: It's big, it's white, it's hairy
 Date: 2008-06-01 18:32
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: its-big-its-white-its-hairy

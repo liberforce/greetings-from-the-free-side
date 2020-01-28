@@ -1,6 +1,6 @@
 Title: Quoi de neuf docteur ?
 Date: 2007-09-26 21:51
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: quoi-de-neuf-docteur

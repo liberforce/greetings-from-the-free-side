@@ -1,6 +1,6 @@
 Title: I'm a Radio Star
 Date: 2007-11-13 02:22
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: im-a-radio-star

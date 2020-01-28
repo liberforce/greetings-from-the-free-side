@@ -1,6 +1,6 @@
 Title: Beauty And The Geek: let's geek again !
 Date: 2007-09-26 01:17
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: fr
 Slug: beauty-and-the-geek-lets-geek-again

@@ -1,6 +1,6 @@
 Title: First Desktop Summit !
 Date: 2011-08-04 09:15
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: first-desktop-summit

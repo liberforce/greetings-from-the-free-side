@@ -1,6 +1,6 @@
 Title: Next step to rule the world : done
 Date: 2008-04-09 19:06
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: next-step-to-rule-the-world-done

@@ -1,6 +1,6 @@
 Title: La fin de la pub à Paris ?
 Date: 2007-12-16 23:11
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: fr
 Slug: la-fin-de-la-pub-a-paris

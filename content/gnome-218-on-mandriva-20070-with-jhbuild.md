@@ -1,6 +1,6 @@
 Title: GNOME 2.18 on Mandriva 2007.0 with jhbuild
 Date: 2007-09-26 23:09
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: gnome-218-on-mandriva-20070-with-jhbuild

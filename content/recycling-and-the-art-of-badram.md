@@ -1,6 +1,6 @@
 Title: Recycling and the art of BadRAM...
 Date: 2007-09-26 00:57
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: recycling-and-the-art-of-badram

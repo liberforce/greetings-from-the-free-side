@@ -1,6 +1,6 @@
 Title: 30, but not the way I thought...
 Date: 2009-11-09 23:58
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: en
 Slug: 30-but-not-the-way-i-thought

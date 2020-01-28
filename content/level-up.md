@@ -1,6 +1,6 @@
 Title: Level up
 Date: 2008-10-14 09:33
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: level-up

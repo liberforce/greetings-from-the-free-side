@@ -1,6 +1,6 @@
 Title: Pas très actif
 Date: 2008-01-19 02:24
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: pas-tres-actif

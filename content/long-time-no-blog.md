@@ -1,6 +1,6 @@
 Title: Long time no blog...
 Date: 2008-01-19 01:50
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: fr
 Slug: long-time-no-blog

@@ -1,6 +1,6 @@
 Title: Fed up with ulimit.com
 Date: 2007-09-26 00:58
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: fed-up-with-ulimitcom

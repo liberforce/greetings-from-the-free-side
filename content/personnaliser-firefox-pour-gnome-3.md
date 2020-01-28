@@ -1,6 +1,6 @@
 Title: Personnaliser Firefox pour GNOME 3
 Date: 2013-02-05 15:12
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: personnaliser-firefox-pour-gnome-3

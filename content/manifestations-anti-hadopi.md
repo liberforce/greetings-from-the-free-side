@@ -1,6 +1,6 @@
 Title: Manifestations anti-HADOPI
 Date: 2009-04-26 17:11
-Category: Politics / Politique
+Category: Politique
 Tags:
 Lang: fr
 Slug: manifestations-anti-hadopi

@@ -1,6 +1,6 @@
 Title: Windows, Linux, thoughts
 Date: 2008-06-16 01:27
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: windows-linux-thoughts

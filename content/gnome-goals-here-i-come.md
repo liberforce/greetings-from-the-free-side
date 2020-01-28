@@ -1,6 +1,6 @@
 Title: GNOME Goals, here I come !
 Date: 2008-12-04 02:02
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: gnome-goals-here-i-come

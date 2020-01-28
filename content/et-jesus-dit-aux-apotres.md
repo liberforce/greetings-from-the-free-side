@@ -1,6 +1,6 @@
 Title: Et Jésus dit aux apôtres...
 Date: 2007-09-26 22:07
-Category: Politics / Politique
+Category: Politique
 Tags:
 Lang: fr
 Slug: et-jesus-dit-aux-apotres

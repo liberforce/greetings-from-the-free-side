@@ -1,6 +1,6 @@
 Title: Mandriva : thumbs up, GNOME : thumbs down
 Date: 2009-05-05 02:25
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: mandriva-thumbs-up-gnome-thumbs-down

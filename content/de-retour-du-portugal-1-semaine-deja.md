@@ -1,6 +1,6 @@
 Title: De retour du Portugal, 1 semaine déjà...
 Date: 2007-09-26 01:16
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: de-retour-du-portugal-1-semaine-deja

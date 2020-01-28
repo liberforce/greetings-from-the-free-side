@@ -1,6 +1,6 @@
 Title: La fin de l'Internet ?
 Date: 2007-09-26 01:00
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: la-fin-de-linternet

@@ -1,6 +1,6 @@
 Title: HP: silence radio
 Date: 2008-11-03 20:36
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: hp-silence-radio

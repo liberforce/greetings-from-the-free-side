@@ -1,6 +1,6 @@
 Title: Go players ?
 Date: 2008-08-09 09:04
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: en
 Slug: go-players

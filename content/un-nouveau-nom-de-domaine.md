@@ -1,6 +1,6 @@
 Title: Un nouveau nom de domaine...
 Date: 2007-09-26 01:23
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: un-nouveau-nom-de-domaine

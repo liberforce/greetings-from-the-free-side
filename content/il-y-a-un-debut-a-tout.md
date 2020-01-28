@@ -1,6 +1,6 @@
 Title: Il y a un début à tout...
 Date: 2007-09-26 00:38
-Category: Gossip / Blabla
+Category: Blabla
 Tags:
 Lang: en
 Slug: il-y-a-un-debut-a-tout

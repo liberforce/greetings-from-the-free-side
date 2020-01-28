@@ -1,6 +1,6 @@
 Title: Crac boum hue !
 Date: 2008-10-17 00:17
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: crac-boum-hue

@@ -1,6 +1,6 @@
 Title: Recycling on the net...
 Date: 2007-09-26 01:03
-Category: Ecology  / Ecologie
+Category: Ecologie
 Tags:
 Lang: en
 Slug: recycling-on-the-net

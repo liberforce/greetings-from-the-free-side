@@ -1,6 +1,6 @@
 Title: GNOME Goal: Install theme-friendly icons
 Date: 2007-10-01 17:35
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: gnome-goal-install-theme-friendly-icons

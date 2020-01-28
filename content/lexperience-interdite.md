@@ -1,6 +1,6 @@
 Title: L'expérience interdite...
 Date: 2008-10-11 01:44
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: fr
 Slug: lexperience-interdite

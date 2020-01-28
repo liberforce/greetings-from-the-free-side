@@ -1,6 +1,6 @@
 Title: Happy Birthday to me !
 Date: 2008-11-02 00:47
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: happy-birthday-to-me

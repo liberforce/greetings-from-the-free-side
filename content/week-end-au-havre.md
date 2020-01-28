@@ -1,6 +1,6 @@
 Title: Week end au Havre
 Date: 2007-09-26 22:39
-Category: Life / Vie quotidienne
+Category: Vie quotidienne
 Tags:
 Lang: fr
 Slug: week-end-au-havre

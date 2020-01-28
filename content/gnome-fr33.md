@@ -1,6 +1,6 @@
 Title: GNOME Fr33 !
 Date: 2011-04-07 19:02
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: gnome-fr33

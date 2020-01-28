@@ -1,6 +1,6 @@
 Title: Karlsruhe, here we go !
 Date: 2016-07-25 20:01
-Category: Computers / Informatique
+Category: Informatique
 Tags:
 Lang: en
 Slug: karlsruhe-here-we-go
