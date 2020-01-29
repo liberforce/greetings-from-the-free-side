@@ -18,7 +18,6 @@ go-players.md
 grep-updated-in-mandriva-20090.md
 grosse-journee-de-boulot.md
 guadec-2007-incertain.md
-guadec-2007-the-offline-desktop.md
 guadec-2007-warmup-days-report.md
 guadec-au-revoir-istanbul.md
 happy-birthday-to-me.md
