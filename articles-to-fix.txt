@@ -49,7 +49,6 @@ micro-hebdo-ndeg531-sur-les-ultra-portables-netbooks.md
 migration-over-blog-vers-dotclear-operation-reussie.md
 mtaux-de-tete.md
 my-quote-of-the-day.md
-next-step-to-rule-the-world-done.md
 nicolas-sarkozy-est-au-deuxieme-tour.md
 nouveau-job.md
 oisiweb-comment-afficher-une-chaine-de-caracteres-avec-des-accents.md
