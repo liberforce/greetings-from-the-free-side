@@ -1,4 +1,3 @@
-et-jesus-dit-aux-apotres.md
 evitez-les-debordements-de-boite-aux-lettres.md
 favorite-command-after-a-clean-mandriva-install.md
 fed-up-with-ulimitcom.md
