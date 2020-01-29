@@ -58,7 +58,6 @@ on-the-private-front.md
 over-blog-its-not-a-bug-its-a-feature.md
 pas-de-mandriva-dans-capital.md
 pas-tres-actif.md
-personnaliser-firefox-pour-gnome-3.md
 pidgin-connection-errors-with-jabber.md
 pitivi-et-mediagoblin-meme-combat.md
 plein-de-choses-a-dire.md
