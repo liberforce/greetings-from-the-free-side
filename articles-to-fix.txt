@@ -19,7 +19,6 @@ grep-updated-in-mandriva-20090.md
 grosse-journee-de-boulot.md
 guadec-2007-incertain.md
 guadec-au-revoir-istanbul.md
-happy-birthday-to-me.md
 hasta-la-vista.md
 here-is-nowhere.md
 hp-silence-radio.md
