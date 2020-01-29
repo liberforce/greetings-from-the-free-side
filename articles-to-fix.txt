@@ -66,7 +66,6 @@ pret-pour-le-guadec.md
 previews-magic-visions-de-lavenir.md
 previews-magic-visions-de-lavenir-resultat.md
 process-wakeups-on-gnome-218.md
-proprietaire-enfin.md
 quels-sont-les-avantages-et-inconvenients-de-linux-par-rapport-a-windows.md
 question-yahoo-du-jour.md
 quoi-de-neuf-docteur.md
