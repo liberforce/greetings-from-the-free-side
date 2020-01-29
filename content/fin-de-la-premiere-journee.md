@@ -6,14 +6,31 @@ Lang: fr
 Slug: fin-de-la-premiere-journee
 Status: published
 
-Finalement tout s'est bien passé aujourd'hui. Nous sommes un peu plusfamiliarisés avec le réseau de tranports et l'Akbil. C'est une sorte de toutepetite cuillere en plastique qui sert de carte de transports rechargeable ici.Arrivés au GUADEC Pascal Terjan nous a présentés a Tuçe et Elvin, deuxcharmantes stambouliotes avec quı nous avons dıscuté tout l'apres midi (ainsiqu'avec Christian, un allemand de chez Imendıo).
+Finalement tout s'est bien passé aujourd'hui. Nous sommes un peu plus
+familiarisés avec le réseau de transports et l'Akbil. C'est une sorte de toute
+petite cuillère en plastique qui sert de carte de transports rechargeable
+ici.Arrivés au GUADEC Pascal Terjan nous a présentés a Tuçe et Elvin, deux
+charmantes stambouliotes avec qui nous avons discuté tout l'après midi (ainsi
+qu'avec Christian, un allemand de chez Imendio).
 
-En effet cette année, le GUADEC c'est assez léger coté conférences... Il y apas mal de "free slots", c'est a dıre de cases vides dans le plannıng. Alors onen a profıté pour refaıre le monde entre européens, et ça a été ma foi tresenrichissant.
+En effet cette année, le GUADEC c'est assez léger coté conférences... Il y a
+pas mal de "free slots", c'est à dire de cases vides dans le planning. Alors on
+en a profité pour refaire le monde entre européens, et ça a été ma foi très
+enrichissant.
 
-Ah, ceux auı ne sont pas venus cette année regretteront peu etre lemagnıfıque T-shirt commémoratıf, ainsi que la malette pour PC portable (laclasse - c'est ballot, j'aı pas de portable).
+Ah, ceux qui ne sont pas venus cette année regretteront peu être le magnifique
+T-shirt commémoratif, ainsi que la mallette pour PC portable (la classe - c'est
+ballot, j'ai pas de portable).
 
-Ce soir étaıt organisée la premiere beuverie. Attention, l'alcool n'est pasdonné. En demandant une caipirinha au bar, je suis un peu passé pour un extraterrestre, mais elle m'a été facturée au prix fort :  20 YTL (environ 10€). J'ai profıté de la soirée pour prendre rendez vous avec Reınout pourdiscuter un peu utilisabilité des drakxtools.
+Ce soir était organisée la première beuverie. Attention, l'alcool n'est pas
+donné. En demandant une caipirinha au bar, je suis un peu passé pour un
+extraterrestre, mais elle m'a été facturée au prix fort :  20 YTL (environ
+10€). J'ai profité de la soirée pour prendre rendez vous avec Reinout pour
+discuter un peu utilisabilité des drakxtools.
 
-Le retour s'est fait en grande partie a pıed, car vu l'heure seul lefunıculaire étaıt encore accessible. Demaın les conférences ne m'ıntéressentspas trop, je vaıs en profıter pour faıre un peu de tourisme avec machérie...
+Le retour s'est fait en grande partie a pied, car vu l'heure seul le
+funiculaire était encore accessible. Demain les conférences ne m'intéressent
+pas trop, je vais en profiter pour faire un peu de tourisme avec ma chérie...
 
-PS: ça y est le marteau piqueur pour les travaux du tramway est de retour...Oui, a 01h50 du matın (sic).
+PS: ça y est le marteau piqueur pour les travaux du tramway est de retour...
+Oui, a 01h50 du matin (sic).
