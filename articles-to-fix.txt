@@ -14,7 +14,6 @@ gnome-goal-install-theme-friendly-icons.md
 gnome-goals-here-i-come.md
 gnome-lack-of-documentation.md
 gnome-tip-of-the-day.md
-google-sarkozy-apparente-a-le-pen.md
 go-players.md
 grep-updated-in-mandriva-20090.md
 grosse-journee-de-boulot.md
