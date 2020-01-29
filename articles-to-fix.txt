@@ -42,7 +42,6 @@ lexperience-interdite.md
 line-wrapping-in-plain-text-emails-in-thunderbird.md
 long-time-no-blog.md
 mandriva-2008-se-rapproche.md
-mandriva-linux-20090-upgrade-successful.md
 mandriva-on-the-boot-time-front.md
 mandriva-positioning-on-the-linux-market.md
 mandriva-thumbs-up-gnome-thumbs-down.md
