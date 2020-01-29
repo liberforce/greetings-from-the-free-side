@@ -1,4 +1,3 @@
-evitez-les-debordements-de-boite-aux-lettres.md
 favorite-command-after-a-clean-mandriva-install.md
 fed-up-with-ulimitcom.md
 feuilles-de-personnages-star-wars-d6.md
