@@ -4,7 +4,6 @@ first-desktop-summit.md
 fosdem-2012-videos-available.md
 fosdem-2013.md
 fosdem-2014.md
-fosdem-2015.md
 fosdem-j-1.md
 geek-an-hour-geek-forever.md
 generation-dig-numerique.md
