@@ -93,7 +93,6 @@ traduisez-gnome-312.md
 transmission-le-client-bittorrent-pour-gnome.md
 tuer-du-monstre-se-relaxer.md
 ubuntu-vs-mandriva-sites-web.md
-un-coup-de-polish-interne-sur-le-blog.md
 un-nouveau-baladeur.md
 un-nouveau-nom-de-domaine.md
 un-nouveau-spammeur-sur-planete-gnome-fr.md
