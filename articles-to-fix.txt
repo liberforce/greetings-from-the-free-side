@@ -6,7 +6,6 @@ fosdem-2013.md
 fosdem-2014.md
 fosdem-j-1.md
 generation-dig-numerique.md
-gimp-greycstoration-magie.md
 git-bz-and-firefox.md
 gnome-218-on-mandriva-20070-with-jhbuild.md
 gnome-fr33.md
