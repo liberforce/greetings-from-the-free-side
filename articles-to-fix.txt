@@ -102,7 +102,6 @@ vista-celebration.md
 vivant.md
 vivement-lelargissement-extra-europeen.md
 week-end-au-havre.md
-what-happened-to-my-boot-time-dude.md
 white-and-nerdy.md
 why-i-dont-use-berylcompiz.md
 why-liberforce-oh-why.md
