@@ -39,3 +39,7 @@ RELATIVE_URLS = True
 # File location
 ARTICLE_URL = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
+
+# Plugins
+PLUGIN_PATHS = ["../pelican-plugins"]
+PLUGINS = ["neighbors"]
