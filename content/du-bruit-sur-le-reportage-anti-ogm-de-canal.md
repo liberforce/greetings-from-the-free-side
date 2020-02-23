@@ -1,6 +1,6 @@
 Title: Du bruit sur le reportage anti-OGM de Canal+...
 Date: 2007-09-26 22:37
-Category: Ecologie
+Category: Écologie
 Tags:
 Lang: fr
 Slug: du-bruit-sur-le-reportage-anti-ogm-de-canal
