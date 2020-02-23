@@ -1,7 +1,7 @@
 Title: Culture Geek
 Date: 2007-09-26 23:10
 Category: Blabla
-Tags:
+Tags: tv
 Lang: fr
 Slug: culture-geek
 Status: published

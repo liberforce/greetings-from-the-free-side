@@ -1,7 +1,7 @@
 Title: Traduisez GNOME 3.12 !
 Date: 2014-03-14 09:47
 Category: Informatique
-Tags:
+Tags: GNOME
 Lang: fr
 Slug: traduisez-gnome-312
 Status: published

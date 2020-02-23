@@ -1,7 +1,7 @@
 Title: Dernière ligne droite...
 Date: 2009-02-16 02:40
 Category: Vie quotidienne
-Tags:
+Tags: FOSDEM, appartement
 Lang: fr
 Slug: derniere-ligne-droite
 Status: published

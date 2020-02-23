@@ -1,7 +1,7 @@
 Title: Process wakeups on GNOME 2.18
 Date: 2007-12-11 00:44
 Category: Informatique
-Tags:
+Tags: écologie, GNOME
 Lang: en
 Slug: process-wakeups-on-gnome-218
 Status: published

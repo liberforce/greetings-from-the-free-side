@@ -1,7 +1,7 @@
 Title: Evitez les débordements de boite aux lettres...
 Date: 2007-09-26 01:24
 Category: Écologie
-Tags:
+Tags: publicité
 Lang: fr
 Slug: evitez-les-debordements-de-boite-aux-lettres
 Status: published

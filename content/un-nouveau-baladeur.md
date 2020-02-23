@@ -1,7 +1,7 @@
 Title: Un nouveau baladeur...
 Date: 2009-08-19 00:31
 Category: Informatique
-Tags:
+Tags: gstreamer, baladeur numérique
 Lang: fr
 Slug: un-nouveau-baladeur
 Status: published

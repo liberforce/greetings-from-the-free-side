@@ -1,7 +1,7 @@
 Title: Propriétaire... Enfin !
 Date: 2008-10-11 00:17
 Category: Vie quotidienne
-Tags:
+Tags: appartement
 Lang: fr
 Slug: proprietaire-enfin
 Status: published

@@ -1,7 +1,7 @@
 Title: La fin de la pub à Paris ?
 Date: 2007-12-16 23:11
 Category: Blabla
-Tags:
+Tags: google, wikipédia, publicité
 Lang: fr
 Slug: la-fin-de-la-pub-a-paris
 Status: published

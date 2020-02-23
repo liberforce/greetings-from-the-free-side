@@ -1,7 +1,7 @@
 Title: Vista celebration
 Date: 2007-09-26 22:45
 Category: Informatique
-Tags:
+Tags: microsoft
 Lang: en
 Slug: vista-celebration
 Status: published

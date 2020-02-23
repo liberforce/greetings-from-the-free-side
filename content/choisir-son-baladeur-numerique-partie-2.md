@@ -1,7 +1,7 @@
 Title: Choisir son baladeur numérique - partie 2
 Date: 2007-10-21 22:32
 Category: Informatique
-Tags:
+Tags: matériel, baladeur numérique
 Lang: fr
 Slug: choisir-son-baladeur-numerique-partie-2
 Status: published

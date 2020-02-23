@@ -1,7 +1,7 @@
 Title: Bill Gates au 20H de PPDA
 Date: 2007-09-26 22:40
 Category: Informatique
-Tags:
+Tags: microsoft, médias
 Lang: fr
 Slug: bill-gates-au-20h-de-ppda
 Status: published

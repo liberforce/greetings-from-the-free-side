@@ -1,7 +1,7 @@
 Title: Next step to rule the world : done
 Date: 2008-04-09 19:06
 Category: Informatique
-Tags:
+Tags: mandriva
 Lang: en
 Slug: next-step-to-rule-the-world-done
 Status: published

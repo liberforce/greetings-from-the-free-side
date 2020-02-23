@@ -1,7 +1,7 @@
 Title: Le conseiller Windows
 Date: 2007-09-26 22:22
 Category: Informatique
-Tags:
+Tags: publicité
 Lang: fr
 Slug: le-conseiller-windows
 Status: published

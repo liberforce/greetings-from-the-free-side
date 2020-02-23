@@ -1,7 +1,7 @@
 Title: FOSDEM 2012 videos available !
 Date: 2012-02-14 09:35
 Category: Informatique
-Tags:
+Tags: FOSDEM
 Lang: en
 Slug: fosdem-2012-videos-available
 Status: published

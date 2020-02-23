@@ -1,7 +1,7 @@
 Title: Rien de très original là dedans, mais...
 Date: 2012-07-23 00:12
 Category: Informatique
-Tags:
+Tags: mageia, GUADEC, GNOME
 Lang: fr
 Slug: rien-de-tres-original-la-dedans-mais
 Status: published

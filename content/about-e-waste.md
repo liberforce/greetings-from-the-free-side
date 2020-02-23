@@ -1,7 +1,7 @@
 Title: About E-waste
 Date: 2007-11-27 17:09
 Category: Écologie
-Tags:
+Tags: matériel, consommation, écologie
 Lang: en
 Slug: about-e-waste
 Status: published

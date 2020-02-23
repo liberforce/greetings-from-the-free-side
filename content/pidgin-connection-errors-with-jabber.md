@@ -1,7 +1,7 @@
 Title: Pidgin connection errors with jabber
 Date: 2008-04-01 19:50
 Category: Informatique
-Tags:
+Tags: bug, mandriva, pidgin
 Lang: en
 Slug: pidgin-connection-errors-with-jabber
 Status: published

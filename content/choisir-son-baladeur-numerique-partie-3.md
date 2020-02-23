@@ -1,7 +1,7 @@
 Title: Choisir son baladeur numérique - partie 3
 Date: 2007-10-26 00:01
 Category: Informatique
-Tags:
+Tags: ogg, matériel, linux, baladeur numérique
 Lang: fr
 Slug: choisir-son-baladeur-numerique-partie-3
 Status: published

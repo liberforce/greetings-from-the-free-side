@@ -1,7 +1,7 @@
 Title: Pas très actif
 Date: 2008-01-19 02:24
 Category: Vie quotidienne
-Tags:
+Tags: politique, mandriva, jeux
 Lang: fr
 Slug: pas-tres-actif
 Status: published

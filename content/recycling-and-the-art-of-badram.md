@@ -1,7 +1,7 @@
 Title: Recycling and the art of BadRAM...
 Date: 2007-09-26 00:57
 Category: Informatique
-Tags:
+Tags: recyclage, matériel, mandriva
 Lang: en
 Slug: recycling-and-the-art-of-badram
 Status: published

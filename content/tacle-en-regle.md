@@ -1,7 +1,7 @@
 Title: Tacle en règle (?)
 Date: 2007-11-26 16:14
 Category: Informatique
-Tags:
+Tags: GNOME
 Lang: fr
 Slug: tacle-en-regle
 Status: published

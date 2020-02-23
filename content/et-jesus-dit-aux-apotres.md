@@ -1,7 +1,7 @@
 Title: Et Jésus dit aux apôtres...
 Date: 2007-09-26 22:07
 Category: Politique
-Tags:
+Tags: sarko
 Lang: fr
 Slug: et-jesus-dit-aux-apotres
 Status: published

@@ -1,7 +1,7 @@
 Title: Les années 90 en musique...
 Date: 2009-03-24 23:37
 Category: Vie quotidienne
-Tags:
+Tags: nostalgie, musique
 Lang: fr
 Slug: les-annees-90-en-musique
 Status: published

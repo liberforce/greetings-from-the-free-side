@@ -1,7 +1,7 @@
 Title: Rack... Euh, chantagiciel et HP
 Date: 2008-10-22 23:38
 Category: Informatique
-Tags:
+Tags: hp, windows, racketiciel
 Lang: fr
 Slug: rack-euh-chantagiciel-et-hp
 Status: published

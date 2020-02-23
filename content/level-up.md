@@ -1,7 +1,7 @@
 Title: Level up
 Date: 2008-10-14 09:33
 Category: Informatique
-Tags:
+Tags: GNOME
 Lang: fr
 Slug: level-up
 Status: published

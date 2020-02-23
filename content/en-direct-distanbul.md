@@ -1,7 +1,7 @@
 Title: En direct d'Istanbul
 Date: 2008-07-07 08:08
 Category: Vie quotidienne
-Tags:
+Tags: GUADEC, GNOME
 Lang: fr
 Slug: en-direct-distanbul
 Status: published

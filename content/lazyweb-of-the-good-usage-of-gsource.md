@@ -1,7 +1,7 @@
 Title: Lazyweb: of the good usage of GSource...
 Date: 2008-02-21 18:20
 Category: Informatique
-Tags:
+Tags: glib, GNOME
 Lang: en
 Slug: lazyweb-of-the-good-usage-of-gsource
 Status: published

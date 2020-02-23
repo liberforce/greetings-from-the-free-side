@@ -1,7 +1,7 @@
 Title: Karlsruhe, here we go !
 Date: 2016-07-25 20:01
 Category: Informatique
-Tags:
+Tags: GUADEC, GNOME
 Lang: en
 Slug: karlsruhe-here-we-go
 Status: published

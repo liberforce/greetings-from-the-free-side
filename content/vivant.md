@@ -1,7 +1,7 @@
 Title: Vivant
 Date: 2008-12-01 01:34
 Category: Vie quotidienne
-Tags:
+Tags: rumeur
 Lang: fr
 Slug: vivant
 Status: published

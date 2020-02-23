@@ -1,7 +1,7 @@
 Title: FOSDEM: J - 1
 Date: 2007-09-26 22:21
 Category: Informatique
-Tags:
+Tags: FOSDEM
 Lang: fr
 Slug: fosdem-j-1
 Status: published

@@ -1,7 +1,7 @@
 Title: Encore une utilisation détournée de Wikipédia...
 Date: 2007-09-26 21:36
 Category: Blabla
-Tags:
+Tags: wikipédia
 Lang: fr
 Slug: encore-une-utilisation-detournee-de-wikipedia
 Status: published

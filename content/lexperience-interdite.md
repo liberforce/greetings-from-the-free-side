@@ -1,7 +1,7 @@
 Title: L'expérience interdite...
 Date: 2008-10-11 01:44
 Category: Informatique
-Tags:
+Tags: migration, mandriva
 Lang: fr
 Slug: lexperience-interdite
 Status: published

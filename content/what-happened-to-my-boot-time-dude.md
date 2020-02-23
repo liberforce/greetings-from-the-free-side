@@ -1,7 +1,7 @@
 Title: What happened to my boot time, dude ?
 Date: 2008-10-14 02:11
 Category: Informatique
-Tags:
+Tags: boot time, migration, linux, mandriva
 Lang: en
 Slug: what-happened-to-my-boot-time-dude
 Status: published

@@ -1,7 +1,7 @@
 Title: Windows, Linux, thoughts
 Date: 2008-06-16 01:27
 Category: Informatique
-Tags:
+Tags: linux, mandriva, windows
 Lang: en
 Slug: windows-linux-thoughts
 Status: published

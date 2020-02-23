@@ -1,7 +1,7 @@
 Title: Crac boum hue !
 Date: 2008-10-17 00:17
 Category: Vie quotidienne
-Tags:
+Tags: appartement
 Lang: fr
 Slug: crac-boum-hue
 Status: published

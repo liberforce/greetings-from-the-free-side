@@ -1,7 +1,7 @@
 Title: GNOME tip of the day
 Date: 2007-09-26 01:04
 Category: Informatique
-Tags:
+Tags: GNOME
 Lang: en
 Slug: gnome-tip-of-the-day
 Status: published

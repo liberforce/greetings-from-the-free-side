@@ -1,7 +1,7 @@
 Title: Bye bye planet mandriva
 Date: 2013-02-06 17:39
 Category: Informatique
-Tags:
+Tags: mageia, mandriva
 Lang: fr
 Slug: bye-bye-planet-mandriva
 Status: published

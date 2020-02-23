@@ -1,7 +1,7 @@
 Title: Olympia = spammeur
 Date: 2008-07-23 19:44
 Category: Blabla
-Tags:
+Tags: publicité
 Lang: fr
 Slug: olympia-spammeur
 Status: published

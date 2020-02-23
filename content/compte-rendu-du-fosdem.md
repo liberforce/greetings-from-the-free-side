@@ -1,7 +1,7 @@
 Title: Compte rendu du FOSDEM
 Date: 2007-09-26 22:19
 Category: Vie quotidienne
-Tags:
+Tags: FOSDEM, bande dessinée
 Lang: fr
 Slug: compte-rendu-du-fosdem
 Status: published

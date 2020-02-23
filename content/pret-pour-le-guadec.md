@@ -1,7 +1,7 @@
 Title: Prêt pour le GUADEC !
 Date: 2007-09-26 21:47
 Category: Informatique
-Tags:
+Tags: GUADEC
 Lang: fr
 Slug: pret-pour-le-guadec
 Status: published

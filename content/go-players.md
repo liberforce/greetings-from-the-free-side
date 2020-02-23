@@ -1,7 +1,7 @@
 Title: Go players ?
 Date: 2008-08-09 09:04
 Category: Blabla
-Tags:
+Tags: go, GUADEC, GNOME
 Lang: en
 Slug: go-players
 Status: published

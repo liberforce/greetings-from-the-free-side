@@ -1,7 +1,7 @@
 Title: I'm a Radio Star
 Date: 2007-11-13 02:22
 Category: Informatique
-Tags:
+Tags: médias, mandriva, linux
 Lang: fr
 Slug: im-a-radio-star
 Status: published

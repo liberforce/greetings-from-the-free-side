@@ -1,7 +1,7 @@
 Title: 24 seconds !
 Date: 2008-10-16 22:40
 Category: Informatique
-Tags:
+Tags: linux, boot time, mandriva
 Lang: en
 Slug: 24-seconds
 Status: published

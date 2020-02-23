@@ -1,7 +1,7 @@
 Title: Long time no blog...
 Date: 2008-01-19 01:50
 Category: Blabla
-Tags:
+Tags: GNOME, jamendo
 Lang: fr
 Slug: long-time-no-blog
 Status: published

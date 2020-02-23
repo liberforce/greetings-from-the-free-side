@@ -1,7 +1,7 @@
 Title: Quels sont les avantages et inconvénients de Linux par rapport à Windows ?
 Date: 2009-05-10 23:54
 Category: Informatique
-Tags:
+Tags: QR, windows, linux
 Lang: fr
 Slug: quels-sont-les-avantages-et-inconvenients-de-linux-par-rapport-a-windows
 Status: published

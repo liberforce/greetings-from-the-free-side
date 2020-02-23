@@ -1,7 +1,7 @@
 Title: Bilan de l'opération "stop pub", on embraye sur la suite...
 Date: 2007-09-26 01:19
 Category: Écologie
-Tags:
+Tags: sfr, publicité
 Lang: fr
 Slug: bilan-de-loperation-stop-pub-on-embraye-sur-la-suite
 Status: published

@@ -1,7 +1,7 @@
 Title: HP: silence radio
 Date: 2008-11-03 20:36
 Category: Informatique
-Tags:
+Tags: hp, racketiciel
 Lang: fr
 Slug: hp-silence-radio
 Status: published
