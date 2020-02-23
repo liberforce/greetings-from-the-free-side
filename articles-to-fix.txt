@@ -53,7 +53,6 @@ nicolas-sarkozy-est-au-deuxieme-tour.md
 nouveau-job.md
 oisiweb-comment-afficher-une-chaine-de-caracteres-avec-des-accents.md
 oisiweb-convertir-une-video-pour-le-meizu-m6.md
-olympia-spammeur.md
 on-the-private-front.md
 over-blog-its-not-a-bug-its-a-feature.md
 pas-de-mandriva-dans-capital.md
