@@ -96,7 +96,6 @@ ubuntu-vs-mandriva-sites-web.md
 un-nouveau-baladeur.md
 un-nouveau-nom-de-domaine.md
 un-nouveau-spammeur-sur-planete-gnome-fr.md
-vacances-neige-et-ecologie.md
 visite-guidee-de-mandriva-linux-20071-spring.md
 vista-celebration.md
 vivant.md
