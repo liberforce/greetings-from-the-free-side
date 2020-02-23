@@ -1,4 +1,3 @@
-first-commit.md
 first-desktop-summit.md
 fosdem-2012-videos-available.md
 fosdem-2013.md
