@@ -1,4 +1,3 @@
-finding-good-food-at-a-coruna.md
 first-commit.md
 first-desktop-summit.md
 fosdem-2012-videos-available.md
