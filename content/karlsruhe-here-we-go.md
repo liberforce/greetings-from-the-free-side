@@ -6,6 +6,7 @@ Lang: en
 Slug: karlsruhe-here-we-go
 Status: published
 
-Because I'm missing my GNOME friends, and because GUADEC is the bestconference in the world :)
+Because I'm missing my GNOME friends, and because GUADEC is the best conference in the world :)
 
-![\\"\\"](https://2016.guadec.org/wp-content/uploads/2016/04/badge-goingto.png)
+![Going  to GUADEC
+Karlsruhe](https://2016.guadec.org/wp-content/uploads/2016/04/badge-goingto.png)
