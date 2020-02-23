@@ -73,7 +73,6 @@ rack-euh-chantagiciel-et-hp.md
 re-a-way-to-get-more-gnome-hackers.md
 recycling-an-old-machine-for-gcompris-part-1.md
 recycling-an-old-machine-for-gcompris-part-2.md
-recycling-on-the-net.md
 reponse-de-hp-a-la-demande-de-remboursement.md
 retour-de-vacances.md
 revue-du-netbook-acer-aspire-one.md
