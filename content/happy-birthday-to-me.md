@@ -43,41 +43,42 @@ photo)]({static}/media/people/luis/200711.jpg)
 
 *Novembre 2007 : Au parc Astérix (avec mon pote Philippe sur la photo)*
 
-![]({static}/media/people/luis/200712-1.jpg)
+![Décembre 2007 : sur les bords de Marne pour préparer les élections
+Municipales]({static}/media/people/luis/200712-1.jpg)
 
 *Décembre 2007 : sur les bords de Marne pour préparer les élections
 Municipales*
 
-![]({static}/media/people/luis/200712-2.jpg)
+![Décembre 2007 : Épluchant le céleri pour le réveillon]({static}/media/people/luis/200712-2.jpg)
 
 *Décembre 2007 : Épluchant le céleri pour le réveillon chez mon pote Cédric
 (pfff... aucune des photos en pull-chemise-cravate d'après n'est bien passée
 :-( )*
 
-![]({static}/media/people/luis/200802.jpg)
+![Février 2008 : promenade en forêt]({static}/media/people/luis/200802.jpg)
 
 *Février 2008 : en promenade en forêt, laissant ressortir mon instinct animal*
 
-![]({static}/media/people/luis/200804.jpg)
+![Mars 2008 : jouant à Guitar Hero]({static}/media/people/luis/200804.jpg)
 
 *Mars 2008 : Oui, bon, chacun sa tenue de Rocker pour jouer à Guitar Hero... On
 va dire que le public m'a arraché mes vêtements :-p*
 
-![]({static}/media/people/luis/200805-1.jpg)
+![Mai 2008 : Apogée de la période "Jésus"]({static}/media/people/luis/200805-1.jpg)
 
 *Mai 2008 : Apogée de la période "Jésus"*
 
-![]({static}/media/people/luis/200805-2.jpg)
+![Mai 2008 : Install Party Mandriva, rue d'Aboukir]({static}/media/people/luis/200805-2.jpg)
 
 *Mai 2008 : un p'tit coup d'Install Party Mandriva Linux, rue d'Aboukir*
 
-![]({static}/media/people/luis/200807.jpg)
+![Juillet 2008 : vacances en Turquie]({static}/media/people/luis/200807.jpg)
 
 *Juillet 2008 : vacances en Turquie (oui [Fred](http://blog.crozat.net/), je
 vais finir par les lâcher, les photos du [GUADEC](http://www.guadec.org),
 promis ;-) ). Notez que des cheveux sont tombés au passage...*
 
-![]({static}/media/people/luis/200811.jpg)
+![Novembre 2008 : dans le bureau]({static}/media/people/luis/200811.jpg)
 
 *Novembre 2008 : Votre serviteur, ce soir, dans son futur ex-bureau plein de
 cartons... Le ratiboisage n'est plus tout frais, et ma coiffeuse portugaise
