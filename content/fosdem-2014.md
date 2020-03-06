@@ -1,6 +1,8 @@
 Title: FOSDEM 2014
 Date: 2014-02-14 02:35
-Category: Computers / Informatique
+Category: Informatique
+Tags: GNOME, FOSDEM
+Lang: fr
 Slug: fosdem-2014
 Status: published
 

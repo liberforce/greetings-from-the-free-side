@@ -2,7 +2,7 @@ Title: SVN migration
 Date: 2007-01-05 02:51
 Category: Informatique
 Tags:
-Lang: fr
+Lang: en
 Slug: svn-migration
 Status: published
 
