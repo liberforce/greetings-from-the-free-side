@@ -2,7 +2,7 @@ Title: 30, but not the way I thought...
 Date: 2009-11-10 00:58
 Category: Vie quotidienne
 Tags:
-Lang: en
+Lang: fr
 Slug: 30-but-not-the-way-i-thought
 Status: published
 

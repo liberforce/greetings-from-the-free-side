@@ -1,8 +1,8 @@
 Title: First Desktop Summit !
 Date: 2011-08-04 11:15
 Category: Informatique
-Tags: GNOME
-Lang: en
+Tags:
+Lang: fr
 Slug: first-desktop-summit
 Status: published
 

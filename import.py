@@ -354,7 +354,7 @@ def dc2fields(file):
             content = post_excerpt + post_content
         else:
             content = post_excerpt_xhtml + post_content_xhtml
-            content = content.replace('\\n', '')
+            content = content.replace('\\n', ' ')
             post_format = "html"
 
         kind = 'article'  # TODO: Recognise pages

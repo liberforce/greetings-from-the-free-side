@@ -2,7 +2,7 @@ Title: Il y a un début à tout...
 Date: 2006-12-06 02:38
 Category: Blabla
 Tags:
-Lang: en
+Lang: fr
 Slug: il-y-a-un-debut-a-tout
 Status: published
 

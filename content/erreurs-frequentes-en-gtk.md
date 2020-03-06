@@ -2,9 +2,9 @@ Title: Erreurs fréquentes en GTK
 Date: 2012-08-25 00:58
 Category: Informatique
 Tags:
-Lang: en
+Lang: fr
 Slug: erreurs-frequentes-en-gtk
-Status: draft
+Status: published
 
 I give a hand in several computing forums(mainly nowadays developpez.com in
 french, and stackoverflow.com in english),mostly about GNOME, GTK, or C

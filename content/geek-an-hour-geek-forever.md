@@ -2,7 +2,7 @@ Title: Geek an hour, geek forever
 Date: 2010-04-03 03:11
 Category: Informatique
 Tags: mandriva, jeux
-Lang: en
+Lang: fr
 Slug: geek-an-hour-geek-forever
 Status: published
 

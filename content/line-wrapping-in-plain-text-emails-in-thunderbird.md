@@ -1,8 +1,8 @@
 Title: Line wrapping in plain text emails in Thunderbird
 Date: 2013-11-22 11:39
 Category: Informatique
-Tags: thunderbird
-Lang: en
+Tags: 
+Lang: fr
 Slug: line-wrapping-in-plain-text-emails-in-thunderbird
 Status: published
 

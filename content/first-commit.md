@@ -2,7 +2,7 @@ Title: First commit!
 Date: 2009-06-14 04:29
 Category: Informatique
 Tags: GNOME
-Lang: en
+Lang: fr
 Slug: first-commit
 Status: published
 
