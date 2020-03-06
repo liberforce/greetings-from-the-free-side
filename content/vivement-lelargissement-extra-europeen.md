@@ -1,5 +1,5 @@
 Title: Vivement l'élargissement extra-européen !
-Date: 2007-09-26 21:57
+Date: 2007-05-16 23:57
 Category: Blabla
 Tags: eurovision
 Lang: fr

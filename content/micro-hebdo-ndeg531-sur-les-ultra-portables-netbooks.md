@@ -1,5 +1,5 @@
 Title: Micro Hebdo n°531 sur les ultra-portables (netbooks)
-Date: 2008-06-24 01:21
+Date: 2008-06-24 03:20
 Category: Informatique
 Tags: windows, netbooks, médias, matériel, mandriva
 Lang: fr

@@ -1,5 +1,5 @@
 Title: Rude retour en perspective
-Date: 2007-09-26 00:53
+Date: 2007-01-09 02:53
 Category: Vie quotidienne
 Tags:
 Lang: fr

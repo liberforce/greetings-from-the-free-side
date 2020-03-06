@@ -1,5 +1,5 @@
 Title: Pas de Mandriva dans Capital...
-Date: 2008-09-08 00:19
+Date: 2008-09-08 02:19
 Category: Informatique
 Tags: netbooks, médias, mandriva
 Lang: fr

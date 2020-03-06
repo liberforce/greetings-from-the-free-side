@@ -1,5 +1,5 @@
 Title: AGFA Snapscan 1212p and Linux
-Date: 2007-09-26 22:24
+Date: 2007-02-20 00:23
 Category: Informatique
 Tags: recyclage, linux, matériel
 Lang: en

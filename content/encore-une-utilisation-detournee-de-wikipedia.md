@@ -1,5 +1,5 @@
 Title: Encore une utilisation détournée de Wikipédia...
-Date: 2007-09-26 21:36
+Date: 2007-07-24 23:36
 Category: Blabla
 Tags: wikipédia
 Lang: fr

@@ -1,5 +1,5 @@
 Title: L'expérience interdite...
-Date: 2008-10-11 01:44
+Date: 2008-10-11 03:43
 Category: Informatique
 Tags: migration, mandriva
 Lang: fr

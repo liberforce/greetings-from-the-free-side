@@ -1,5 +1,5 @@
 Title: T ki ?
-Date: 2007-09-26 01:10
+Date: 2006-12-22 03:10
 Category: Vie quotidienne
 Tags:
 Lang: fr

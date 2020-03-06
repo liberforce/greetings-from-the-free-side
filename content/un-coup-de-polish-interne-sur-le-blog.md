@@ -1,5 +1,5 @@
 Title: Un coup de polish (interne) sur le blog
-Date: 2007-09-26 22:42
+Date: 2007-02-06 00:42
 Category: Informatique
 Tags:
 Lang: fr

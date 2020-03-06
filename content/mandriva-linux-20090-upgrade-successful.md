@@ -1,5 +1,5 @@
 Title: Mandriva Linux 2009.0 : upgrade successful
-Date: 2008-10-12 23:23
+Date: 2008-10-14 02:50
 Category: Informatique
 Tags: migration, mandriva, linux
 Lang: fr

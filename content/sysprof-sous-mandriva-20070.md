@@ -1,5 +1,5 @@
 Title: Sysprof sous Mandriva 2007.0
-Date: 2007-09-26 22:58
+Date: 2007-03-28 00:58
 Category: Informatique
 Tags: GNOME, mandriva
 Lang: fr

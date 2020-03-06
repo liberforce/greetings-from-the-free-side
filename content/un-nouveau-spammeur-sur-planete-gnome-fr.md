@@ -1,5 +1,5 @@
 Title: Un nouveau spammeur sur planète GNOME-FR !
-Date: 2007-09-26 23:12
+Date: 2007-03-02 01:11
 Category: Blabla
 Tags: GNOME
 Lang: fr

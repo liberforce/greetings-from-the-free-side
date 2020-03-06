@@ -1,5 +1,5 @@
 Title: Compte rendu du FOSDEM
-Date: 2007-09-26 22:19
+Date: 2007-02-26 00:18
 Category: Vie quotidienne
 Tags: FOSDEM, bande dessinée
 Lang: fr

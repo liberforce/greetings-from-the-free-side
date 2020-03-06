@@ -1,5 +1,5 @@
 Title: Samedi, c'est install party !
-Date: 2009-11-26 22:49
+Date: 2009-11-26 23:49
 Category: Informatique
 Tags: ubuntu, mandriva
 Lang: fr

@@ -1,5 +1,5 @@
 Title: Comment réussir dans la vie ? Un indice, pour vous, chez vous.
-Date: 2008-06-16 23:10
+Date: 2008-06-17 01:08
 Category: Politique
 Tags: sarko
 Lang: fr

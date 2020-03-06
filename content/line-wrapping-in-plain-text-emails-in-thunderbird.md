@@ -1,5 +1,5 @@
 Title: Line wrapping in plain text emails in Thunderbird
-Date: 2013-11-22 10:39
+Date: 2013-11-22 11:39
 Category: Informatique
 Tags: thunderbird
 Lang: en

@@ -1,5 +1,5 @@
 Title: Fin de la premiere journée
-Date: 2008-07-07 22:50
+Date: 2008-07-08 00:50
 Category: Vie quotidienne
 Tags: mandriva, GUADEC, GNOME
 Lang: fr

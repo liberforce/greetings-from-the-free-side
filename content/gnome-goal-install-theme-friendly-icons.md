@@ -1,5 +1,5 @@
 Title: GNOME Goal: Install theme-friendly icons
-Date: 2007-10-01 17:35
+Date: 2007-04-24 19:34
 Category: Informatique
 Tags: GNOME Goals, GNOME
 Lang: en

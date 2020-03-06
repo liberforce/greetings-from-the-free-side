@@ -1,5 +1,5 @@
 Title: Why I don't use Beryl/Compiz
-Date: 2007-09-26 01:08
+Date: 2006-12-19 03:08
 Category: Informatique
 Tags:
 Lang: en

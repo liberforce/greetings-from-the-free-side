@@ -1,5 +1,5 @@
 Title: My quote of the day
-Date: 2007-09-26 00:50
+Date: 2007-01-05 02:50
 Category: Informatique
 Tags:
 Lang: en

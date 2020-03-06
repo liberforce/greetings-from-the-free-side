@@ -1,5 +1,5 @@
 Title: Rack... Euh, chantagiciel et HP
-Date: 2008-10-22 23:38
+Date: 2008-10-23 01:09
 Category: Informatique
 Tags: hp, windows, racketiciel
 Lang: fr

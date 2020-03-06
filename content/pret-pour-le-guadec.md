@@ -1,5 +1,5 @@
 Title: Prêt pour le GUADEC !
-Date: 2007-09-26 21:47
+Date: 2007-06-30 23:47
 Category: Informatique
 Tags: GUADEC
 Lang: fr

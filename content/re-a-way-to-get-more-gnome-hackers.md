@@ -1,5 +1,5 @@
 Title: Re: a way to get more GNOME hackers
-Date: 2007-10-01 17:38
+Date: 2007-04-16 19:38
 Category: Informatique
 Tags: mandriva, GNOME
 Lang: en

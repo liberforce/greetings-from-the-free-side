@@ -1,5 +1,5 @@
 Title: Mandriva positioning on the Linux market
-Date: 2008-04-21 22:59
+Date: 2008-04-22 00:44
 Category: Informatique
 Tags: GNOME, mandriva
 Lang: en

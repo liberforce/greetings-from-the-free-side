@@ -1,5 +1,5 @@
 Title: GUADEC 2007: Warmup days report
-Date: 2007-09-26 21:38
+Date: 2007-07-27 23:38
 Category: Informatique
 Tags: GUADEC
 Lang: en

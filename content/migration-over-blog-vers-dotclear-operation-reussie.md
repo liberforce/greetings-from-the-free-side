@@ -1,5 +1,5 @@
 Title: Migration over-blog vers Dotclear: opération réussie...
-Date: 2007-10-03 08:38
+Date: 2007-10-03 10:40
 Category: Informatique
 Tags:
 Lang: fr

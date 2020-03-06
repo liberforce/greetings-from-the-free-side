@@ -1,5 +1,5 @@
 Title: git-bz and Firefox
-Date: 2012-07-30 15:50
+Date: 2012-07-30 17:50
 Category: Informatique
 Tags: git, GNOME
 Lang: en

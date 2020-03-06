@@ -1,5 +1,5 @@
 Title: Question Yahoo du jour
-Date: 2007-09-26 22:34
+Date: 2007-02-09 00:34
 Category: Informatique
 Tags:
 Lang: fr

@@ -1,5 +1,5 @@
 Title: Bientôt le passage chez le notaire...
-Date: 2008-08-18 01:38
+Date: 2008-08-18 03:26
 Category: Vie quotidienne
 Tags: loi, immobilier
 Lang: fr

@@ -1,5 +1,5 @@
 Title: Au boulot ! Driver, carte de test, udev, ports en user-space
-Date: 2007-09-26 21:49
+Date: 2007-05-30 23:49
 Category: Informatique
 Tags: développement, linux, udev
 Lang: fr

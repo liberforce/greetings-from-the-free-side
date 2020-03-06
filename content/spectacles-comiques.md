@@ -1,5 +1,5 @@
 Title: Spectacles comiques
-Date: 2007-09-26 01:13
+Date: 2006-12-23 03:13
 Category: Vie quotidienne
 Tags:
 Lang: fr

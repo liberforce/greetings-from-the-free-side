@@ -1,5 +1,5 @@
 Title: Bye bye planet mandriva
-Date: 2013-02-06 17:39
+Date: 2013-02-06 18:39
 Category: Informatique
 Tags: mageia, mandriva
 Lang: fr

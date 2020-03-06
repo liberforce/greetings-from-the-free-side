@@ -1,5 +1,5 @@
 Title: GNOME tip of the day
-Date: 2007-09-26 01:04
+Date: 2007-01-24 03:04
 Category: Informatique
 Tags: GNOME
 Lang: en

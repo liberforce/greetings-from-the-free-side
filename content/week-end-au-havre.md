@@ -1,5 +1,5 @@
 Title: Week end au Havre
-Date: 2007-09-26 22:39
+Date: 2007-02-07 00:38
 Category: Vie quotidienne
 Tags:
 Lang: fr

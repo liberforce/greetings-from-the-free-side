@@ -1,5 +1,5 @@
 Title: Visite guidée de Mandriva Linux 2007.1 (Spring)
-Date: 2007-10-01 17:42
+Date: 2007-04-05 19:41
 Category: Informatique
 Tags: mandriva
 Lang: fr

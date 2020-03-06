@@ -1,5 +1,5 @@
 Title: Ubuntu vs Mandriva: sites web
-Date: 2007-09-26 23:02
+Date: 2007-03-27 01:02
 Category: Informatique
 Tags: mandriva
 Lang: fr

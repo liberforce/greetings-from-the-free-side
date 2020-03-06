@@ -1,5 +1,5 @@
 Title: Recycling an old machine for gcompris - part 2
-Date: 2007-09-26 22:26
+Date: 2007-02-19 00:26
 Category: Informatique
 Tags: recyclage, matériel
 Lang: en

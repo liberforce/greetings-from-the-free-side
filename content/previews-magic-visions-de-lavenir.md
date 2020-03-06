@@ -1,5 +1,5 @@
 Title: Previews Magic: Visions de l'avenir
-Date: 2007-10-01 17:28
+Date: 2007-04-20 19:28
 Category: Vie quotidienne
 Tags: MTG
 Lang: fr

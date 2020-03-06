@@ -1,5 +1,5 @@
 Title: FOSDEM: J - 1
-Date: 2007-09-26 22:21
+Date: 2007-02-22 00:21
 Category: Informatique
 Tags: FOSDEM
 Lang: fr

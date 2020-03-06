@@ -1,5 +1,5 @@
 Title: Ekiga's saving the world...
-Date: 2008-12-11 20:25
+Date: 2008-12-11 21:25
 Category: Informatique
 Tags: écologie, GNOME
 Lang: fr

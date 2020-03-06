@@ -1,5 +1,5 @@
 Title: J'aimerais être une petite souris...
-Date: 2007-10-01 17:31
+Date: 2007-04-23 19:30
 Category: Politique
 Tags:
 Lang: fr

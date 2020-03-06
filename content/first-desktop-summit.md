@@ -1,5 +1,5 @@
 Title: First Desktop Summit !
-Date: 2011-08-04 09:15
+Date: 2011-08-04 11:15
 Category: Informatique
 Tags: GNOME
 Lang: en

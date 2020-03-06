@@ -1,5 +1,5 @@
 Title: Windows, Linux, thoughts
-Date: 2008-06-16 01:27
+Date: 2008-06-16 03:24
 Category: Informatique
 Tags: linux, mandriva, windows
 Lang: en

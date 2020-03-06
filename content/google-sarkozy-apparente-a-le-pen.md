@@ -1,5 +1,5 @@
 Title: Google: Sarkozy apparenté à Le Pen ?
-Date: 2007-09-26 21:41
+Date: 2007-07-28 23:41
 Category: Politique
 Tags: sarko
 Lang: fr

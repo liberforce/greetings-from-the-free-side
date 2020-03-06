@@ -1,5 +1,5 @@
 Title: Mandriva on the boot time front
-Date: 2008-09-30 00:23
+Date: 2008-09-30 02:23
 Category: Informatique
 Tags: mandriva, boot time
 Lang: en

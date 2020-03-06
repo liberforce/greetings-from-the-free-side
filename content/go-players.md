@@ -1,5 +1,5 @@
 Title: Go players ?
-Date: 2008-08-09 09:04
+Date: 2008-08-09 11:04
 Category: Blabla
 Tags: go, GUADEC, GNOME
 Lang: en

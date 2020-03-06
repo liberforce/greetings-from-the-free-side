@@ -1,5 +1,5 @@
 Title: Plein de choses à dire...
-Date: 2007-09-26 22:33
+Date: 2007-02-15 00:32
 Category: Blabla
 Tags: GNOME
 Lang: fr

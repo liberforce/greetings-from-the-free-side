@@ -1,5 +1,5 @@
 Title: Long time no blog...
-Date: 2008-01-19 01:50
+Date: 2008-01-19 02:49
 Category: Blabla
 Tags: GNOME, jamendo
 Lang: fr

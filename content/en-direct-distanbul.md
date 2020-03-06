@@ -1,5 +1,5 @@
 Title: En direct d'Istanbul
-Date: 2008-07-07 08:08
+Date: 2008-07-07 11:07
 Category: Vie quotidienne
 Tags: GUADEC, GNOME
 Lang: fr

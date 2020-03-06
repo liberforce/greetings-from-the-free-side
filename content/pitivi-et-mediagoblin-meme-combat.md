@@ -1,5 +1,5 @@
 Title: Pitivi et MediaGoblin, même combat !
-Date: 2014-03-30 22:50
+Date: 2014-03-31 00:50
 Category: Informatique
 Tags: pitivi, gstreamer, GNOME
 Lang: fr

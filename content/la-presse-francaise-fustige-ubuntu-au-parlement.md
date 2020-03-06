@@ -1,5 +1,5 @@
 Title: La presse française fustige Ubuntu au parlement !
-Date: 2007-10-05 10:19
+Date: 2007-10-05 12:19
 Category: Informatique
 Tags: migration, linux, parlement, ubuntu
 Lang: fr

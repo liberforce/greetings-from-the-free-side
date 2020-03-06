@@ -1,5 +1,5 @@
 Title: 2006 is ending...
-Date: 2007-09-26 00:42
+Date: 2006-12-18 02:41
 Category: Vie quotidienne
 Tags:
 Lang: en

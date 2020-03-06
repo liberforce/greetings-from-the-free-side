@@ -1,5 +1,5 @@
 Title: Revue du netbook Acer Aspire One
-Date: 2008-07-23 21:04
+Date: 2008-07-23 22:56
 Category: Informatique
 Tags: netbooks, matériel, mandriva, linux
 Lang: fr

@@ -1,5 +1,5 @@
 Title: Et Jésus dit aux apôtres...
-Date: 2007-09-26 22:07
+Date: 2007-05-03 00:01
 Category: Politique
 Tags: sarko
 Lang: fr

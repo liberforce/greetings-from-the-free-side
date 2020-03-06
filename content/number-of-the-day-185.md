@@ -1,5 +1,5 @@
 Title: Number of the day: 185 !
-Date: 2007-10-01 17:41
+Date: 2007-04-07 19:39
 Category: Informatique
 Tags: GNOME
 Lang: en

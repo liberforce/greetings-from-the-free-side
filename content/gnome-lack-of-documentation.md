@@ -1,5 +1,5 @@
 Title: GNOME lack of documentation
-Date: 2007-09-26 23:01
+Date: 2007-03-27 01:00
 Category: Informatique
 Tags: GNOME
 Lang: en

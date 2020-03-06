@@ -1,5 +1,5 @@
 Title: Album Jamendo de la semaine: Baïki
-Date: 2007-10-01 17:43
+Date: 2007-09-28 19:43
 Category: Vie quotidienne
 Tags: jamendo
 Lang: fr

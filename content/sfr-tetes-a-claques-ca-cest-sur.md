@@ -1,5 +1,5 @@
 Title: SFR: Têtes à claques, ça c'est sûr...
-Date: 2007-09-26 01:20
+Date: 2007-08-21 03:20
 Category: Vie quotidienne
 Tags: sfr, publicité
 Lang: fr

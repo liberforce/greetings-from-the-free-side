@@ -1,5 +1,5 @@
 Title: Yahoo answers and the infinite dumbness....
-Date: 2007-09-26 00:40
+Date: 2006-12-12 02:39
 Category: Blabla
 Tags:
 Lang: en

@@ -1,5 +1,5 @@
 Title: GUADEC 2007 incertain...
-Date: 2007-09-26 22:58
+Date: 2007-03-27 00:58
 Category: Vie quotidienne
 Tags: GUADEC
 Lang: fr

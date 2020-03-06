@@ -1,5 +1,5 @@
 Title: Mandriva 2008 se rapproche...
-Date: 2007-10-05 11:16
+Date: 2007-10-05 13:17
 Category: Informatique
 Tags: mandriva
 Lang: fr

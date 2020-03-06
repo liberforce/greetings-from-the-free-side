@@ -1,5 +1,5 @@
 Title: Rien de très original là dedans, mais...
-Date: 2012-07-23 00:12
+Date: 2012-07-23 02:12
 Category: Informatique
 Tags: mageia, GUADEC, GNOME
 Lang: fr

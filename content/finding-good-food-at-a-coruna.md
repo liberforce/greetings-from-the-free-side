@@ -1,5 +1,5 @@
 Title: Finding good food at A Coruña
-Date: 2012-07-30 11:16
+Date: 2012-07-30 13:16
 Category: Vie quotidienne
 Tags: GUADEC
 Lang: en

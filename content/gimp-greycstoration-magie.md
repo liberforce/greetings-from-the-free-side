@@ -1,5 +1,5 @@
 Title: GIMP + GREYCstoration = magie
-Date: 2008-03-11 00:50
+Date: 2008-03-11 01:50
 Category: Informatique
 Tags: hikaru, GREYcstoration, GIMP
 Lang: fr

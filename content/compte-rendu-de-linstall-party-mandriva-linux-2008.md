@@ -1,5 +1,5 @@
 Title: Compte rendu de l'install party Mandriva Linux 2008
-Date: 2007-11-26 00:24
+Date: 2007-11-26 01:24
 Category: Informatique
 Tags: mandriva, linux
 Lang: fr
