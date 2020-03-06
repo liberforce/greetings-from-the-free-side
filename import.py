@@ -849,8 +849,13 @@ def fields2pelican(
             if wp_attach and links:
                 content = update_links_to_attached_files(content, links)
 
+        # Remove previous tags
+        paragraphs = content.split('\n\n')
+        paragraphs[0] = header.strip()
+        article = '\n\n'.join(paragraphs)
+
         with open(out_filename, 'w', encoding='utf-8') as fs:
-            fs.write(header + content)
+            fs.write(article)
 
     if posts_require_pandoc:
         logger.error("Pandoc must be installed to import the following posts:"
