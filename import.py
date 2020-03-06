@@ -303,7 +303,7 @@ def dc2fields(file):
         # post_type = fields[9]
         post_format = fields[10]
         # post_url = fields[11]
-        # post_lang = fields[12]
+        post_lang = fields[12]
         post_title = fields[13]
         post_excerpt = fields[14]
         post_excerpt_xhtml = fields[15]
@@ -361,7 +361,7 @@ def dc2fields(file):
         status = 'published'  # TODO: Find a way for draft posts
 
         yield (post_title, content, slugify(post_title, regex_subs=subs),
-               post_creadt, author, categories, tags, status, kind,
+               post_creadt, author, categories, tags, post_lang, status, kind,
                post_format)
 
 
@@ -552,8 +552,17 @@ def build_header(title, date, author, categories, tags, slug,
     return header
 
 
-def build_markdown_header(title, date, author, categories, tags,
-                          slug, status=None, attachments=None):
+def build_markdown_header(
+    title,
+    date,
+    author,
+    categories,
+    tags,
+    lang,
+    slug,
+    status=None,
+    attachments=None
+):
     """Build a header from a list of fields"""
     header = 'Title: %s\n' % title
     if date:
@@ -564,6 +573,12 @@ def build_markdown_header(title, date, author, categories, tags,
         header += 'Category: %s\n' % ', '.join(categories)
     if tags:
         header += 'Tags: %s\n' % ', '.join(tags)
+
+    if lang:
+        header += 'Lang: %s\n' % lang
+    else:
+        header += 'Lang:\n'
+
     if slug:
         header += 'Slug: %s\n' % slug
     if status:
@@ -734,7 +749,7 @@ def fields2pelican(
     settings = read_settings()
     slug_subs = settings['SLUG_REGEX_SUBSTITUTIONS']
 
-    for (title, content, filename, date, author, categories, tags, status,
+    for (title, content, filename, date, author, categories, tags, lang, status,
             kind, in_markup) in fields:
         if filter_author and filter_author != author:
             continue
@@ -755,7 +770,7 @@ def fields2pelican(
         ext = get_ext(out_markup, in_markup)
         if ext == '.md':
             header = build_markdown_header(
-                title, date, author, categories, tags, slug,
+                title, date, author, categories, tags, lang, slug,
                 status, links.values() if links else None)
         else:
             out_markup = 'rst'
