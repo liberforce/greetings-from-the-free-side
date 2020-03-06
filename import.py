@@ -571,8 +571,11 @@ def build_markdown_header(
         header += 'Author: %s\n' % author
     if categories:
         header += 'Category: %s\n' % ', '.join(categories)
+
     if tags:
         header += 'Tags: %s\n' % ', '.join(tags)
+    else:
+        header += 'Tags:\n'
 
     if lang:
         header += 'Lang: %s\n' % lang
