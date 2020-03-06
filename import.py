@@ -295,9 +295,9 @@ def dc2fields(file):
         # blog_id = fields[1]
         # user_id = fields[2]
         cat_id = fields[3]
-        # post_dt = fields[4]
+        post_dt = fields[4]
         # post_tz = fields[5]
-        post_creadt = fields[6]
+        # post_creadt = fields[6]
         # post_upddt = fields[7]
         # post_password = fields[8]
         # post_type = fields[9]
@@ -321,7 +321,7 @@ def dc2fields(file):
         # post_position = fields[27]
 
         # remove seconds
-        post_creadt = ':'.join(post_creadt.split(':')[0:2])
+        post_creadt = ':'.join(post_dt.split(':')[0:2])
 
         author = ''
         categories = []
