@@ -570,6 +570,18 @@ def build_markdown_header(
     if author:
         header += 'Author: %s\n' % author
     if categories:
+        cats = {
+            'Ecology / Ecologie': 'Écologie',
+            'Ecology  / Ecologie': 'Écologie',
+            'Politics / Politique': 'Politique',
+            'Life / Vie quotidienne': 'Vie quotidienne',
+            'Computers / Informatique': 'Informatique',
+            'Gossip / Blabla': 'Blabla',
+        }
+        truncated_categories = []
+        for cat in categories:
+            truncated_categories.append(cats[cat])
+        categories = truncated_categories
         header += 'Category: %s\n' % ', '.join(categories)
 
     if tags:
