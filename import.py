@@ -311,15 +311,14 @@ def dc2fields(file):
         post_content_xhtml = fields[17]
         # post_notes = fields[18]
         # post_words = fields[19]
-        # post_status = fields[20]
-        # post_selected = fields[21]
-        # post_position = fields[22]
+        post_meta = fields[20]
+        # post_status = fields[21]
+        # post_selected = fields[22]
         # post_open_comment = fields[23]
         # post_open_tb = fields[24]
         # nb_comment = fields[25]
         # nb_trackback = fields[26]
-        post_meta = fields[27]
-        # redirect_url = fields[28][:-1]
+        # post_position = fields[27]
 
         # remove seconds
         post_creadt = ':'.join(post_creadt.split(':')[0:2])
@@ -995,3 +994,6 @@ def main():
                    wp_custpost=args.wp_custpost or False,
                    wp_attach=args.wp_attach or False,
                    attachments=attachments or None)
+
+if __name__ == '__main__':
+    main()
