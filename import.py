@@ -845,11 +845,6 @@ def fields2pelican(
 
             with open(out_filename, 'r', encoding='utf-8') as fs:
                 content = fs.read()
-                if out_markup == 'markdown':
-                    # In markdown, to insert a <br />, end a line with two
-                    # or more spaces & then a end-of-line
-                    content = content.replace('\\\n ', '  \n')
-                    content = content.replace('\\\n', '  \n')
 
             if wp_attach and links:
                 content = update_links_to_attached_files(content, links)
