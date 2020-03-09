@@ -332,37 +332,18 @@ def dc2fields(file):
                           in cat_id.split(',')]
 
         # Get tags related to a post
-        tag = (post_meta.replace('{', '')
-                        .replace('}', '')
-                        .replace('a:1:s:3:\\"tag\\";a:', '')
-                        .replace('a:0:', ''))
-        if len(tag) > 1:
-            if int(len(tag[:1])) == 1:
-                newtag = tag.split('"')[1]
-                tags.append(
-                    BeautifulSoup(
-                        newtag,
-                        'xml'
-                    )
-                    # bs4 always outputs UTF-8
-                    .decode('utf-8')
-                )
-            else:
-                i = 1
-                j = 1
-                while(i <= int(tag[:1])):
-                    newtag = tag.split('"')[j].replace('\\', '')
-                    tags.append(
-                        BeautifulSoup(
-                            newtag,
-                            'xml'
-                        )
-                        # bs4 always outputs UTF-8
-                        .decode('utf-8')
-                    )
-                    i = i + 1
-                    if j < int(tag[:1]) * 2:
-                        j = j + 2
+        tag = post_meta.replace(';', ':').split('\\"')
+        for t in tag:
+            if ':' in t:
+                continue
+            if '{' in t:
+                continue
+            if '}' in t:
+                continue
+            if t == 'tag':
+                continue
+
+            tags.append(t)
 
         """
         dotclear2 does not use markdown by default unless
