@@ -995,3 +995,7 @@ def main():
                    wp_custpost=args.wp_custpost or False,
                    wp_attach=args.wp_attach or False,
                    attachments=attachments or None)
+
+
+if __name__ == '__main__':
+    main()
