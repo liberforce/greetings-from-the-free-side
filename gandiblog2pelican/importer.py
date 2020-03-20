@@ -302,7 +302,7 @@ def dc2fields(file):
         cat_id = fields[3]
         post_dt = fields[4]
         # post_tz = fields[5]
-        post_creadt = fields[6]
+        # post_creadt = fields[6]
         # post_upddt = fields[7]
         # post_password = fields[8]
         # post_type = fields[9]
