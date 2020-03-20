@@ -10,6 +10,7 @@ pytest = "*"
 lxml = "*"
 beautifulsoup4 = "*"
 pelican = "*"
+phpserialize = "*"
 
 [requires]
 python_version = "3.7"

@@ -4,6 +4,7 @@
 import argparse
 import logging
 import os
+import phpserialize
 import re
 import subprocess
 import sys
@@ -324,45 +325,18 @@ def dc2fields(file):
         post_dt = ':'.join(post_dt.split(':')[0:2])
 
         author = ''
-        categories = []
-        tags = []
 
+        # Get tags related to a post
+        # First, unescape characters that were escaped to store the data in
+        # the backup file in CSV-like format
+        post_meta = post_meta.replace('\\', '')
+        tags_dict = phpserialize.loads(post_meta.encode('utf-8'))
+        tags = [tag.decode('utf-8') for tag in tags_dict[b'tag'].values()]
+
+        categories = []
         if cat_id:
             categories = [category_list[id].strip() for id
                           in cat_id.split(',')]
-
-        # Get tags related to a post
-        tag = (post_meta.replace('{', '')
-                        .replace('}', '')
-                        .replace('a:1:s:3:\\"tag\\";a:', '')
-                        .replace('a:0:', ''))
-        if len(tag) > 1:
-            if int(len(tag[:1])) == 1:
-                newtag = tag.split('"')[1]
-                tags.append(
-                    BeautifulSoup(
-                        newtag,
-                        'xml'
-                    )
-                    # bs4 always outputs UTF-8
-                    .decode('utf-8')
-                )
-            else:
-                i = 1
-                j = 1
-                while(i <= int(tag[:1])):
-                    newtag = tag.split('"')[j].replace('\\', '')
-                    tags.append(
-                        BeautifulSoup(
-                            newtag,
-                            'xml'
-                        )
-                        # bs4 always outputs UTF-8
-                        .decode('utf-8')
-                    )
-                    i = i + 1
-                    if j < int(tag[:1]) * 2:
-                        j = j + 2
 
         """
         dotclear2 does not use markdown by default unless

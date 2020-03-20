@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bc87456daa21ed3da47a1e8f909dbd91adfa28ce6081f9a2df55d1c0588ee093"
+            "sha256": "e394ce8c930e3e805850c5ec9d02007e378f48252a2f3979bcb2249d4ceaf23f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -130,6 +130,13 @@
             ],
             "index": "pypi",
             "version": "==4.2.0"
+        },
+        "phpserialize": {
+            "hashes": [
+                "sha256:bf672d312d203d09a84c26366fab8f438a3ffb355c407e69974b7ef2d39a0fa7"
+            ],
+            "index": "pypi",
+            "version": "==1.3"
         },
         "pygments": {
             "hashes": [

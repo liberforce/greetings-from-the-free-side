@@ -13,7 +13,7 @@ def test_simple():
     assert fields[3] == "2008-07-07 11:07" # date
     assert fields[4] == "" # author
     assert fields[5] == ["Life"] # categories
-    #assert fields[6] == ["GNOME", "GUADEC"] # tags
+    assert fields[6] == ["GUADEC", "GNOME"] # tags
     assert fields[7] == "published" # status
     assert fields[8] == "article" # kind
     assert fields[9] == "html" # format
