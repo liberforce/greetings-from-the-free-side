@@ -10,7 +10,7 @@ def test_simple():
     assert fields[0] == "En direct d'Istanbul" # title
     assert fields[1] == "post_content_xhtml" # content
     assert fields[2] == "en-direct-distanbul" # filename
-    #assert fields[3] == "2008-07-07 11:07" # date
+    assert fields[3] == "2008-07-07 11:07" # date
     assert fields[4] == "" # author
     assert fields[5] == ["Life"] # categories
     #assert fields[6] == ["GNOME", "GUADEC"] # tags

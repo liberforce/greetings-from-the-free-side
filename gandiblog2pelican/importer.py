@@ -295,7 +295,7 @@ def dc2fields(file):
         # blog_id = fields[1]
         # user_id = fields[2]
         cat_id = fields[3]
-        # post_dt = fields[4]
+        post_dt = fields[4]
         # post_tz = fields[5]
         post_creadt = fields[6]
         # post_upddt = fields[7]
@@ -311,18 +311,17 @@ def dc2fields(file):
         post_content_xhtml = fields[17]
         # post_notes = fields[18]
         # post_words = fields[19]
-        # post_status = fields[20]
-        # post_selected = fields[21]
-        # post_position = fields[22]
+        post_meta = fields[20]
+        # post_status = fields[21]
+        # post_selected = fields[22]
         # post_open_comment = fields[23]
         # post_open_tb = fields[24]
         # nb_comment = fields[25]
         # nb_trackback = fields[26]
-        post_meta = fields[27]
-        # redirect_url = fields[28][:-1]
+        # post_position = fields[27]
 
         # remove seconds
-        post_creadt = ':'.join(post_creadt.split(':')[0:2])
+        post_dt = ':'.join(post_dt.split(':')[0:2])
 
         author = ''
         categories = []
@@ -381,7 +380,7 @@ def dc2fields(file):
         status = 'published'  # TODO: Find a way for draft posts
 
         yield (post_title, content, slugify(post_title, regex_subs=subs),
-               post_creadt, author, categories, tags, status, kind,
+               post_dt, author, categories, tags, status, kind,
                post_format)
 
 
