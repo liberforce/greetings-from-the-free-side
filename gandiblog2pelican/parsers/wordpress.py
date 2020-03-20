@@ -38,16 +38,20 @@ def wp2fields(xml, wp_custpost=False):
             if raw_date == u"0000-00-00 00:00:00":
                 date = None
             else:
-                date_object = SafeDatetime.strptime(raw_date, "%Y-%m-%d %H:%M:%S")
+                date_object = SafeDatetime.strptime(
+                    raw_date, "%Y-%m-%d %H:%M:%S"
+                )
                 date = date_object.strftime("%Y-%m-%d %H:%M")
             author = item.find("creator").string
 
             categories = [
-                cat.string for cat in item.findAll("category", {"domain": "category"})
+                cat.string
+                for cat in item.findAll("category", {"domain": "category"})
             ]
 
             tags = [
-                tag.string for tag in item.findAll("category", {"domain": "post_tag"})
+                tag.string
+                for tag in item.findAll("category", {"domain": "post_tag"})
             ]
             # To publish a post the status should be 'published'
             status = (

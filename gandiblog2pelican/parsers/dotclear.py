@@ -96,7 +96,9 @@ def dc2fields(file):
 
         categories = []
         if cat_id:
-            categories = [category_list[id].strip() for id in cat_id.split(",")]
+            categories = [
+                category_list[id].strip() for id in cat_id.split(",")
+            ]
 
         """
         dotclear2 does not use markdown by default unless

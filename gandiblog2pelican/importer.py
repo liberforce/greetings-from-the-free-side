@@ -72,9 +72,13 @@ def decode_wp_content(content, br=True):
     # under certain strange conditions it could create
     # a P of entirely whitespace
     content = re.sub(r"<p>\s*</p>", "", content)
-    content = re.sub(r"<p>([^<]+)</(div|address|form)>", "<p>\\1</p></\\2>", content)
+    content = re.sub(
+        r"<p>([^<]+)</(div|address|form)>", "<p>\\1</p></\\2>", content
+    )
     # don't wrap tags
-    content = re.sub(r"<p>\s*(</?" + allblocks + r"[^>]*>)\s*</p>", "\\1", content)
+    content = re.sub(
+        r"<p>\s*(</?" + allblocks + r"[^>]*>)\s*</p>", "\\1", content
+    )
     # problem with nested lists
     content = re.sub(r"<p>(<li.*)</p>", "\\1", content)
     content = re.sub(r"<p><blockquote([^>]*)>", "<blockquote\\1><p>", content)
@@ -86,13 +90,17 @@ def decode_wp_content(content, br=True):
         def _preserve_newline(match):
             return match.group(0).replace("\n", "<WPPreserveNewline />")
 
-        content = re.sub(r"/<(script|style).*?<\/\\1>/s", _preserve_newline, content)
+        content = re.sub(
+            r"/<(script|style).*?<\/\\1>/s", _preserve_newline, content
+        )
         # optionally make line breaks
         content = re.sub(r"(?<!<br />)\s*\n", "<br />\n", content)
         content = content.replace("<WPPreserveNewline />", "\n")
     content = re.sub(r"(</?" + allblocks + r"[^>]*>)\s*<br />", "\\1", content)
     content = re.sub(
-        r"<br />(\s*</?(?:p|li|div|dl|dd|dt|th|pre|td|ul|ol)[^>]*>)", "\\1", content
+        r"<br />(\s*</?(?:p|li|div|dl|dd|dt|th|pre|td|ul|ol)[^>]*>)",
+        "\\1",
+        content,
     )
     content = re.sub(r"\n</p>", "</p>", content)
 
@@ -139,7 +147,9 @@ def blogger2fields(xml):
         if hasattr(SafeDatetime, "fromisoformat"):
             date_object = SafeDatetime.fromisoformat(raw_date)
         else:
-            date_object = SafeDatetime.strptime(raw_date[:23], "%Y-%m-%dT%H:%M:%S.%f")
+            date_object = SafeDatetime.strptime(
+                raw_date[:23], "%Y-%m-%dT%H:%M:%S.%f"
+            )
         date = date_object.strftime("%Y-%m-%d %H:%M")
         author = entry.find("author").find("name").string
 
@@ -159,7 +169,18 @@ def blogger2fields(xml):
         except AttributeError:
             pass
 
-        yield (title, content, filename, date, author, None, tags, status, kind, "html")
+        yield (
+            title,
+            content,
+            filename,
+            date,
+            author,
+            None,
+            tags,
+            status,
+            kind,
+            "html",
+        )
 
 
 def posterous2fields(api_token, email, password):
@@ -197,7 +218,9 @@ def posterous2fields(api_token, email, password):
                 slug = slugify(post.get("title"), regex_subs=subs)
             tags = [tag.get("name") for tag in post.get("tags")]
             raw_date = post.get("display_date")
-            date_object = SafeDatetime.strptime(raw_date[:-6], "%Y/%m/%d %H:%M:%S")
+            date_object = SafeDatetime.strptime(
+                raw_date[:-6], "%Y/%m/%d %H:%M:%S"
+            )
             offset = int(raw_date[-5:])
             delta = timedelta(hours=(offset / 100))
             date_object -= delta
@@ -252,7 +275,10 @@ def tumblr2fields(api_key, blogname):
                 "%Y-%m-%d %H:%M:%S"
             )
             slug = (
-                SafeDatetime.fromtimestamp(int(timestamp)).strftime("%Y-%m-%d-") + slug
+                SafeDatetime.fromtimestamp(int(timestamp)).strftime(
+                    "%Y-%m-%d-"
+                )
+                + slug
             )
             format = post.get("format")
             content = post.get("body")
@@ -266,7 +292,10 @@ def tumblr2fields(api_key, blogname):
                 for photo in post.get("photos"):
                     content += "\n".join(
                         fmtstr
-                        % (photo.get("caption"), photo.get("original_size").get("url"))
+                        % (
+                            photo.get("caption"),
+                            photo.get("original_size").get("url"),
+                        )
                     )
                 content += "\n\n" + post.get("caption")
             elif type == "quote":
@@ -353,7 +382,9 @@ def feed2fields(file):
             else None
         )
         author = entry.author if hasattr(entry, "author") else None
-        tags = [e["term"] for e in entry.tags] if hasattr(entry, "tags") else None
+        tags = (
+            [e["term"] for e in entry.tags] if hasattr(entry, "tags") else None
+        )
 
         slug = slugify(entry.title, regex_subs=subs)
         kind = "article"
@@ -472,7 +503,9 @@ def get_out_filename(
             catname = slugify(categories[0], regex_subs=slug_subs)
         else:
             catname = ""
-        out_filename = os.path.join(output_path, typename, catname, filename + ext)
+        out_filename = os.path.join(
+            output_path, typename, catname, filename + ext
+        )
         if not os.path.isdir(os.path.join(output_path, typename, catname)):
             os.makedirs(os.path.join(output_path, typename, catname))
     # option to put files in directories with categories names
@@ -501,7 +534,10 @@ def get_attachments(xml):
 
         if kind == "attachment":
             attachments.append(
-                (item.find("post_parent").string, item.find("attachment_url").string)
+                (
+                    item.find("post_parent").string,
+                    item.find("attachment_url").string,
+                )
             )
         else:
             filename = get_filename(post_name, post_id)
@@ -681,17 +717,26 @@ def fields2pelican(
 
             if pandoc_version < (2,):
                 parse_raw = "--parse-raw" if not strip_raw else ""
-                wrap_none = "--wrap=none" if pandoc_version >= (1, 16) else "--no-wrap"
+                wrap_none = (
+                    "--wrap=none" if pandoc_version >= (1, 16) else "--no-wrap"
+                )
                 cmd = (
-                    "pandoc --normalize {0} --from=html" ' --to={1} {2} -o "{3}" "{4}"'
+                    "pandoc --normalize {0} --from=html"
+                    ' --to={1} {2} -o "{3}" "{4}"'
                 )
                 cmd = cmd.format(
-                    parse_raw, out_markup, wrap_none, out_filename, html_filename
+                    parse_raw,
+                    out_markup,
+                    wrap_none,
+                    out_filename,
+                    html_filename,
                 )
             else:
                 from_arg = "-f html+raw_html" if not strip_raw else "-f html"
                 cmd = 'pandoc {0} --to={1}-smart --wrap=none -o "{2}" "{3}"'
-                cmd = cmd.format(from_arg, out_markup, out_filename, html_filename)
+                cmd = cmd.format(
+                    from_arg, out_markup, out_filename, html_filename
+                )
 
             try:
                 rc = subprocess.call(cmd, shell=True)
@@ -744,19 +789,31 @@ def main():
 
     parser.add_argument(dest="input", help="The input file to read")
     parser.add_argument(
-        "--blogger", action="store_true", dest="blogger", help="Blogger XML export"
+        "--blogger",
+        action="store_true",
+        dest="blogger",
+        help="Blogger XML export",
     )
     parser.add_argument(
-        "--dotclear", action="store_true", dest="dotclear", help="Dotclear export"
+        "--dotclear",
+        action="store_true",
+        dest="dotclear",
+        help="Dotclear export",
     )
     parser.add_argument(
-        "--posterous", action="store_true", dest="posterous", help="Posterous export"
+        "--posterous",
+        action="store_true",
+        dest="posterous",
+        help="Posterous export",
     )
     parser.add_argument(
         "--tumblr", action="store_true", dest="tumblr", help="Tumblr export"
     )
     parser.add_argument(
-        "--wpfile", action="store_true", dest="wpfile", help="Wordpress XML export"
+        "--wpfile",
+        action="store_true",
+        dest="wpfile",
+        help="Wordpress XML export",
     )
     parser.add_argument(
         "--feed", action="store_true", dest="feed", help="Feed to parse"
@@ -827,13 +884,22 @@ def main():
         "with your original posts.",
     )
     parser.add_argument(
-        "-e", "--email", dest="email", help="Email address (posterous import only)"
+        "-e",
+        "--email",
+        dest="email",
+        help="Email address (posterous import only)",
     )
     parser.add_argument(
-        "-p", "--password", dest="password", help="Password (posterous import only)"
+        "-p",
+        "--password",
+        dest="password",
+        help="Password (posterous import only)",
     )
     parser.add_argument(
-        "-b", "--blogname", dest="blogname", help="Blog name (Tumblr import only)"
+        "-b",
+        "--blogname",
+        dest="blogname",
+        help="Blog name (Tumblr import only)",
     )
 
     args = parser.parse_args()
@@ -866,7 +932,10 @@ def main():
             exit(error)
 
     if args.wp_attach and input_type != "wordpress":
-        error = "You must be importing a wordpress xml " "to use the --wp-attach option"
+        error = (
+            "You must be importing a wordpress xml "
+            "to use the --wp-attach option"
+        )
         exit(error)
 
     if input_type == "blogger":
