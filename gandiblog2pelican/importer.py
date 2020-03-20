@@ -294,7 +294,7 @@ def dc2fields(file):
 
         # post_id = fields[0][1:]
         # blog_id = fields[1]
-        # user_id = fields[2]
+        user_id = fields[2]
         cat_id = fields[3]
         post_dt = fields[4]
         # post_tz = fields[5]
@@ -324,7 +324,7 @@ def dc2fields(file):
         # remove seconds
         post_dt = ':'.join(post_dt.split(':')[0:2])
 
-        author = ''
+        author = user_id
 
         # Get tags related to a post
         # First, unescape characters that were escaped to store the data in
