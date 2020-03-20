@@ -258,16 +258,6 @@ def blogger2fields(xml):
 
 def dc2fields(file):
     """Opens a Dotclear export file, and yield pelican fields"""
-    try:
-        from bs4 import BeautifulSoup
-    except ImportError:
-        error = (
-            "Missing dependency "
-            '"BeautifulSoup4" and "lxml" required '
-            "to import Dotclear files."
-        )
-        sys.exit(error)
-
     in_cat = False
     in_post = False
     category_list = {}
