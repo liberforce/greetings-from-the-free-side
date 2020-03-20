@@ -1,8 +1,8 @@
-import gandiblog2pelican.importer as imp
+import gandiblog2pelican.parsers.dotclear as parser
 
 
 def test_simple():
-    field_gen = imp.dc2fields("tests/data/simple.txt")
+    field_gen = parser.dc2fields("tests/data/simple.txt")
     fields = []
     for fieldset in field_gen:
         for field in fieldset:
