@@ -8,13 +8,13 @@ import os.path
 # because logging.setLoggerClass has to be called before logging.getLogger
 from pelican.log import init
 
-from gandiblog2pelican.parsers.blogger import blogger2fields
-from gandiblog2pelican.parsers.dotclear import dc2fields
-from gandiblog2pelican.parsers.posterous import posterous2fields
-from gandiblog2pelican.parsers.tumblr import tumblr2fields
-from gandiblog2pelican.parsers.wordpress import wp2fields
-from gandiblog2pelican.parsers.feed import feed2fields
-from gandiblog2pelican.builders.common import (
+from blog2pelican.parsers.blogger import blogger2fields
+from blog2pelican.parsers.dotclear import dc2fields
+from blog2pelican.parsers.posterous import posterous2fields
+from blog2pelican.parsers.tumblr import tumblr2fields
+from blog2pelican.parsers.wordpress import wp2fields
+from blog2pelican.parsers.feed import feed2fields
+from blog2pelican.builders.common import (
     fields2pelican,
     get_attachments,
 )

@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
-import gandiblog2pelican.tool
+import blog2pelican.tool
 
 
 if __name__ == '__main__':
-    gandiblog2pelican.tool.main()
+    blog2pelican.tool.main()

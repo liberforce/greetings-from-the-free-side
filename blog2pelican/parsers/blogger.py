@@ -3,7 +3,7 @@ import os
 
 from pelican.utils import SafeDatetime
 
-from gandiblog2pelican.parsers.common import xml_to_soup
+from blog2pelican.parsers.common import xml_to_soup
 
 logger = logging.getLogger(__name__)
 

@@ -9,7 +9,7 @@ from html import unescape
 from pelican.log import init  # noqa
 from pelican.utils import SafeDatetime
 
-from gandiblog2pelican.parsers.common import xml_to_soup, get_filename
+from blog2pelican.parsers.common import xml_to_soup, get_filename
 
 logger = logging.getLogger(__name__)
 

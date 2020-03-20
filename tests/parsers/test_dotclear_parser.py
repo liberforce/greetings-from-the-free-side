@@ -1,4 +1,4 @@
-import gandiblog2pelican.parsers.dotclear as parser
+import blog2pelican.parsers.dotclear as parser
 
 
 def test_simple():

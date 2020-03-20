@@ -14,10 +14,10 @@ from urllib.request import urlretrieve
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
-from gandiblog2pelican.builders.rst import build_header
-from gandiblog2pelican.builders.markdown import build_markdown_header
-from gandiblog2pelican.parsers.common import get_filename, xml_to_soup
-from gandiblog2pelican.parsers.wordpress import decode_wp_content
+from blog2pelican.builders.rst import build_header
+from blog2pelican.builders.markdown import build_markdown_header
+from blog2pelican.parsers.common import get_filename, xml_to_soup
+from blog2pelican.parsers.wordpress import decode_wp_content
 
 logger = logging.getLogger(__name__)
 
