@@ -8,12 +8,7 @@ import os.path
 # because logging.setLoggerClass has to be called before logging.getLogger
 from pelican.log import init
 
-from blog2pelican.parsers.blogger import blogger2fields
-from blog2pelican.parsers.dotclear import dc2fields
-from blog2pelican.parsers.posterous import posterous2fields
-from blog2pelican.parsers.tumblr import tumblr2fields
-from blog2pelican.parsers.wordpress import wp2fields
-from blog2pelican.parsers.feed import feed2fields
+import blog2pelican
 from blog2pelican.renderers.common import (
     fields2pelican,
     get_attachments,
@@ -179,18 +174,8 @@ def main():
         )
         exit(error)
 
-    if input_type == "blogger":
-        fields = blogger2fields(args.input)
-    elif input_type == "dotclear":
-        fields = dc2fields(args.input)
-    elif input_type == "posterous":
-        fields = posterous2fields(args.input, args.email, args.password)
-    elif input_type == "tumblr":
-        fields = tumblr2fields(args.input, args.blogname)
-    elif input_type == "wordpress":
-        fields = wp2fields(args.input, args.wp_custpost or False)
-    elif input_type == "feed":
-        fields = feed2fields(args.input)
+    parser = blog2pelican.parsers.make_parser(input_type, args)
+    fields = parser.parse()
 
     if args.wp_attach:
         attachments = get_attachments(args.input)

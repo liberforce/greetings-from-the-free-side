@@ -1,8 +1,9 @@
-import blog2pelican.parsers.dotclear as parser
+from blog2pelican.parsers.dotclear import DotclearParser
 
 
 def test_simple():
-    field_gen = parser.dc2fields("tests/data/simple.txt")
+    parser = DotclearParser("tests/data/simple.txt")
+    field_gen = parser.parse()
     fields = []
     for fieldset in field_gen:
         for field in fieldset:
