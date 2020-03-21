@@ -23,46 +23,22 @@ def create_argument_parser():
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
 
+    parser.add_argument(
+        "engine",
+        choices=["blogger", "dotclear", "posterous", "tumblr", "wordpress", "feed"],
+        help="Format of the input file",
+    )
     parser.add_argument(dest="input", help="The input file to read")
-    parser.add_argument(
-        "--blogger",
-        action="store_true",
-        dest="blogger",
-        help="Blogger XML export",
-    )
-    parser.add_argument(
-        "--dotclear",
-        action="store_true",
-        dest="dotclear",
-        help="Dotclear export",
-    )
-    parser.add_argument(
-        "--posterous",
-        action="store_true",
-        dest="posterous",
-        help="Posterous export",
-    )
-    parser.add_argument(
-        "--tumblr", action="store_true", dest="tumblr", help="Tumblr export"
-    )
-    parser.add_argument(
-        "--wpfile",
-        action="store_true",
-        dest="wpfile",
-        help="Wordpress XML export",
-    )
-    parser.add_argument(
-        "--feed", action="store_true", dest="feed", help="Feed to parse"
-    )
     parser.add_argument(
         "-o", "--output", dest="output", default="content", help="Output path"
     )
     parser.add_argument(
         "-m",
         "--markup",
+        choices=["rst", "markdown"],
         dest="markup",
         default="rst",
-        help="Output markup format (supports rst & markdown)",
+        help="Output markup format",
     )
     parser.add_argument(
         "--dir-cat",
@@ -144,26 +120,6 @@ def main():
     argument_parser = create_argument_parser()
     args = argument_parser.parse_args()
 
-    input_type = None
-    if args.blogger:
-        input_type = "blogger"
-    elif args.dotclear:
-        input_type = "dotclear"
-    elif args.posterous:
-        input_type = "posterous"
-    elif args.tumblr:
-        input_type = "tumblr"
-    elif args.wpfile:
-        input_type = "wordpress"
-    elif args.feed:
-        input_type = "feed"
-    else:
-        error = (
-            "You must provide either --blogger, --dotclear, "
-            "--posterous, --tumblr, --wpfile or --feed options"
-        )
-        exit(error)
-
     if not os.path.exists(args.output):
         try:
             os.mkdir(args.output)
@@ -171,14 +127,14 @@ def main():
             error = "Unable to create the output folder: " + args.output
             exit(error)
 
-    if args.wp_attach and input_type != "wordpress":
+    if args.wp_attach and args.engine != "wordpress":
         error = (
             "You must be importing a wordpress xml "
             "to use the --wp-attach option"
         )
         exit(error)
 
-    parser = blog2pelican.parsers.make_parser(input_type, args)
+    parser = blog2pelican.parsers.make_parser(args.engine, args)
     fields = parser.parse()
 
     if args.wp_attach:
