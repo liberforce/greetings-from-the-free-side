@@ -1,5 +1,3 @@
-
-
 def build_markdown_header(
     title, date, author, categories, tags, slug, status=None, attachments=None
 ):

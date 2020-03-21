@@ -124,7 +124,9 @@ class WordpressParser(blog2pelican.parsers.Parser):
                     title = unescape(item.title.contents[0])
                 except IndexError:
                     title = "No title [%s]" % item.find("post_name").string
-                    logger.warning('Post "%s" is lacking a proper title', title)
+                    logger.warning(
+                        'Post "%s" is lacking a proper title', title
+                    )
 
                 post_name = item.find("post_name").string
                 post_id = item.find("post_id").string
