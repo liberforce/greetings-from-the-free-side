@@ -15,7 +15,7 @@ from blog2pelican.renderers.common import (
 )
 
 
-def main():
+def create_argument_parser():
     parser = argparse.ArgumentParser(
         description="Transform feed, Blogger, Dotclear, Posterous, Tumblr, or"
         "WordPress files into reST (rst) or Markdown (md) files. "
@@ -137,8 +137,12 @@ def main():
         dest="blogname",
         help="Blog name (Tumblr import only)",
     )
+    return parser
 
-    args = parser.parse_args()
+
+def main():
+    argument_parser = create_argument_parser()
+    args = argument_parser.parse_args()
 
     input_type = None
     if args.blogger:
