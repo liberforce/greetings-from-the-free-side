@@ -3,4 +3,5 @@
 this_script=$(readlink -e "$0")
 this_script_dir=$(realpath $(dirname "${this_script}"))
 
-"${this_script_dir}/import.py" dotclear --strip-raw -m markdown "$@"
+cd "${this_script_dir}"
+/usr/bin/env python -m blog2pelican.tool --markup markdown dotclear "$@"
