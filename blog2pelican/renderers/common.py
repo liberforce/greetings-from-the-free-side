@@ -14,8 +14,6 @@ from urllib.request import urlretrieve
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
-from blog2pelican.renderers.rst import RstRenderer
-from blog2pelican.renderers.markdown import build_markdown_header
 from blog2pelican.parsers.common import get_filename, xml_to_soup
 from blog2pelican.parsers.wordpress import decode_wp_content
 
@@ -235,29 +233,26 @@ def fields2pelican(
 
         ext = get_ext(out_markup, in_markup)
         if ext == ".md":
-            header = build_markdown_header(
-                title,
-                date,
-                author,
-                categories,
-                tags,
-                slug,
-                status,
-                links.values() if links else None,
-            )
+            from blog2pelican.renderers.markdown import MarkdownRenderer
+
+            renderer_class = MarkdownRenderer
         else:
             out_markup = "rst"
-            renderer = RstRenderer(
-                title,
-                date,
-                author,
-                categories,
-                tags,
-                slug,
-                status,
-                links.values() if links else None,
-            )
-            header = renderer.render()
+            from blog2pelican.renderers.rst import RstRenderer
+
+            renderer_class = RstRenderer
+
+        renderer = renderer_class(
+            title,
+            date,
+            author,
+            categories,
+            tags,
+            slug,
+            status,
+            links.values() if links else None,
+        )
+        header = renderer.render()
 
         out_filename = get_out_filename(
             output_path,
