@@ -3,5 +3,4 @@
 this_script=$(readlink -e "$0")
 this_script_dir=$(realpath $(dirname "${this_script}"))
 
-cd "${this_script_dir}"
-/usr/bin/env python -m blog2pelican.tool --markup markdown dotclear "$@"
+PYTHONPATH="${this_script_dir}" /usr/bin/env python -m blog2pelican.tool --markup markdown dotclear "$@"
