@@ -13,14 +13,20 @@ class PandocAdapter:
         self.name = "Pandoc"
 
     def _get_version(self):
+        version = ()
+
         cmd = ["pandoc", "--version"]
         try:
-            output = subprocess.check_output(cmd, universal_newlines=True)
-        except (subprocess.CalledProcessError, OSError) as e:
+            output = subprocess.run(cmd, check=True)
+            version = tuple(int(i) for i in output.split()[1].split("."))
+        except FileNotFoundError:
+            logger.warning(
+                "Pandoc not found, please check it is installed and in your PATH."
+            )
+        except (subprocess.CalledProcessError, OSError, ValueError) as e:
             logger.warning("Pandoc version unknown: %s", e)
-            return ()
 
-        return tuple(int(i) for i in output.split()[1].split("."))
+        return version
 
     @property
     def version(self):
