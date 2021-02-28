@@ -2,6 +2,8 @@ import blog2pelican.renderers
 
 
 class RstRenderer(blog2pelican.renderers.Renderer):
+    file_ext = "rst"
+
     def render(self):
         """Build a header from a list of fields"""
 

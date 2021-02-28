@@ -2,6 +2,8 @@ import blog2pelican.renderers
 
 
 class MarkdownRenderer(blog2pelican.renderers.Renderer):
+    file_ext = "md"
+
     def render(self):
         """Build a header from a list of fields"""
         header = "Title: %s\n" % self.title

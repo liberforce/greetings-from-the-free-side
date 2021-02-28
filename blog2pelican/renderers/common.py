@@ -15,16 +15,9 @@ from pelican.utils import slugify
 
 from blog2pelican.parsers.common import get_filename, xml_to_soup
 from blog2pelican.adapters.pandoc import PandocAdapter
+from blog2pelican.renderers import RendererFactory
 
 logger = logging.getLogger(__name__)
-
-
-def get_ext(out_markup, in_markup="html"):
-    if in_markup == "markdown" or out_markup == "markdown":
-        ext = ".md"
-    else:
-        ext = ".rst"
-    return ext
 
 
 def get_out_filename(
@@ -49,13 +42,13 @@ def get_out_filename(
         filename = "_"
     filename = filename[:249]  # allow for 5 extra characters
 
-    out_filename = os.path.join(output_path, filename + ext)
+    out_filename = os.path.join(output_path, ".".join(filename, ext))
     # option to put page posts in pages/ subdirectory
     if dirpage and kind == "page":
         pages_dir = os.path.join(output_path, "pages")
         if not os.path.isdir(pages_dir):
             os.mkdir(pages_dir)
-        out_filename = os.path.join(pages_dir, filename + ext)
+        out_filename = os.path.join(pages_dir, ".".join(filename, ext))
     elif not dirpage and kind == "page":
         pass
     # option to put wp custom post types in directories with post type
@@ -72,14 +65,16 @@ def get_out_filename(
         else:
             catname = ""
         out_filename = os.path.join(
-            output_path, typename, catname, filename + ext
+            output_path, typename, catname, ".".join(filename, ext),
         )
         if not os.path.isdir(os.path.join(output_path, typename, catname)):
             os.makedirs(os.path.join(output_path, typename, catname))
     # option to put files in directories with categories names
     elif dircat and (len(categories) > 0):
         catname = slugify(categories[0], regex_subs=slug_subs)
-        out_filename = os.path.join(output_path, catname, filename + ext)
+        out_filename = os.path.join(
+            output_path, catname, ".".join(filename, ext),
+        )
         if not os.path.isdir(os.path.join(output_path, catname)):
             os.mkdir(os.path.join(output_path, catname))
 
@@ -209,16 +204,7 @@ def fields2pelican(
         else:
             links = None
 
-        ext = get_ext(out_markup, in_markup)
-        if ext == ".md":
-            from blog2pelican.renderers.markdown import MarkdownRenderer
-
-            renderer_class = MarkdownRenderer
-        else:
-            out_markup = "rst"
-            from blog2pelican.renderers.rst import RstRenderer
-
-            renderer_class = RstRenderer
+        renderer_class = RendererFactory.from_markup(in_markup, out_markup)
 
         renderer = renderer_class(
             title,
@@ -235,7 +221,7 @@ def fields2pelican(
         out_filename = get_out_filename(
             output_path,
             filename,
-            ext,
+            renderer.file_ext,
             kind,
             dirpage,
             dircat,
