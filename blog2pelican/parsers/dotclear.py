@@ -19,6 +19,33 @@ class DotclearParser(blog2pelican.parsers.Parser):
     def __init__(self, filepath):
         self.filepath = filepath
 
+    def _get_tags(self, post_meta, post_title=None):
+        """
+        Get tags related to a post
+        """
+        # Unclassified posts will get a special tag.
+        # This will make it easier to find them afterwards.
+        tags = ['Unclassified']
+
+        # First, unescape characters that were escaped to store the data in
+        # the backup file in CSV-like format
+        post_meta = post_meta.replace("\\", "")
+        if not post_meta:
+            logger.debug("post has no metadata: '%s'", post_title)
+            return tags
+
+        tags_dict = phpserialize.loads(post_meta.encode("utf-8"))
+
+        if not tags_dict:
+            logger.debug("post has really no tags: '%s'", post_title)
+            return tags
+
+        if b"tag" not in tags_dict:
+            logger.debug("post has no tags: '%s'", post_title)
+            return tags
+
+        tags = [tag.decode("utf-8") for tag in tags_dict[b"tag"].values()]
+
     def parse(self):
         """Opens a Dotclear export file, and yield pelican fields"""
         in_cat = False
@@ -93,12 +120,7 @@ class DotclearParser(blog2pelican.parsers.Parser):
 
             author = user_id
 
-            # Get tags related to a post
-            # First, unescape characters that were escaped to store the data in
-            # the backup file in CSV-like format
-            post_meta = post_meta.replace("\\", "")
-            tags_dict = phpserialize.loads(post_meta.encode("utf-8"))
-            tags = [tag.decode("utf-8") for tag in tags_dict[b"tag"].values()]
+            tags = self._get_tags(post_meta, post_title)
 
             categories = []
             if cat_id:
