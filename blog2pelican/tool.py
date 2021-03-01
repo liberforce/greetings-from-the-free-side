@@ -4,15 +4,20 @@
 import argparse
 import os
 import os.path
+import logging
 
 # because logging.setLoggerClass has to be called before logging.getLogger
 from pelican.log import init
 
 import blog2pelican
+from blog2pelican.content import Content
 from blog2pelican.renderers.common import (
     fields2pelican,
     get_attachments,
+    download_attachments,
 )
+
+logger = logging.getLogger(__name__)
 
 
 def create_argument_parser():
@@ -139,26 +144,34 @@ def main():
     parser = blog2pelican.parsers.make_parser(args.engine, args)
     fields = parser.parse()
 
-    if "wp_attach" in args and args.wp_attach:
-        attachments = get_attachments(args.input)
-    else:
-        attachments = None
+    wp_attach = args.wp_attach if "wp_attach" in args else False
+    attachments = get_attachments(args.input) if wp_attach else {}
 
     # init logging
     init()
-    fields2pelican(
-        fields,
-        args.markup,
-        args.output,
-        dircat=args.dircat or False,
-        dirpage="dirpage" in args and args.dirpage or False,
-        strip_raw="strip_raw" in args and args.strip_raw or False,
-        disable_slugs="disable_slugs" in args and args.disable_slugs or False,
-        filter_author=args.author,
-        wp_custpost="wp_custpost" in args and args.wp_custpost or False,
-        wp_attach="wp_attach" in args and args.wp_attach or False,
-        attachments=attachments or None,
-    )
+
+    for content_fields in tuple(fields):
+        content = Content(*content_fields)
+        fields2pelican(
+            content,
+            args.markup,
+            args.output,
+            dircat=args.dircat or False,
+            dirpage="dirpage" in args and args.dirpage or False,
+            strip_raw="strip_raw" in args and args.strip_raw or False,
+            disable_slugs="disable_slugs" in args
+            and args.disable_slugs
+            or False,
+            filter_author=args.author,
+            wp_custpost="wp_custpost" in args and args.wp_custpost or False,
+            wp_attach=wp_attach,
+            attachments=attachments,
+        )
+
+    urls = attachments.get(None)
+    if wp_attach and urls:
+        print("downloading attachments that don't have a parent post")
+        download_attachments(args.output, urls)
 
 
 if __name__ == "__main__":

@@ -13,6 +13,7 @@ from urllib.request import urlretrieve
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
+from blog2pelican import ProcessingStatus
 from blog2pelican.parsers.common import get_filename, xml_to_soup
 from blog2pelican.adapters.pandoc import PandocAdapter
 from blog2pelican.renderers import RendererFactory
@@ -152,7 +153,7 @@ def download_attachments(output_path, urls):
 
 
 def fields2pelican(
-    fields,
+    content,
     out_markup,
     output_path,
     dircat=False,
@@ -167,92 +168,76 @@ def fields2pelican(
 ):
 
     adapter = PandocAdapter()
-    skipped_posts = []
 
     settings = read_settings()
     slug_subs = settings["SLUG_REGEX_SUBSTITUTIONS"]
 
-    for (
-        title,
-        content,
-        filename,
-        date,
-        author,
-        categories,
-        tags,
-        status,
-        kind,
-        in_markup,
-    ) in fields:
-        # Skip posts not written by a given author
-        if filter_author and filter_author != author:
-            continue
+    # Skip posts not written by a given author
+    if filter_author and filter_author != content.author:
+        content.processing_status = ProcessingStatus.SKIPPED
+        return
 
-        # Look for posts that require a markup conversion
-        if adapter.supports(in_markup) and not adapter.available:
-            skipped_posts.append(filename)
-            continue
-
-        slug = filename if not disable_slugs else None
-
-        if wp_attach and attachments:
-            try:
-                urls = attachments[filename]
-                links = download_attachments(output_path, urls)
-            except KeyError:
-                links = None
-        else:
-            links = None
-
-        renderer_class = RendererFactory.from_markup(in_markup, out_markup)
-
-        renderer = renderer_class(
-            title,
-            date,
-            author,
-            categories,
-            tags,
-            slug,
-            status,
-            links.values() if links else None,
-        )
-        header = renderer.render()
-
-        out_filename = get_out_filename(
-            output_path,
-            filename,
-            renderer.file_ext,
-            kind,
-            dirpage,
-            dircat,
-            categories,
-            wp_custpost,
-            slug_subs,
-        )
-        print(out_filename)
-
-        output_content = adapter.adapt(
-            in_markup,
-            out_markup,
-            output_path,
-            filename,
-            content,
-            strip_raw,
-            wp_attach,
-            links,
-            out_filename,
-        )
-
-        with open(out_filename, "w", encoding="utf-8") as fs:
-            fs.write(header + output_content)
-
-    if skipped_posts:
+    # Look for posts that require a markup conversion
+    if adapter.supports(content.in_markup) and not adapter.available:
+        content.processing_status = ProcessingStatus.FAILURE
         logger.warning(
-            "{} must be installed to import the following posts:"
-            "\n  {}".format(adapter.name, "\n  ".join(skipped_posts))
+            "{} is missing, failed to import: '{}'".format(
+                adapter.name, content.filename,
+            )
         )
+        return
 
-    if wp_attach and attachments and None in attachments:
-        print("downloading attachments that don't have a parent post")
-        urls = attachments[None]
-        download_attachments(output_path, urls)
+    content.slug = content.filename if not disable_slugs else None
+
+    if wp_attach and attachments:
+        try:
+            urls = attachments[content.filename]
+            links = download_attachments(output_path, urls)
+        except KeyError:
+            links = None
+    else:
+        links = None
+
+    renderer_class = RendererFactory.from_markup(content.in_markup, out_markup)
+
+    renderer = renderer_class(
+        content.title,
+        content.date,
+        content.author,
+        content.categories,
+        content.tags,
+        content.slug,
+        content.status,
+        links.values() if links else None,
+    )
+    header = renderer.render()
+
+    out_filename = get_out_filename(
+        output_path,
+        content.filename,
+        renderer.file_ext,
+        content.kind,
+        dirpage,
+        dircat,
+        content.categories,
+        wp_custpost,
+        slug_subs,
+    )
+    print(out_filename)
+
+    output_content = adapter.adapt(
+        content.in_markup,
+        out_markup,
+        output_path,
+        content.filename,
+        content.content,
+        strip_raw,
+        wp_attach,
+        links,
+        out_filename,
+    )
+
+    with open(out_filename, "w", encoding="utf-8") as fs:
+        fs.write(header + output_content)
+
+    content.processing_status = ProcessingStatus.SUCCESS
