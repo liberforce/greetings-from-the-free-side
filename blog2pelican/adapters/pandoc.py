@@ -54,7 +54,7 @@ class PandocAdapter:
         links,
         out_filename,
     ):
-        if in_markup not in ("html", "wp-html"):
+        if not self.supports(in_markup):
             return content
 
         html_filename = os.path.join(output_path, filename + ".html")
