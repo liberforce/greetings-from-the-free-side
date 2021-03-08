@@ -1,11 +1,10 @@
-from blog2pelican.parsers.dotclear import DotclearParser
+from blog2pelican.repositories.dotclear import DotclearRepository
 
 
 def test_simple():
-    parser = DotclearParser("tests/data/simple.txt")
-    field_gen = parser.parse()
+    repo = DotclearRepository("tests/data/simple.txt")
     fields = []
-    for fieldset in field_gen:
+    for fieldset in iter(repo):
         for field in fieldset:
             fields.append(field)
 

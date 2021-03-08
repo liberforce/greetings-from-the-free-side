@@ -9,13 +9,13 @@ from pelican.log import init  # noqa
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
-import blog2pelican.parsers
+import blog2pelican.repositories
 
 
 logger = logging.getLogger(__name__)
 
 
-class DotclearParser(blog2pelican.parsers.Parser):
+class DotclearRepository(blog2pelican.repositories.Repository):
     def __init__(self, filepath):
         self.filepath = filepath
 
@@ -54,7 +54,6 @@ class DotclearParser(blog2pelican.parsers.Parser):
         posts = []
 
         with open(self.filepath, "r", encoding="utf-8") as f:
-
             for line in f:
                 # remove final \n
                 line = line[:-1]

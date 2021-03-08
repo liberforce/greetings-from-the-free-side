@@ -14,7 +14,7 @@ from pelican.settings import read_settings
 from pelican.utils import slugify
 
 from blog2pelican import ProcessingStatus
-from blog2pelican.parsers.common import get_filename, xml_to_soup
+from blog2pelican.repositories.common import get_filename, xml_to_soup
 from blog2pelican.adapters.pandoc import PandocAdapter
 from blog2pelican.renderers import RendererFactory
 

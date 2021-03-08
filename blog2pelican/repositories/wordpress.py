@@ -10,7 +10,7 @@ from pelican.log import init  # noqa
 from pelican.utils import SafeDatetime
 
 import blog2pelican
-from blog2pelican.parsers.common import xml_to_soup, get_filename
+from blog2pelican.repositories.common import xml_to_soup, get_filename
 
 logger = logging.getLogger(__name__)
 
@@ -105,7 +105,7 @@ def decode_wp_content(content, br=True):
     return content
 
 
-class WordpressParser(blog2pelican.parsers.Parser):
+class WordpressRepository(blog2pelican.repositories.Repository):
     def __init__(self, filepath, wp_custpost=False):
         self.filepath = filepath
         self.wp_custpost = wp_custpost

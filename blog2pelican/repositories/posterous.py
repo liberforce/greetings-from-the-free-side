@@ -3,12 +3,12 @@ import logging
 from pelican.settings import read_settings
 from pelican.utils import SafeDatetime, slugify
 
-import blog2pelican.parsers
+import blog2pelican
 
 logger = logging.getLogger(__name__)
 
 
-class PosterousParser(blog2pelican.parsers.Parser):
+class PosterousRepository(blog2pelican.repositories.Repository):
     def __init__(self, api_token, email, password):
         self.api_token = api_token
         self.email = email

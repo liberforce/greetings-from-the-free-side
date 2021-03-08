@@ -8,7 +8,7 @@ import blog2pelican
 logger = logging.getLogger(__name__)
 
 
-class TumblrParser(blog2pelican.parsers.Parser):
+class TumblrRepository(blog2pelican.repositories.Repository):
     def __init__(self, api_key, blogname):
         self.api_key = api_key
         self.blogname = blogname

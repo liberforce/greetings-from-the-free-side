@@ -9,7 +9,7 @@ import blog2pelican
 logger = logging.getLogger(__name__)
 
 
-class FeedParser(blog2pelican.parsers.Parser):
+class FeedRepository(blog2pelican.repositories.Repository):
     def __init__(self, filepath):
         self.filepath = filepath
 

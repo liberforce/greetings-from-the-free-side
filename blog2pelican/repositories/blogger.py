@@ -4,12 +4,12 @@ import os
 from pelican.utils import SafeDatetime
 
 import blog2pelican
-from blog2pelican.parsers.common import xml_to_soup
+from blog2pelican.repositories.common import xml_to_soup
 
 logger = logging.getLogger(__name__)
 
 
-class BloggerParser(blog2pelican.parsers.Parser):
+class BloggerRepository(blog2pelican.repositories.Repository):
     def __init__(self, filepath):
         self.filepath = filepath
 

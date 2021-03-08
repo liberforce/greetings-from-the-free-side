@@ -2,7 +2,7 @@ import logging
 import os.path
 import subprocess
 
-from blog2pelican.parsers.wordpress import decode_wp_content
+from blog2pelican.repositories.wordpress import decode_wp_content
 
 logger = logging.getLogger(__name__)
 
