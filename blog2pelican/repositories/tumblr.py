@@ -125,17 +125,17 @@ class TumblrRepository(blog2pelican.repositories.Repository):
                 kind = "article"
                 status = "published"  # TODO: Find a way for draft posts
 
-                yield (
-                    title,
-                    content,
-                    slug,
-                    date,
-                    post.get("blog_name"),
-                    [type],
-                    tags,
-                    status,
-                    kind,
-                    format,
+                yield blog2pelican.entities.content.Content(
+                    title=title,
+                    content=content,
+                    slug=slug,
+                    date=date,
+                    author=post.get("blog_name"),
+                    categories=[type],
+                    tags=tags,
+                    status=status,
+                    kind=kind,
+                    post_format=format,
                 )
 
             offset += len(posts)

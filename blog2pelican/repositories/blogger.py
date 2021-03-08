@@ -71,15 +71,15 @@ class BloggerRepository(blog2pelican.repositories.Repository):
             except AttributeError:
                 pass
 
-            yield (
-                title,
-                content,
-                filename,
-                date,
-                author,
-                None,
-                tags,
-                status,
-                kind,
-                "html",
+            yield blog2pelican.entities.content.Content(
+                title=title,
+                content=content,
+                slug=filename,
+                date=date,
+                author=author,
+                categories=None,
+                tags=tags,
+                status=status,
+                kind=kind,
+                post_format="html",
             )

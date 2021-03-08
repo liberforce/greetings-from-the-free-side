@@ -60,15 +60,15 @@ class PosterousRepository(blog2pelican.repositories.Repository):
                 kind = "article"  # TODO: Recognise pages
                 status = "published"  # TODO: Find a way for draft posts
 
-                yield (
-                    post.get("title"),
-                    post.get("body_cleaned"),
-                    slug,
-                    date,
-                    post.get("user").get("display_name"),
-                    [],
-                    tags,
-                    status,
-                    kind,
-                    "html",
+                yield blog2pelican.entities.content.Content(
+                    title=post.get("title"),
+                    content=post.get("body_cleaned"),
+                    slug=slug,
+                    date=date,
+                    author=post.get("user").get("display_name"),
+                    categories=[],
+                    tags=tags,
+                    status=status,
+                    kind=kind,
+                    post_format="html",
                 )

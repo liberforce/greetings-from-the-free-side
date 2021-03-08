@@ -174,15 +174,16 @@ class WordpressRepository(blog2pelican.repositories.Repository):
                         pass
                     else:
                         kind = post_type
-                yield (
-                    title,
-                    content,
-                    filename,
-                    date,
-                    author,
-                    categories,
-                    tags,
-                    status,
-                    kind,
-                    "wp-html",
+
+                yield blog2pelican.entities.content.Content(
+                    title=title,
+                    content=content,
+                    slug=filename,
+                    date=date,
+                    author=author,
+                    categories=categories,
+                    tags=tags,
+                    status=status,
+                    kind=kind,
+                    post_format="wp-html",
                 )

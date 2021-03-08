@@ -9,7 +9,7 @@ from pelican.log import init  # noqa
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
-import blog2pelican.repositories
+import blog2pelican
 
 
 logger = logging.getLogger(__name__)
@@ -25,7 +25,7 @@ class DotclearRepository(blog2pelican.repositories.Repository):
         """
         # Unclassified posts will get a special tag.
         # This will make it easier to find them afterwards.
-        tags = ['Unclassified']
+        tags = ["Unclassified"]
 
         # First, unescape characters that were escaped to store the data in
         # the backup file in CSV-like format
@@ -143,7 +143,7 @@ class DotclearRepository(blog2pelican.repositories.Repository):
             kind = "article"  # TODO: Recognise pages
             status = "published"  # TODO: Find a way for draft posts
 
-            yield (
+            yield blog2pelican.entities.content.Content(
                 post_title,
                 content,
                 slugify(post_title, regex_subs=subs),

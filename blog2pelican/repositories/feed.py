@@ -35,15 +35,15 @@ class FeedRepository(blog2pelican.repositories.Repository):
 
             slug = slugify(entry.title, regex_subs=subs)
             kind = "article"
-            yield (
-                entry.title,
-                entry.description,
-                slug,
-                date,
-                author,
-                [],
-                tags,
-                None,
-                kind,
-                "html",
+            yield blog2pelican.entities.content.Content(
+                title=entry.title,
+                content=entry.description,
+                slug=slug,
+                date=date,
+                author=author,
+                categories=[],
+                tags=tags,
+                status=None,
+                kind=kind,
+                post_format="html",
             )
