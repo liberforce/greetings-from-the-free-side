@@ -45,6 +45,7 @@ class DotclearRepository(blog2pelican.repositories.Repository):
             return tags
 
         tags = [tag.decode("utf-8") for tag in tags_dict[b"tag"].values()]
+        return tags
 
     def parse(self):
         """Opens a Dotclear export file, and yield pelican fields"""
