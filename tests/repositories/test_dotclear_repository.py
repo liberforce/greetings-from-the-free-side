@@ -3,7 +3,7 @@ from blog2pelican.entities.content import Content
 
 
 def test_simple():
-    repo = DotclearRepository("tests/data/simple.txt")
+    repo = DotclearRepository("tests/data/repositories/dotclear/simple.txt")
     content = next(iter(repo))
 
     expected = Content(
