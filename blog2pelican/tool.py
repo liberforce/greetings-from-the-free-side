@@ -122,8 +122,9 @@ def create_argument_parser():
 def main():
     argument_parser = create_argument_parser()
     args = argument_parser.parse_args()
+    repository = blog2pelican.repositories.make_repository(args.engine, args)
     service = blog2pelican.services.migration.Blog2PelicanMigrationService()
-    service.migrate_blog_to_pelican(args)
+    service.migrate_blog_to_pelican(repository, args.output, args)
 
 
 if __name__ == "__main__":

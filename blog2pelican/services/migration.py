@@ -14,7 +14,7 @@ from pelican.log import init
 
 
 class Blog2PelicanMigrationService:
-    def _create_output_dir(dirpath):
+    def _create_output_dir(self, dirpath):
         # FIXME: will break if path exists but is not a directory
         if not os.path.exists(dirpath):
             try:
@@ -23,19 +23,15 @@ class Blog2PelicanMigrationService:
                 error = "Unable to create the output folder: " + dirpath
                 exit(error)
 
-    def migrate_blog_to_pelican(self, args):
-        self._create_output_dir(args.output)
-        parser = blog2pelican.parsers.make_parser(args.engine, args)
-        fields = parser.parse()
-
+    def migrate_blog_to_pelican(self, repository, output_dir, args):
+        self._create_output_dir(output_dir)
         wp_attach = args.wp_attach if "wp_attach" in args else False
         attachments = get_attachments(args.input) if wp_attach else {}
 
         # init logging
         init()
 
-        for content_fields in tuple(fields):
-            content = Content(*content_fields)
+        for content in iter(repository):
             fields2pelican(
                 content,
                 args.markup,
