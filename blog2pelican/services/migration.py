@@ -23,9 +23,11 @@ class Blog2PelicanMigrationService:
                 error = "Unable to create the output folder: " + dirpath
                 exit(error)
 
-    def migrate_blog_to_pelican(self, repository, output_dir, args):
+    def migrate_blog_to_pelican(
+        self, repository, output_dir, output_markup, **kwargs,
+    ):
         self._create_output_dir(output_dir)
-        wp_attach = args.wp_attach if "wp_attach" in args else False
+        wp_attach = kwargs.get("wp_attach", False)
         attachments = get_attachments(args.input) if wp_attach else {}
 
         # init logging
@@ -34,18 +36,14 @@ class Blog2PelicanMigrationService:
         for content in iter(repository):
             fields2pelican(
                 content,
-                args.markup,
-                args.output,
-                dircat=args.dircat or False,
-                dirpage="dirpage" in args and args.dirpage or False,
-                strip_raw="strip_raw" in args and args.strip_raw or False,
-                disable_slugs="disable_slugs" in args
-                and args.disable_slugs
-                or False,
-                filter_author=args.author,
-                wp_custpost="wp_custpost" in args
-                and args.wp_custpost
-                or False,
+                output_dir,
+                output_markup,
+                dircat=kwargs.get("dircat", False),
+                dirpage=kwargs.get("dirpage", False),
+                strip_raw=kwargs.get("strip_raw", False),
+                disable_slugs=kwargs.get("disable_slugs", False),
+                filter_author=kwargs.get("author"),
+                wp_custpost=kwargs.get("wp_custpost", False),
                 wp_attach=wp_attach,
                 attachments=attachments,
             )
@@ -53,4 +51,4 @@ class Blog2PelicanMigrationService:
         urls = attachments.get(None)
         if wp_attach and urls:
             print("downloading attachments that don't have a parent post")
-            download_attachments(args.output, urls)
+            download_attachments(output_dir, urls)

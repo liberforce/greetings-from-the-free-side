@@ -59,6 +59,7 @@ def create_argument_parser():
             dest="dirpage",
             help=('Put files recognised as pages in "pages/" sub-directory'),
         )
+
     parser.add_argument(
         "--filter-author",
         dest="author",
@@ -122,9 +123,30 @@ def create_argument_parser():
 def main():
     argument_parser = create_argument_parser()
     args = argument_parser.parse_args()
-    repository = blog2pelican.repositories.make_repository(args.engine, args)
+
+    # Separate mandatory arguments from extra ones
+    engine = args.engine
+    del args.engine
+
+    input_file = args.input
+    del args.input
+
+    output_dir = args.output
+    del args.output
+
+    output_markup = args.markup
+    del args.markup
+
+    extra_args = vars(args)
+
+    # Build migration tool
+    repository = blog2pelican.repositories.make_repository(
+        engine, input_file, **extra_args,
+    )
     service = blog2pelican.services.migration.Blog2PelicanMigrationService()
-    service.migrate_blog_to_pelican(repository, args.output, args)
+    service.migrate_blog_to_pelican(
+        repository, output_dir, output_markup, **extra_args,
+    )
 
 
 if __name__ == "__main__":

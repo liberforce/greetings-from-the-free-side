@@ -154,8 +154,8 @@ def download_attachments(output_path, urls):
 
 def fields2pelican(
     content,
-    out_markup,
     output_path,
+    out_markup,
     dircat=False,
     strip_raw=False,
     disable_slugs=False,

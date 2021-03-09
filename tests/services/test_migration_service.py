@@ -1,5 +1,3 @@
-import os.path
-import blog2pelican
 from blog2pelican.services.migration import Blog2PelicanMigrationService
 from blog2pelican.repositories.dotclear import DotclearRepository
 
@@ -10,4 +8,5 @@ def test_dotclear_migration_service():
     repository = DotclearRepository(
         "tests/data/repositories/dotclear/simple.txt"
     )
-    service.migrate_blog_to_pelican(repository, output_dir, args=None)
+    output_markup = "markdown"
+    service.migrate_blog_to_pelican(repository, output_dir, output_markup)
