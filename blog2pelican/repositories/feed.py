@@ -45,5 +45,5 @@ class FeedRepository(blog2pelican.repositories.Repository):
                 tags=tags,
                 status=None,
                 kind=kind,
-                post_format="html",
+                markup="html",
             )

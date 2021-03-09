@@ -16,7 +16,7 @@ def test_simple():
         tags=["GUADEC", "GNOME"],
         status="published",
         kind="article",
-        post_format="html",
+        markup="html",
     )
 
     assert content == expected

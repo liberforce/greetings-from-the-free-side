@@ -185,5 +185,5 @@ class WordpressRepository(blog2pelican.repositories.Repository):
                     tags=tags,
                     status=status,
                     kind=kind,
-                    post_format="wp-html",
+                    markup="wp-html",
                 )

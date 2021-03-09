@@ -135,7 +135,7 @@ class TumblrRepository(blog2pelican.repositories.Repository):
                     tags=tags,
                     status=status,
                     kind=kind,
-                    post_format=format,
+                    markup=format,
                 )
 
             offset += len(posts)

@@ -13,4 +13,4 @@ class Content:
     tags: List[str]
     status: str
     kind: str
-    post_format: str
+    markup: str

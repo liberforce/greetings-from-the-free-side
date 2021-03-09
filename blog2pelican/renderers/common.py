@@ -178,11 +178,11 @@ def fields2pelican(
         return
 
     # Look for posts that require a markup conversion
-    if adapter.supports(content.in_markup) and not adapter.available:
+    if adapter.supports(content.markup) and not adapter.available:
         content.processing_status = ProcessingStatus.FAILURE
         logger.warning(
             "{} is missing, failed to import: '{}'".format(
-                adapter.name, content.filename,
+                adapter.name, content.slug,
             )
         )
         return
