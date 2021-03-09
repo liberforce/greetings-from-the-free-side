@@ -5,6 +5,8 @@ import argparse
 import logging
 
 import blog2pelican
+import blog2pelican.repositories
+import blog2pelican.services.migration
 
 logger = logging.getLogger(__name__)
 

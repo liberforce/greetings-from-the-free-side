@@ -10,6 +10,7 @@ from pelican.settings import read_settings
 from pelican.utils import slugify
 
 import blog2pelican
+import blog2pelican.entities.content
 
 
 logger = logging.getLogger(__name__)
