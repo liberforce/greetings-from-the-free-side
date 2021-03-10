@@ -1,8 +1,6 @@
 import os
 import os.path
 
-import blog2pelican
-from blog2pelican.content import Content
 from blog2pelican.renderers.common import (
     fields2pelican,
     get_attachments,
@@ -28,7 +26,7 @@ class Blog2PelicanMigrationService:
     ):
         self._create_output_dir(output_dir)
         wp_attach = kwargs.get("wp_attach", False)
-        attachments = get_attachments(args.input) if wp_attach else {}
+        attachments = get_attachments(kwargs.get("input")) if wp_attach else {}
 
         # init logging
         init()

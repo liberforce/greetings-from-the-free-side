@@ -9,4 +9,5 @@ def test_dotclear_migration_service():
         "tests/data/repositories/dotclear/simple.txt"
     )
     output_markup = "markdown"
+    breakpoint()
     service.migrate_blog_to_pelican(repository, output_dir, output_markup)
