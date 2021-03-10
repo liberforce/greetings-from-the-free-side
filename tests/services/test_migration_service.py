@@ -6,8 +6,11 @@ def test_dotclear_migration_service():
     service = Blog2PelicanMigrationService()
     output_dir = "content"
     repository = DotclearRepository(
-        "tests/data/repositories/dotclear/simple.txt"
+        "tests/data/repositories/dotclear/simple.txt",
     )
     output_markup = "markdown"
-    breakpoint()
-    service.migrate_blog_to_pelican(repository, output_dir, output_markup)
+    service.migrate_blog_to_pelican(
+        repository,
+        output_dir,
+        output_markup,
+    )

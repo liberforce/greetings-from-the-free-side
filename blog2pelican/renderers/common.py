@@ -66,7 +66,10 @@ def get_out_filename(
         else:
             catname = ""
         out_filename = os.path.join(
-            output_path, typename, catname, ".".join(filename, ext),
+            output_path,
+            typename,
+            catname,
+            ".".join(filename, ext),
         )
         if not os.path.isdir(os.path.join(output_path, typename, catname)):
             os.makedirs(os.path.join(output_path, typename, catname))
@@ -74,7 +77,9 @@ def get_out_filename(
     elif dircat and (len(categories) > 0):
         catname = slugify(categories[0], regex_subs=slug_subs)
         out_filename = os.path.join(
-            output_path, catname, ".".join(filename, ext),
+            output_path,
+            catname,
+            ".".join(filename, ext),
         )
         if not os.path.isdir(os.path.join(output_path, catname)):
             os.mkdir(os.path.join(output_path, catname))
@@ -182,7 +187,8 @@ def fields2pelican(
         content.processing_status = ProcessingStatus.FAILURE
         logger.warning(
             "{} is missing, failed to import: '{}'".format(
-                adapter.name, content.slug,
+                adapter.name,
+                content.slug,
             )
         )
         return

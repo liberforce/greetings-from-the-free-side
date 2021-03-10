@@ -81,7 +81,11 @@ class PandocAdapter:
                 ' --to={1} {2} -o "{3}" "{4}"'
             )
             cmd = cmd.format(
-                parse_raw, out_markup, wrap_none, out_filename, html_filename,
+                parse_raw,
+                out_markup,
+                wrap_none,
+                out_filename,
+                html_filename,
             )
         else:
             from_arg = "-f html+raw_html" if not strip_raw else "-f html"

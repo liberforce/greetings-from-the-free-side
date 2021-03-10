@@ -19,7 +19,9 @@ def make_repository(engine, input_, **kwargs):
         from blog2pelican.repositories.posterous import PosterousRepository
 
         return PosterousRepository(
-            input_, kwargs.get("email"), kwargs.get("password"),
+            input_,
+            kwargs.get("email"),
+            kwargs.get("password"),
         )
     elif engine == "tumblr":
         from blog2pelican.repositories.tumblr import TumblrRepository

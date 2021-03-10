@@ -31,12 +31,20 @@ def create_argument_parser():
         "feed",
     ]:
         cmdparsers[engine] = subparsers.add_parser(
-            engine, help="Import from %s" % engine
+            engine,
+            help="Import from %s" % engine,
         )
 
-    parser.add_argument(dest="input", help="The input file to read")
     parser.add_argument(
-        "-o", "--output", dest="output", default="content", help="Output path"
+        dest="input",
+        help="The input file to read",
+    )
+    parser.add_argument(
+        "-o",
+        "--output",
+        dest="output",
+        default="content",
+        help="Output path",
     )
     parser.add_argument(
         "-m",
@@ -109,15 +117,24 @@ def create_argument_parser():
     for engine in ["posterous"]:
         cmdparser = cmdparsers[engine]
         cmdparser.add_argument(
-            "-e", "--email", dest="email", help="Email address",
+            "-e",
+            "--email",
+            dest="email",
+            help="Email address",
         )
         cmdparser.add_argument(
-            "-p", "--password", dest="password", help="Password",
+            "-p",
+            "--password",
+            dest="password",
+            help="Password",
         )
     for engine in ["tumblr"]:
         cmdparser = cmdparsers[engine]
         cmdparser.add_argument(
-            "-b", "--blogname", dest="blogname", help="Blog name",
+            "-b",
+            "--blogname",
+            dest="blogname",
+            help="Blog name",
         )
     return parser
 
@@ -143,11 +160,16 @@ def main():
 
     # Build migration tool
     repository = blog2pelican.repositories.make_repository(
-        engine, input_file, **extra_args,
+        engine,
+        input_file,
+        **extra_args,
     )
     service = blog2pelican.services.migration.Blog2PelicanMigrationService()
     service.migrate_blog_to_pelican(
-        repository, output_dir, output_markup, **extra_args,
+        repository,
+        output_dir,
+        output_markup,
+        **extra_args,
     )
 
 

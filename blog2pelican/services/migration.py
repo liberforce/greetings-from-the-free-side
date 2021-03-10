@@ -22,7 +22,11 @@ class Blog2PelicanMigrationService:
                 exit(error)
 
     def migrate_blog_to_pelican(
-        self, repository, output_dir, output_markup, **kwargs,
+        self,
+        repository,
+        output_dir,
+        output_markup,
+        **kwargs,
     ):
         self._create_output_dir(output_dir)
         wp_attach = kwargs.get("wp_attach", False)
