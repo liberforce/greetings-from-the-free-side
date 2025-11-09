@@ -27,9 +27,7 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (
-    ("Mastodon", "https://framapiaf.org/@liberforce"),
-)
+SOCIAL = (("Mastodon", "https://framapiaf.org/@liberforce"),)
 
 DEFAULT_PAGINATION = 10
 
@@ -37,5 +35,5 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 # File location
-ARTICLE_URL = 'post/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
+ARTICLE_URL = "post/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
+ARTICLE_SAVE_AS = ARTICLE_URL + "index.html"
